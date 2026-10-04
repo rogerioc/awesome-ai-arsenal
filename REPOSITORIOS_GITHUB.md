@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **140 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **155 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, iOS, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-140-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-155-blue.svg)](#-categorias)
 
 </div>
 
@@ -34,6 +34,7 @@
 |---|---|---|
 | **500 AI Agents Projects** | [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | Coleção com mais de 500 tutoriais e projetos práticos de agentes autônomos de IA. |
 | **AI Agents for Beginners** | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Curso e guia oficial da Microsoft para criação e arquitetura de sistemas com agentes de IA. |
+| **AI Memory Architecture** | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Estudos práticos e implementações de arquiteturas de memória persistente para agentes de IA. |
 | **Aider** | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | Ferramenta de pair-programming de IA no terminal com suporte a git e múltiplos modelos. |
 | **AppAgent** | [mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent) | Agente multimodal que aprende e opera aplicativos Android como um humano. |
 | **Archify** | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Skill de agente para geração de diagramas de arquitetura, fluxo e ciclo de vida em HTML interativo com animações. |
@@ -66,11 +67,14 @@
 |---|---|---|
 | **AirLLM** | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Permite executar modelos LLM gigantes (70B+) em GPUs comuns com pouca VRAM via streaming de camadas. |
 | **Colibri** | [JustVugg/colibri](https://github.com/JustVugg/colibri) | Engine em C puro para rodar modelos gigantes (744B MoE) em laptops via streaming de disco. |
+| **Landscape of Thoughts** | [tmlr-group/landscape-of-thoughts](https://github.com/tmlr-group/landscape-of-thoughts) | Ferramenta de visualização e análise espacial do processo de raciocínio e cadeias de pensamento de LLMs. |
 | **LangWatch** | [langwatch/langwatch](https://github.com/langwatch/langwatch) | Plataforma open-source para observabilidade, testes automatizados e monitoramento de LLMs. |
+| **Manacá 1B Base** | [Instituto-IA-LNCC/manaca-1b-base](https://github.com/Instituto-IA-LNCC/manaca-1b-base) | Modelo de linguagem de 1 bilhão de parâmetros treinado pelo LNCC com foco em língua portuguesa. |
 | **Ollama** | [ollama/ollama](https://github.com/ollama/ollama) | Padrão da indústria para baixar e rodar modelos locais (Llama 3, DeepSeek, Mistral, Qwen). |
 | **OmniRoute** | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Gateway de IA unificado que conecta 350+ provedores e faz fallback inteligente de cotas e erros. |
 | **Open WebUI** | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Interface web auto-hospedada completa estilo ChatGPT, com suporte a Ollama, RAG e agentes. |
 | **Open-Notebook** | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | Caderno de estudos inteligente com RAG multi-documento para síntese e perguntas sobre PDFs (alternativa ao NotebookLM). |
+| **OpenViking** | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Engine de alta performance da ByteDance para inferência, decodificação e paralelismo de modelos de IA. |
 | **Overmind** | [overmind-core/overmind](https://github.com/overmind-core/overmind) | Stack que transforma dados de agentes em modelos especializados para tarefas específicas via fine-tuning. |
 | **RAGFlow** | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Motor de RAG open-source de nível corporativo com compreensão profunda de documentos complexos e interface de chat. |
 | **TensorZero** | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | Gateway e infraestrutura open-source para otimização, feedback e orquestração de LLMs em produção. |
@@ -121,13 +125,16 @@
 ---
 
 ### 5. 🛡️ Cibersegurança, Pentest & OSINT
-*Investigação de fontes abertas, análise de redes, emulação de hardware e testes de intrusão éticos.*
+*Investigação de fontes abertas, análise de redes, emulação de hardware, segurança mobile e testes de intrusão éticos.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
 | **Awesome Hacking** | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Coleção curada com os melhores repositórios, ferramentas e tutoriais de segurança ofensiva e defensiva. |
 | **Awesome OSINT** | [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | Diretório completo de ferramentas de coleta e inteligência de fontes públicas (Open Source Intelligence). |
+| **Codex Security** | [openai/codex-security](https://github.com/openai/codex-security) | Framework e recomendações de segurança da OpenAI para execução de coding agents em ambientes de produção. |
+| **dex2jar** | [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) | Ferramentas essenciais para trabalhar com arquivos Android .dex e converter para classes Java (.class / .jar). |
 | **Fieldwatch** | [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch) | Observador passivo e seguro de transmissões Wi-Fi e Bluetooth LE para Android. |
+| **IOSSecuritySuite** | [securing/IOSSecuritySuite](https://github.com/securing/IOSSecuritySuite) | Biblioteca open-source em Swift para segurança mobile: detecção de jailbreak, anti-debug, hooks e integridade. |
 | **Kali NetHunter** | [offensive-security/kali-nethunter](https://github.com/offensive-security/kali-nethunter) | Sistema operacional Kali Linux adaptado para smartphones Android (ver também [GitLab oficial](https://gitlab.com/kalilinux/nethunter/)). |
 | **Metasploit** | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | O framework de testes de invasão e validação de vulnerabilidades mais utilizado no mundo. |
 | **MVT (Mobile Verification Toolkit)** | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Kit forense open-source para análise e detecção de spywares sofisticados (como Pegasus) em smartphones. |
@@ -137,6 +144,7 @@
 | **OWASP MSTG** | [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) | Guia oficial da OWASP de testes de segurança, engenharia reversa e pentest em aplicativos móveis. |
 | **OWASP ZAP** | [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) | Scanner gratuito e de código aberto para encontrar falhas de segurança em aplicações web. |
 | **PhoneInfoga** | [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Ferramenta avançada para escaneamento e rastreamento de informações sobre números de telefone. |
+| **Pwdb-Public** | [FlameOfIgnis/Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) | Dataset e utilitários para análise forense e auditoria de credenciais vazadas em pentest defensivo. |
 | **RuView** | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Transforma sinais Wi-Fi em inteligência espacial em tempo real, presença e monitoramento sem câmeras. |
 | **Sherlock** | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Localiza perfis e contas de um mesmo nome de usuário em centenas de redes sociais simultaneamente. |
 | **Strix** | [usestrix/strix](https://github.com/usestrix/strix) | Scanner de vulnerabilidades e segurança ofensiva automatizado para aplicações web e APIs. |
@@ -147,18 +155,24 @@
 ---
 
 ### 6. 💻 Ferramentas de Desenvolvimento & Terminal
-*Utilitários que aumentam a produtividade diária de desenvolvedores e melhoram o fluxo de trabalho.*
+*Utilitários, frameworks mobile/iOS, padrões de arquitetura e ferramentas que aumentam a produtividade dev.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
+| **Andronix** | [AndronixApp/Andronix](https://github.com/AndronixApp/Andronix) | Permite instalar distribuições Linux completas (Ubuntu, Debian, Manjaro) no Android sem necessidade de root. |
+| **Awesome iOS Architecture** | [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) | Coletânea curada com as melhores arquiteturas, padrões (MVVM-C, VIPER, Clean) e boas práticas para iOS. |
+| **Awesome Rust** | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curadoria definitiva com as melhores bibliotecas, ferramentas de sistema e recursos do ecossistema Rust. |
 | **Daytona** | [daytonaio/daytona](https://github.com/daytonaio/daytona) | Gerenciador de ambientes de desenvolvimento padronizados e workspaces seguros (alternativa ao GitHub Codespaces). |
 | **DBX** | [t8y2/dbx](https://github.com/t8y2/dbx) | Cliente de banco de dados ultrarrápido em Rust (15-20 MB), compatível com 70+ bancos, IA e MCP. |
+| **Design Patterns in Swift** | [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | Implementação prática e idiomática dos 23 padrões de projeto (GoF) em Swift 5.0. |
 | **DevTUI** | [skatkov/devtui](https://github.com/skatkov/devtui) | Canivete suíço no terminal com utilitários de conversão, decodificação, JWT, hash e inspeção rápida para devs. |
 | **docker-android** | [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | Imagem Docker personalizável que roda emuladores Android completos como um microserviço. |
 | **DrawDB** | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | Modelador de diagramas Entidade-Relacionamento (ERD) direto no navegador com exportação SQL. |
 | **ElysiaJS** | [elysiajs/elysia](https://github.com/elysiajs/elysia) | Framework web TypeScript ergonômico e com desempenho recorde projetado para o runtime Bun. |
 | **Excalidraw** | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Quadro branco virtual infinito para diagramação e colaboração visual com estilo desenhado à mão. |
 | **GH-Dash** | [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | Painel interativo dentro do terminal para gerenciar Pull Requests e Issues do GitHub sem usar o browser. |
+| **Ghost Downloader 3** | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Gerenciador e acelerador de download modular de código aberto com suporte a múltiplos protocolos. |
+| **iOS Lead Interview Guide** | [shobhakartiwari/iOS_Lead_Interview](https://github.com/shobhakartiwari/iOS_Lead_Interview) | Guia técnico avançado de arquitetura, concorrência, memória e perguntas para entrevistas de liderança iOS. |
 | **mirrord** | [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) | Conecta processos locais ao seu cluster cloud para rodar e debugar código local sob condições reais de nuvem. |
 | **Open Code Review** | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | CLI de code review inteligente da Alibaba que combina regras determinísticas rápidas com LLMs. |
 | **Public APIs** | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Catálogo com milhares de APIs públicas gratuitas para desenvolvedores integrarem em projetos. |
@@ -172,7 +186,7 @@
 ---
 
 ### 7. ⚙️ Workflows, Orquestração & DevOps
-*Ferramentas para automação de tarefas em lote, gerenciamento de infraestrutura e pipelines.*
+*Ferramentas para automação de tarefas em lote, gerenciamento de infraestrutura, IaC e pipelines.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
@@ -180,6 +194,7 @@
 | **Coolify** | [coollabsio/coolify](https://github.com/coollabsio/coolify) | Plataforma self-hosted tudo-em-um para gerenciar deploys de apps, bancos de dados e serviços (alternativa ao Heroku/Vercel). |
 | **Dagu** | [dagu-org/dagu](https://github.com/dagu-org/dagu) | Orquestrador leve e database-free para rodar DAGs declarativas em YAML; alternativa direta ao Airflow e Cron. |
 | **Fleetbase** | [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) | Sistema operacional modular open-source para gestão de frotas, entregas e supply chain. |
+| **Homelab GitOps IaC** | [Mafyuh/iac](https://github.com/Mafyuh/iac) | Exemplo completo de Infrastructure as Code (IaC) orientada a GitOps para infraestrutura e servidores locais. |
 | **NetBox** | [netbox-community/netbox](https://github.com/netbox-community/netbox) | A principal ferramenta de documentação e fonte de verdade (DCIM/IPAM) para redes de computadores. |
 | **Uniterm** | [uniterm-app/uniterm](https://github.com/uniterm-app/uniterm) | Aplicativo que suporta mais de 30 protocolos de conexão e permite que agentes de IA rodem comandos shell. |
 
