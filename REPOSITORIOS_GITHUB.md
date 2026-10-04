@@ -41,7 +41,7 @@
 | **Book-to-Skill** | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Converte livros e manuais extensos em skills estruturadas e acionáveis para agentes de IA. |
 | **CrewAI** | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Framework para orquestração de equipes autônomas de agentes de IA colaborativos. |
 | **Deer-Flow** | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Framework de Deep Research e fluxos multi-agente de pesquisa profunda da ByteDance. |
-| **Dify** | [dify-ai/dify](https://github.com/dify-ai/dify) | Plataforma de desenvolvimento de aplicações de IA e agentes com interface visual, RAG e observabilidade. |
+| **Dify** | [langgenius/dify](https://github.com/langgenius/dify) | Plataforma de desenvolvimento de aplicações de IA e agentes com interface visual, RAG e observabilidade. |
 | **Dyad** | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | Construtor local de aplicações web com IA no seu próprio computador, sem vendor lock-in. |
 | **Flowise** | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | Interface visual baseada em nós para construir e orquestrar agentes de IA e pipelines de LLM. |
 | **Generative Agents** | [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) | Simulação computacional de comunidades de agentes autônomos (Stanford Town). |
@@ -88,7 +88,7 @@
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
-| **AutoScraper** | [AutoScraper/AutoScraper](https://github.com/AutoScraper/AutoScraper) | Scraper inteligente e automático para Python que aprende a extrair dados baseado em poucos exemplos. |
+| **AutoScraper** | [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) | Scraper inteligente e automático para Python que aprende a extrair dados baseado em poucos exemplos. |
 | **Browser-Use** | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Torna qualquer site acessível para agentes de IA interagirem como humanos usando visão e árvore DOM. |
 | **Camofox** | [redf0x1/camofox-browser](https://github.com/redf0x1/camofox-browser) | Navegador anti-detecção baseado no motor Camoufox com servidor MCP para agentes evitarem bloqueios. |
 | **Crawl4AI** | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Crawler e scraper web ultra-rápido projetado especialmente para alimentar LLMs e pipelines de RAG. |
@@ -149,7 +149,7 @@
 | **Sherlock** | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Localiza perfis e contas de um mesmo nome de usuário em centenas de redes sociais simultaneamente. |
 | **Strix** | [usestrix/strix](https://github.com/usestrix/strix) | Scanner de vulnerabilidades e segurança ofensiva automatizado para aplicações web e APIs. |
 | **Termux** | [termux/termux-app](https://github.com/termux/termux-app) | Emulador de terminal que traz um ecossistema Linux completo para dispositivos Android sem root. |
-| **WiFi DensePose** | [ytdzcom/WiFi-DensePose](https://github.com/ytdzcom/WiFi-DensePose) | Rastreia a posição e postura corporal de pessoas através de paredes utilizando interferência de sinal Wi-Fi. |
+| **WiFi DensePose** | [superstar1225/DensePose_from_WiFi](https://github.com/superstar1225/DensePose_from_WiFi) | Rastreia a posição e postura corporal de pessoas através de paredes utilizando interferência de sinal Wi-Fi. |
 | **Wireshark** | [wireshark/wireshark](https://github.com/wireshark/wireshark) | O analisador de protocolos de rede e captura de pacotes em tempo real mais respeitado do setor. |
 
 ---
@@ -159,7 +159,7 @@
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
-| **Andronix** | [AndronixApp/Andronix](https://github.com/AndronixApp/Andronix) | Permite instalar distribuições Linux completas (Ubuntu, Debian, Manjaro) no Android sem necessidade de root. |
+| **Andronix** | [AndronixApp/AndronixCore](https://github.com/AndronixApp/AndronixCore) | Permite instalar distribuições Linux completas (Ubuntu, Debian, Manjaro) no Android sem necessidade de root. |
 | **Awesome iOS Architecture** | [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) | Coletânea curada com as melhores arquiteturas, padrões (MVVM-C, VIPER, Clean) e boas práticas para iOS. |
 | **Awesome Rust** | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curadoria definitiva com as melhores bibliotecas, ferramentas de sistema e recursos do ecossistema Rust. |
 | **Daytona** | [daytonaio/daytona](https://github.com/daytonaio/daytona) | Gerenciador de ambientes de desenvolvimento padronizados e workspaces seguros (alternativa ao GitHub Codespaces). |
