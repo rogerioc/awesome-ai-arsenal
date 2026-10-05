@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **155 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, iOS, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **172 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-155-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-172-blue.svg)](#-categorias)
 
 </div>
 
@@ -14,25 +14,27 @@
 
 ## 📑 Categorias
 
-- [1. 🤖 Agentes de IA & Coding Assistants](#1-🤖)
-- [2. 🧠 LLMs Locais, Fine-Tuning & Inferência](#2-🧠)
-- [3. 🌐 Automação de Navegador & Web Scraping](#3-🌐)
-- [4. 🎬 Geração & Edição de Mídia e Vídeo](#4-🎬)
-- [5. 🛡️ Cibersegurança, Pentest & OSINT](#5-🛡️)
-- [6. 💻 Ferramentas de Desenvolvimento & Terminal](#6-💻)
-- [7. ⚙️ Workflows, Orquestração & DevOps](#7-⚙️)
-- [8. 🏠 Substitutos Open-Source de Apps Pagos (Self-Hosted)](#8-🏠)
-- [9. 📈 IA para Negócios, Marketing & Finanças](#9-📈)
-- [10. 🔒 Privacidade Digital & Anti-Rastreamento](#10-🔒)
+- [1. 🤖 Agentes de IA & Coding Assistants](#categoria-1)
+- [2. 🧠 LLMs Locais, Fine-Tuning & Inferência](#categoria-2)
+- [3. 🌐 Automação de Navegador & Web Scraping](#categoria-3)
+- [4. 🎬 Geração & Edição de Mídia e Vídeo](#categoria-4)
+- [5. 🛡️ Cibersegurança, Pentest & OSINT](#categoria-5)
+- [6. 💻 Ferramentas de Desenvolvimento & Terminal](#categoria-6)
+- [7. ⚙️ Workflows, Orquestração & DevOps](#categoria-7)
+- [8. 🏠 Substitutos Open-Source de Apps Pagos (Self-Hosted)](#categoria-8)
+- [9. 📈 IA para Negócios, Marketing & Finanças](#categoria-9)
+- [10. 🔒 Privacidade Digital & Anti-Rastreamento](#categoria-10)
 
 ---
 
+<a id="categoria-1"></a>
 ### 1. 🤖 Agentes de IA & Coding Assistants
 *Ferramentas que capacitam modelos a executar tarefas complexas, planejar ações e resolver código de forma autônoma.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
 | **500 AI Agents Projects** | [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | Coleção com mais de 500 tutoriais e projetos práticos de agentes autônomos de IA. |
+| **Agent-S** | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | Framework de agentes autônomos GUI que interagem com o sistema operacional e computadores exatamente como um ser humano. |
 | **AI Agents for Beginners** | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Curso e guia oficial da Microsoft para criação e arquitetura de sistemas com agentes de IA. |
 | **AI Memory Architecture** | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Estudos práticos e implementações de arquiteturas de memória persistente para agentes de IA. |
 | **Aider** | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | Ferramenta de pair-programming de IA no terminal com suporte a git e múltiplos modelos. |
@@ -43,6 +45,7 @@
 | **Deer-Flow** | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Framework de Deep Research e fluxos multi-agente de pesquisa profunda da ByteDance. |
 | **Dify** | [langgenius/dify](https://github.com/langgenius/dify) | Plataforma de desenvolvimento de aplicações de IA e agentes com interface visual, RAG e observabilidade. |
 | **Dyad** | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | Construtor local de aplicações web com IA no seu próprio computador, sem vendor lock-in. |
+| **Fabric** | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | Framework modular open-source para potencializar a produtividade humana com IA através de prompts e padrões pré-configurados. |
 | **Flowise** | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | Interface visual baseada em nós para construir e orquestrar agentes de IA e pipelines de LLM. |
 | **Generative Agents** | [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) | Simulação computacional de comunidades de agentes autônomos (Stanford Town). |
 | **Gitingest** | [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) | Converte a estrutura e código de qualquer repo GitHub em prompt otimizado para LLMs. |
@@ -55,11 +58,13 @@
 | **Multica** | [multica-io/multica](https://github.com/multica-io/multica) | Plataforma e ambiente para desenvolvimento de agentes de software autônomos. |
 | **OpenHands** | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | Plataforma open-source de agentes autônomos para desenvolvimento de software (antigo OpenDevin). |
 | **Pullfrog** | [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog) | Bot em GitHub Actions que analisa PRs, responde revisões e corrige falhas de CI. |
+| **Scientific Agent Skills** | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Biblioteca líder com mais de 170 skills e 100+ bases de dados científicas (biologia, química, medicina) para transformar agentes em pesquisadores autônomos. |
 | **Superpowers** | [obra/superpowers](https://github.com/obra/superpowers) | Framework de fluxos disciplinados para coding agents (planejamento, TDD e revisão sistemática). |
 | **SWE-agent** | [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) | Agente autônomo da Princeton que resolve bugs e issues reais no GitHub. |
 
 ---
 
+<a id="categoria-2"></a>
 ### 2. 🧠 LLMs Locais, Fine-Tuning & Inferência
 *Execução, otimização, RAG e especialização de modelos no seu próprio computador sem depender de nuvem.*
 
@@ -67,6 +72,7 @@
 |---|---|---|
 | **AirLLM** | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Permite executar modelos LLM gigantes (70B+) em GPUs comuns com pouca VRAM via streaming de camadas. |
 | **Colibri** | [JustVugg/colibri](https://github.com/JustVugg/colibri) | Engine em C puro para rodar modelos gigantes (744B MoE) em laptops via streaming de disco. |
+| **DSPy** | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | Framework revolucionário para programar e otimizar pipelines de LLMs e agentes de forma determinística em vez de apenas criar prompts manuais. |
 | **Landscape of Thoughts** | [tmlr-group/landscape-of-thoughts](https://github.com/tmlr-group/landscape-of-thoughts) | Ferramenta de visualização e análise espacial do processo de raciocínio e cadeias de pensamento de LLMs. |
 | **LangWatch** | [langwatch/langwatch](https://github.com/langwatch/langwatch) | Plataforma open-source para observabilidade, testes automatizados e monitoramento de LLMs. |
 | **Manacá 1B Base** | [Instituto-IA-LNCC/manaca-1b-base](https://github.com/Instituto-IA-LNCC/manaca-1b-base) | Modelo de linguagem de 1 bilhão de parâmetros treinado pelo LNCC com foco em língua portuguesa. |
@@ -83,6 +89,7 @@
 
 ---
 
+<a id="categoria-3"></a>
 ### 3. 🌐 Automação de Navegador & Web Scraping
 *Robôs, crawlers inteligentes e navegadores desenvolvidos para navegar e extrair dados sem bloqueios.*
 
@@ -95,6 +102,7 @@
 | **Crawlee** | [apify/crawlee](https://github.com/apify/crawlee) | Biblioteca avançada para crawling e scraping web confiável em Node.js e Python com gestão de proxies e fingerprints. |
 | **curl-impersonate** | [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) | Build especial do curl que mimetiza assinaturas TLS/HTTP2 de navegadores reais para evitar bloqueios. |
 | **Google Maps Scraper** | [omkarcloud/google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) | Raspador eficiente de dados públicos de empresas, telefones e e-mails listados no Google Maps. |
+| **Google Maps Scraper** | [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) | Scraper de alto desempenho para extrair dados completos de empresas no Google Maps (endereço, telefone, website, avaliações, latitude/longitude). |
 | **OpenCLI** | [jackwener/opencli](https://github.com/jackwener/opencli) | Transforma qualquer site em CLI e permite que agentes de IA usem a sessão autenticada do seu navegador. |
 | **Scrapling** | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Biblioteca Python para web scraping adaptativo com bypass inteligente de defesas anti-bot. |
 | **Scrapy** | [scrapy/scrapy](https://github.com/scrapy/scrapy) | O mais consagrado e maduro framework de web crawling e extração de dados para Python. |
@@ -102,11 +110,13 @@
 
 ---
 
+<a id="categoria-4"></a>
 ### 4. 🎬 Geração & Edição de Mídia e Vídeo
 *Criação programática de vídeos, animações, vozes ultra-realistas, transcrição e manipulação de mídia com IA.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
+| **Auto-Editor** | [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) | Ferramenta de linha de comando para edição automatizada de vídeo e áudio, cortando silêncios e pausas sem intervenção manual. |
 | **ChatTTS** | [2noise/ChatTTS](https://github.com/2noise/ChatTTS) | Modelo de conversação texto-para-fala de altíssima qualidade com entonações, pausas e risadas naturais. |
 | **Diffusers** | [huggingface/diffusers](https://github.com/huggingface/diffusers) | A biblioteca padrão da indústria para modelos de difusão de imagem, áudio e vídeo da Hugging Face. |
 | **EchoMimic** | [BadToBest/EchoMimic](https://github.com/BadToBest/EchoMimic) | Geração de animações de retrato realistas sincronizadas com áudio e pontos de referência facial. |
@@ -124,15 +134,18 @@
 
 ---
 
+<a id="categoria-5"></a>
 ### 5. 🛡️ Cibersegurança, Pentest & OSINT
-*Investigação de fontes abertas, análise de redes, emulação de hardware, segurança mobile e testes de intrusão éticos.*
+*Investigação de fontes abertas, análise de redes, emulação de hardware e testes de intrusão éticos.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
+| **Anthropic Cybersecurity Skills** | [liptonj-eng/anthropic-cybersecurity-skills](https://github.com/liptonj-eng/anthropic-cybersecurity-skills) | Mais de 730 skills estruturadas de cibersegurança e pentest mapeadas pelo MITRE ATT&CK para agentes autônomos. |
 | **Awesome Hacking** | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Coleção curada com os melhores repositórios, ferramentas e tutoriais de segurança ofensiva e defensiva. |
 | **Awesome OSINT** | [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | Diretório completo de ferramentas de coleta e inteligência de fontes públicas (Open Source Intelligence). |
 | **Codex Security** | [openai/codex-security](https://github.com/openai/codex-security) | Framework e recomendações de segurança da OpenAI para execução de coding agents em ambientes de produção. |
 | **dex2jar** | [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) | Ferramentas essenciais para trabalhar com arquivos Android .dex e converter para classes Java (.class / .jar). |
+| **ESP32-BlueJammer** | [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) | Utilitário para testes de intrusão e estresse de rádio frequência 2.4GHz (Bluetooth/BLE/WiFi) utilizando ESP32 e módulos nRF24. |
 | **Fieldwatch** | [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch) | Observador passivo e seguro de transmissões Wi-Fi e Bluetooth LE para Android. |
 | **IOSSecuritySuite** | [securing/IOSSecuritySuite](https://github.com/securing/IOSSecuritySuite) | Biblioteca open-source em Swift para segurança mobile: detecção de jailbreak, anti-debug, hooks e integridade. |
 | **Kali NetHunter** | [offensive-security/kali-nethunter](https://github.com/offensive-security/kali-nethunter) | Sistema operacional Kali Linux adaptado para smartphones Android (ver também [GitLab oficial](https://gitlab.com/kalilinux/nethunter/)). |
@@ -154,25 +167,30 @@
 
 ---
 
+<a id="categoria-6"></a>
 ### 6. 💻 Ferramentas de Desenvolvimento & Terminal
-*Utilitários, frameworks mobile/iOS, padrões de arquitetura e ferramentas que aumentam a produtividade dev.*
+*Utilitários que aumentam a produtividade diária de desenvolvedores e melhoram o fluxo de trabalho.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
 | **Andronix** | [AndronixApp/AndronixCore](https://github.com/AndronixApp/AndronixCore) | Permite instalar distribuições Linux completas (Ubuntu, Debian, Manjaro) no Android sem necessidade de root. |
 | **Awesome iOS Architecture** | [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) | Coletânea curada com as melhores arquiteturas, padrões (MVVM-C, VIPER, Clean) e boas práticas para iOS. |
 | **Awesome Rust** | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curadoria definitiva com as melhores bibliotecas, ferramentas de sistema e recursos do ecossistema Rust. |
+| **Code-Server** | [coder/code-server](https://github.com/coder/code-server) | Execute o VS Code completo diretamente no navegador em qualquer servidor remoto e acesse seu ambiente de desenvolvimento de qualquer lugar. |
 | **Daytona** | [daytonaio/daytona](https://github.com/daytonaio/daytona) | Gerenciador de ambientes de desenvolvimento padronizados e workspaces seguros (alternativa ao GitHub Codespaces). |
 | **DBX** | [t8y2/dbx](https://github.com/t8y2/dbx) | Cliente de banco de dados ultrarrápido em Rust (15-20 MB), compatível com 70+ bancos, IA e MCP. |
 | **Design Patterns in Swift** | [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | Implementação prática e idiomática dos 23 padrões de projeto (GoF) em Swift 5.0. |
 | **DevTUI** | [skatkov/devtui](https://github.com/skatkov/devtui) | Canivete suíço no terminal com utilitários de conversão, decodificação, JWT, hash e inspeção rápida para devs. |
+| **Diagram Design** | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Design editorial e estruturado de 42 tipos de diagramas em HTML + SVG nativo para Claude Code, Codex, Cursor e agentes de IA sem depender de Mermaid. |
 | **docker-android** | [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | Imagem Docker personalizável que roda emuladores Android completos como um microserviço. |
 | **DrawDB** | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | Modelador de diagramas Entidade-Relacionamento (ERD) direto no navegador com exportação SQL. |
 | **ElysiaJS** | [elysiajs/elysia](https://github.com/elysiajs/elysia) | Framework web TypeScript ergonômico e com desempenho recorde projetado para o runtime Bun. |
 | **Excalidraw** | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Quadro branco virtual infinito para diagramação e colaboração visual com estilo desenhado à mão. |
 | **GH-Dash** | [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | Painel interativo dentro do terminal para gerenciar Pull Requests e Issues do GitHub sem usar o browser. |
 | **Ghost Downloader 3** | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Gerenciador e acelerador de download modular de código aberto com suporte a múltiplos protocolos. |
+| **GitIngest** | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | Substitui "hub" por "ingest" em qualquer URL do GitHub para gerar um extrato de código formatado e otimizado para contexto em prompts de LLMs. |
 | **iOS Lead Interview Guide** | [shobhakartiwari/iOS_Lead_Interview](https://github.com/shobhakartiwari/iOS_Lead_Interview) | Guia técnico avançado de arquitetura, concorrência, memória e perguntas para entrevistas de liderança iOS. |
+| **Markdoc** | [markdoc/markdoc](https://github.com/markdoc/markdoc) | Poderoso framework de autoria baseado em Markdown criado pela Stripe para criação de documentações técnicas customizadas e extensíveis. |
 | **mirrord** | [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) | Conecta processos locais ao seu cluster cloud para rodar e debugar código local sob condições reais de nuvem. |
 | **Open Code Review** | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | CLI de code review inteligente da Alibaba que combina regras determinísticas rápidas com LLMs. |
 | **Public APIs** | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Catálogo com milhares de APIs públicas gratuitas para desenvolvedores integrarem em projetos. |
@@ -185,12 +203,14 @@
 
 ---
 
+<a id="categoria-7"></a>
 ### 7. ⚙️ Workflows, Orquestração & DevOps
-*Ferramentas para automação de tarefas em lote, gerenciamento de infraestrutura, IaC e pipelines.*
+*Ferramentas para automação de tarefas em lote, gerenciamento de infraestrutura e pipelines.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
 | **Activepieces** | [activepieces/activepieces](https://github.com/activepieces/activepieces) | Plataforma open-source de automação de fluxos de IA com suporte nativo a centenas de servidores MCP. |
+| **Awesome Harness Engineering** | [yenanjing/awesome-harness-engineering](https://github.com/yenanjing/awesome-harness-engineering) | Guia com mais de 80 repositórios sobre engenharia de testes, harnesses de avaliação de agentes e frameworks de CI/CD. |
 | **Coolify** | [coollabsio/coolify](https://github.com/coollabsio/coolify) | Plataforma self-hosted tudo-em-um para gerenciar deploys de apps, bancos de dados e serviços (alternativa ao Heroku/Vercel). |
 | **Dagu** | [dagu-org/dagu](https://github.com/dagu-org/dagu) | Orquestrador leve e database-free para rodar DAGs declarativas em YAML; alternativa direta ao Airflow e Cron. |
 | **Fleetbase** | [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) | Sistema operacional modular open-source para gestão de frotas, entregas e supply chain. |
@@ -200,12 +220,14 @@
 
 ---
 
+<a id="categoria-8"></a>
 ### 8. 🏠 Substitutos Open-Source de Apps Pagos (Self-Hosted)
 *Alternativas gratuitas e auto-hospedadas para economizar nas assinaturas de serviços e SaaS populares.*
 
 | Projeto | Repositório Oficial | O que substitui | Descrição |
 |---|---|---|---|
 | **Anytype** | [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) | SaaS pago | Espaço de trabalho local e criptografado para notas, tarefas e grafos de conhecimento com arquitetura P2P. |
+| **Apache Cloudberry** | [apache/cloudberry](https://github.com/apache/cloudberry) | Greenplum, Snowflake | Banco de dados analítico de processamento massivo paralelo (MPP) maduro e open-source para Big Data e Data Warehouses. |
 | **AppFlowy** | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Notion | Espaço de trabalho seguro e local para notas, quadros Kanban e documentação. |
 | **Audiobookshelf** | [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) | Audible | Servidor auto-hospedado para organizar e ouvir audiolivros e podcasts (alternativa ao Audible). |
 | **Cal.com** | [calcom/cal.com](https://github.com/calcom/cal.com) | Calendly | Plataforma completa de agendamento de eventos e reuniões com integrações de calendário (alternativa ao Calendly). |
@@ -219,6 +241,8 @@
 | **n8n** | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Zapier / Make | Plataforma de automação visual de fluxos de trabalho com centenas de integrações. |
 | **NocoDB** | [nocodb/nocodb](https://github.com/nocodb/nocodb) | Airtable | Transforma qualquer banco de dados relacional (MySQL, Postgres, etc.) em interface de planilha inteligente (alternativa ao Airtable). |
 | **NZBdav** | [nzbdav/nzbdav](https://github.com/nzbdav/nzbdav) | Armazenamento local | Monta arquivos do Usenet como unidade virtual para streaming no Sonarr/Radarr. |
+| **Open SaaS** | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | SaaS Boilerplates pagos ($200+) | Boilerplate full-stack 100% gratuito (React, NodeJS, Prisma, Stripe) com autenticação, pagamentos, tarefas em background e suporte nativo a agentes de IA. |
+| **OpenPanel** | [openpanel-dev/openpanel](https://github.com/openpanel-dev/openpanel) | Mixpanel, Amplitude | Plataforma self-hosted de analytics de produto e tráfego web moderna e focada em privacidade, alternativa direta ao Mixpanel e Amplitude. |
 | **OpenWA** | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | Twilio / Z-API | Gateway de API do WhatsApp gratuito, auto-hospedado e de código aberto para envio e recebimento de mensagens. |
 | **Paperless-ngx** | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | SaaS pago | Indexador e gerenciador de documentos físicos digitalizados com OCR automático e busca instantânea. |
 | **Penpot** | [penpot/penpot](https://github.com/penpot/penpot) | Figma | Plataforma colaborativa de design de interface e prototipagem baseada em padrões web (alternativa ao Figma). |
@@ -232,6 +256,7 @@
 
 ---
 
+<a id="categoria-9"></a>
 ### 9. 📈 IA para Negócios, Marketing & Finanças
 *Aplicações direcionadas para geração de receita, auditoria de mídia paga, SEO e análise de mercado.*
 
@@ -239,6 +264,7 @@
 |---|---|---|
 | **AI-Job-Search** | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Assistente autônomo com IA para busca, mapeamento de requisitos e candidatura automática a vagas. |
 | **AutoHedge** | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | Framework de inteligência de enxame multi-agente para análise automatizada de mercado financeiro e trading. |
+| **Awesome Quant** | [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | Curadoria abrangente de bibliotecas, pacotes e recursos em Python, R e C++ para Finanças Quantitativas e trading algorítmico. |
 | **Claude Ads** | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | Skill para o Claude auditar contas de anúncios (Google, Meta, etc.), detectar desperdícios e sugerir melhorias. |
 | **Fincept Terminal** | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Terminal financeiro desktop com dados de mercado, relatórios de pesquisa e alternativas ao Bloomberg. |
 | **FinRL** | [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) | Framework para treinamento de agentes de trading algorítmico usando aprendizado por reforço. |
@@ -248,6 +274,7 @@
 
 ---
 
+<a id="categoria-10"></a>
 ### 10. 🔒 Privacidade Digital & Anti-Rastreamento
 *Extensões, bloqueadores DNS e configurações para fechar as torneiras de coleta de dados de Big Techs.*
 
