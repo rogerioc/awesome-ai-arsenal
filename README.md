@@ -10,6 +10,23 @@
 
 </div>
 
+## 🎯 Guia Rápido por Tarefa (Quick Lookup for Agents & Devs)
+
+> Se você é um **Desenvolvedor** ou um **Agente de IA** procurando a ferramenta ideal para resolver um problema específico, use a tabela rápida abaixo:
+
+| O que você precisa fazer? | Ferramentas Recomendadas | Categoria Direta |
+|---|---|---|
+| **Rastrear e extrair dados web para LLMs sem bloqueios** | [`Crawl4AI`](https://github.com/unclecode/crawl4ai), [`Browser-Use`](https://github.com/browser-use/browser-use), [`Scrapling`](https://github.com/D4Vinci/Scrapling), [`Google Maps Scraper`](https://github.com/gosom/google-maps-scraper) | [3. 🌐 Automação & Scraping](#categoria-3) |
+| **Executar LLMs locais com alta performance (CPU/GPU)** | [`Ollama`](https://github.com/ollama/ollama), [`vLLM`](https://github.com/vllm-project/vllm), [`DSPy`](https://github.com/stanfordnlp/dspy), [`Unsloth`](https://github.com/unslothai/unsloth) | [2. 🧠 LLMs & Inferência](#categoria-2) |
+| **Assistente de código e pair programming inteligente** | [`Aider`](https://github.com/paul-gauthier/aider), [`Continue`](https://github.com/continuedev/continue), [`GitIngest`](https://github.com/coderamp-labs/gitingest), [`Code-Server`](https://github.com/coder/code-server) | [1. 🤖 Agentes](#categoria-1) / [6. 💻 DevTools](#categoria-6) |
+| **Agentes autônomos que operam o computador (GUI/OS)** | [`Agent-S`](https://github.com/simular-ai/Agent-S), [`AppAgent`](https://github.com/mnotgod96/AppAgent), [`Show-1`](https://github.com/showlab/Show-1) | [1. 🤖 Agentes de IA](#categoria-1) |
+| **Construir fluxos visuais e equipes multi-agente** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes de IA](#categoria-1) |
+| **Skills para agentes (Ciência, Cibersegurança, Diagramas)** | [`Scientific Agent Skills`](https://github.com/K-Dense-AI/scientific-agent-skills), [`Anthropic Cybersecurity Skills`](https://github.com/liptonj-eng/anthropic-cybersecurity-skills), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design) | [1. 🤖 Agentes](#categoria-1) / [5. 🛡️ Segurança](#categoria-5) |
+| **Substitutos self-hosted para economizar em SaaS pagos** | [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`OpenPanel`](https://github.com/openpanel-dev/openpanel) *(Mixpanel)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)*, [`Cal.com`](https://github.com/calcom/cal.com) *(Calendly)*, [`Open SaaS`](https://github.com/wasp-lang/open-saas) | [8. 🏠 Substitutos Open-Source](#categoria-8) |
+| **Edição e manipulação automatizada de vídeo e áudio** | [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`SadTalker`](https://github.com/OpenTalker/SadTalker), [`Cap`](https://github.com/CapSoftware/Cap), [`Audiobookshelf`](https://github.com/advplyr/audiobookshelf) | [4. 🎬 Geração & Mídia](#categoria-4) |
+| **Testes de intrusão, hacking de RF e OSINT** | [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter), [`Spiderfoot`](https://github.com/smicallef/spiderfoot) | [5. 🛡️ Cibersegurança](#categoria-5) |
+| **Proteger privacidade, bloquear anúncios e telemetria** | [`AdGuard Home`](https://github.com/AdguardTeam/AdGuardHome), [`Brave Browser`](https://github.com/brave/brave-browser), [`uBlock Origin`](https://github.com/gorhill/uBlock), [`Syncthing`](https://github.com/syncthing/syncthing) | [10. 🔒 Privacidade](#categoria-10) |
+
 ---
 
 ## 📑 Categorias
