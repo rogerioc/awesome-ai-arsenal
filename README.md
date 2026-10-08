@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **173 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **175 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-173-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-175-blue.svg)](#-categorias)
 
 </div>
 
@@ -18,7 +18,7 @@
 |---|---|---|
 | **Rastrear e extrair dados web para LLMs sem bloqueios** | [`Crawl4AI`](https://github.com/unclecode/crawl4ai), [`Browser-Use`](https://github.com/browser-use/browser-use), [`Scrapling`](https://github.com/D4Vinci/Scrapling), [`Google Maps Scraper`](https://github.com/gosom/google-maps-scraper) | [3. 🌐 Automação & Scraping](#categoria-3) |
 | **Executar LLMs locais & otimizar custo de tokens** | [`Ollama`](https://github.com/ollama/ollama), [`vLLM`](https://github.com/vllm-project/vllm), [`DSPy`](https://github.com/stanfordnlp/dspy), [`Awesome Token Optimization`](https://github.com/pleasedodisturb/awesome-llm-token-optimization) | [2. 🧠 LLMs & Inferência](#categoria-2) |
-| **Assistente de código e pair programming inteligente** | [`Aider`](https://github.com/paul-gauthier/aider), [`Continue`](https://github.com/continuedev/continue), [`GitIngest`](https://github.com/coderamp-labs/gitingest), [`Code-Server`](https://github.com/coder/code-server) | [1. 🤖 Agentes](#categoria-1) / [6. 💻 DevTools](#categoria-6) |
+| **Assistente de código, observabilidade & monitor de tokens** | [`Aider`](https://github.com/paul-gauthier/aider), [`Continue`](https://github.com/continuedev/continue), [`ccusage`](https://github.com/ccusage/ccusage), [`AgentTrace`](https://github.com/luoyuctl/agenttrace), [`GitIngest`](https://github.com/coderamp-labs/gitingest) | [1. 🤖 Agentes](#categoria-1) / [6. 💻 DevTools](#categoria-6) |
 | **Agentes autônomos que operam o computador (GUI/OS)** | [`Agent-S`](https://github.com/simular-ai/Agent-S), [`AppAgent`](https://github.com/mnotgod96/AppAgent), [`Show-1`](https://github.com/showlab/Show-1) | [1. 🤖 Agentes de IA](#categoria-1) |
 | **Construir fluxos visuais e equipes multi-agente** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes de IA](#categoria-1) |
 | **Skills para agentes (Ciência, Cibersegurança, Diagramas)** | [`Scientific Agent Skills`](https://github.com/K-Dense-AI/scientific-agent-skills), [`Anthropic Cybersecurity Skills`](https://github.com/liptonj-eng/anthropic-cybersecurity-skills), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design) | [1. 🤖 Agentes](#categoria-1) / [5. 🛡️ Segurança](#categoria-5) |
@@ -52,6 +52,7 @@
 |---|---|---|
 | **500 AI Agents Projects** | [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | Coleção com mais de 500 tutoriais e projetos práticos de agentes autônomos de IA. |
 | **Agent-S** | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | Framework de agentes autônomos GUI que interagem com o sistema operacional e computadores exatamente como um ser humano. |
+| **AgentTrace** | [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) | TUI/CLI local-first em Rust para auditoria e observabilidade de sessões de agentes de código (análise de custo, tokens, latência e taxas de falha). |
 | **AI Agents for Beginners** | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Curso e guia oficial da Microsoft para criação e arquitetura de sistemas com agentes de IA. |
 | **AI Memory Architecture** | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Estudos práticos e implementações de arquiteturas de memória persistente para agentes de IA. |
 | **Aider** | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | Ferramenta de pair-programming de IA no terminal com suporte a git e múltiplos modelos. |
@@ -194,6 +195,7 @@
 | **Andronix** | [AndronixApp/AndronixCore](https://github.com/AndronixApp/AndronixCore) | Permite instalar distribuições Linux completas (Ubuntu, Debian, Manjaro) no Android sem necessidade de root. |
 | **Awesome iOS Architecture** | [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) | Coletânea curada com as melhores arquiteturas, padrões (MVVM-C, VIPER, Clean) e boas práticas para iOS. |
 | **Awesome Rust** | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curadoria definitiva com as melhores bibliotecas, ferramentas de sistema e recursos do ecossistema Rust. |
+| **ccusage** | [ccusage/ccusage](https://github.com/ccusage/ccusage) | Ferramenta CLI interativa para monitorar em tempo real o consumo de tokens, custos acumulados e limites de uso do Claude Code e assistentes de IA. |
 | **Code-Server** | [coder/code-server](https://github.com/coder/code-server) | Execute o VS Code completo diretamente no navegador em qualquer servidor remoto e acesse seu ambiente de desenvolvimento de qualquer lugar. |
 | **Daytona** | [daytonaio/daytona](https://github.com/daytonaio/daytona) | Gerenciador de ambientes de desenvolvimento padronizados e workspaces seguros (alternativa ao GitHub Codespaces). |
 | **DBX** | [t8y2/dbx](https://github.com/t8y2/dbx) | Cliente de banco de dados ultrarrápido em Rust (15-20 MB), compatível com 70+ bancos, IA e MCP. |
