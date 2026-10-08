@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **172 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **173 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-172-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-173-blue.svg)](#-categorias)
 
 </div>
 
@@ -17,7 +17,7 @@
 | O que você precisa fazer? | Ferramentas Recomendadas | Categoria Direta |
 |---|---|---|
 | **Rastrear e extrair dados web para LLMs sem bloqueios** | [`Crawl4AI`](https://github.com/unclecode/crawl4ai), [`Browser-Use`](https://github.com/browser-use/browser-use), [`Scrapling`](https://github.com/D4Vinci/Scrapling), [`Google Maps Scraper`](https://github.com/gosom/google-maps-scraper) | [3. 🌐 Automação & Scraping](#categoria-3) |
-| **Executar LLMs locais com alta performance (CPU/GPU)** | [`Ollama`](https://github.com/ollama/ollama), [`vLLM`](https://github.com/vllm-project/vllm), [`DSPy`](https://github.com/stanfordnlp/dspy), [`Unsloth`](https://github.com/unslothai/unsloth) | [2. 🧠 LLMs & Inferência](#categoria-2) |
+| **Executar LLMs locais & otimizar custo de tokens** | [`Ollama`](https://github.com/ollama/ollama), [`vLLM`](https://github.com/vllm-project/vllm), [`DSPy`](https://github.com/stanfordnlp/dspy), [`Awesome Token Optimization`](https://github.com/pleasedodisturb/awesome-llm-token-optimization) | [2. 🧠 LLMs & Inferência](#categoria-2) |
 | **Assistente de código e pair programming inteligente** | [`Aider`](https://github.com/paul-gauthier/aider), [`Continue`](https://github.com/continuedev/continue), [`GitIngest`](https://github.com/coderamp-labs/gitingest), [`Code-Server`](https://github.com/coder/code-server) | [1. 🤖 Agentes](#categoria-1) / [6. 💻 DevTools](#categoria-6) |
 | **Agentes autônomos que operam o computador (GUI/OS)** | [`Agent-S`](https://github.com/simular-ai/Agent-S), [`AppAgent`](https://github.com/mnotgod96/AppAgent), [`Show-1`](https://github.com/showlab/Show-1) | [1. 🤖 Agentes de IA](#categoria-1) |
 | **Construir fluxos visuais e equipes multi-agente** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes de IA](#categoria-1) |
@@ -88,6 +88,7 @@
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
 | **AirLLM** | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Permite executar modelos LLM gigantes (70B+) em GPUs comuns com pouca VRAM via streaming de camadas. |
+| **Awesome LLM Token Optimization** | [pleasedodisturb/awesome-llm-token-optimization](https://github.com/pleasedodisturb/awesome-llm-token-optimization) | Curadoria completa de técnicas, ferramentas, compressão de contexto e estratégias para redução drástica de custos de tokens e inferência em LLMs. |
 | **Colibri** | [JustVugg/colibri](https://github.com/JustVugg/colibri) | Engine em C puro para rodar modelos gigantes (744B MoE) em laptops via streaming de disco. |
 | **DSPy** | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | Framework revolucionário para programar e otimizar pipelines de LLMs e agentes de forma determinística em vez de apenas criar prompts manuais. |
 | **Landscape of Thoughts** | [tmlr-group/landscape-of-thoughts](https://github.com/tmlr-group/landscape-of-thoughts) | Ferramenta de visualização e análise espacial do processo de raciocínio e cadeias de pensamento de LLMs. |
