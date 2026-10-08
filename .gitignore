@@ -2,6 +2,7 @@
 scripts/
 data/
 scratch/
+.agents/
 
 # OS and Python artifacts
 .DS_Store
