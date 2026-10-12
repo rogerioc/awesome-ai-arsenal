@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **188 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **189 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-188-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-189-blue.svg)](#-categorias)
 
 </div>
 
@@ -264,6 +264,7 @@
 | **Home Assistant** | [home-assistant/core](https://github.com/home-assistant/core) | SaaS pago | O principal ecossistema de automação residencial de código aberto focado em controle local e privacidade. |
 | **Immich** | [immich-app/immich](https://github.com/immich-app/immich) | Google Fotos | Backup de fotos com reconhecimento facial, mapas e pesquisa sem custos de nuvem. |
 | **KaraKeep** | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | Raindrop, Pocket, Notion Clipper | Aplicativo self-hosted para salvar tudo (links, notas, imagens) com auto-tagging por IA e busca textual profunda. |
+| **LibreTranslate** | [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | Google Translate API, DeepL | API e motor de tradução automática 100% open-source, auto-hospedável e offline, sem chaves pagas nem envio de dados para nuvem. |
 | **LocalSend** | [localsend/localsend](https://github.com/localsend/localsend) | AirDrop, WeTransfer | Alternativa open-source, segura e multiplataforma ao AirDrop para compartilhamento direto de arquivos via rede local sem nuvem. |
 | **Maybe Finance** | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | Copilot / Monarch Money | Aplicativo open-source e auto-hospedado de gestão financeira pessoal e controle de patrimônio. |
 | **Memos** | [usememos/memos](https://github.com/usememos/memos) | SaaS pago | Ambiente leve para anotações rápidas e microblogging com total privacidade e auto-hospedagem. |
