@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **175 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **188 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-175-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-188-blue.svg)](#-categorias)
 
 </div>
 
@@ -16,16 +16,16 @@
 
 | O que você precisa fazer? | Ferramentas Recomendadas | Categoria Direta |
 |---|---|---|
-| **Rastrear e extrair dados web para LLMs sem bloqueios** | [`Crawl4AI`](https://github.com/unclecode/crawl4ai), [`Browser-Use`](https://github.com/browser-use/browser-use), [`Scrapling`](https://github.com/D4Vinci/Scrapling), [`Google Maps Scraper`](https://github.com/gosom/google-maps-scraper) | [3. 🌐 Automação & Scraping](#categoria-3) |
+| **Rastrear e extrair dados web para LLMs sem bloqueios** | [`Crawl4AI`](https://github.com/unclecode/crawl4ai), [`Browser-Use`](https://github.com/browser-use/browser-use), [`Scrapling`](https://github.com/D4Vinci/Scrapling), [`Camofox`](https://github.com/jo-inc/camofox-browser) | [3. 🌐 Automação & Scraping](#categoria-3) |
 | **Executar LLMs locais & otimizar custo de tokens** | [`Ollama`](https://github.com/ollama/ollama), [`vLLM`](https://github.com/vllm-project/vllm), [`DSPy`](https://github.com/stanfordnlp/dspy), [`Awesome Token Optimization`](https://github.com/pleasedodisturb/awesome-llm-token-optimization) | [2. 🧠 LLMs & Inferência](#categoria-2) |
 | **Assistente de código, observabilidade & monitor de tokens** | [`Aider`](https://github.com/paul-gauthier/aider), [`Continue`](https://github.com/continuedev/continue), [`ccusage`](https://github.com/ccusage/ccusage), [`AgentTrace`](https://github.com/luoyuctl/agenttrace), [`GitIngest`](https://github.com/coderamp-labs/gitingest) | [1. 🤖 Agentes](#categoria-1) / [6. 💻 DevTools](#categoria-6) |
 | **Agentes autônomos que operam o computador (GUI/OS)** | [`Agent-S`](https://github.com/simular-ai/Agent-S), [`AppAgent`](https://github.com/mnotgod96/AppAgent), [`Show-1`](https://github.com/showlab/Show-1) | [1. 🤖 Agentes de IA](#categoria-1) |
 | **Construir fluxos visuais e equipes multi-agente** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes de IA](#categoria-1) |
 | **Skills para agentes (Ciência, Cibersegurança, Diagramas)** | [`Scientific Agent Skills`](https://github.com/K-Dense-AI/scientific-agent-skills), [`Anthropic Cybersecurity Skills`](https://github.com/liptonj-eng/anthropic-cybersecurity-skills), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design) | [1. 🤖 Agentes](#categoria-1) / [5. 🛡️ Segurança](#categoria-5) |
-| **Substitutos self-hosted para economizar em SaaS pagos** | [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`OpenPanel`](https://github.com/openpanel-dev/openpanel) *(Mixpanel)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)*, [`Cal.com`](https://github.com/calcom/cal.com) *(Calendly)*, [`Open SaaS`](https://github.com/wasp-lang/open-saas) | [8. 🏠 Substitutos Open-Source](#categoria-8) |
-| **Edição e manipulação automatizada de vídeo e áudio** | [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`SadTalker`](https://github.com/OpenTalker/SadTalker), [`Cap`](https://github.com/CapSoftware/Cap), [`Audiobookshelf`](https://github.com/advplyr/audiobookshelf) | [4. 🎬 Geração & Mídia](#categoria-4) |
+| **Substitutos self-hosted para economizar em SaaS pagos** | [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`OpenPanel`](https://github.com/openpanel-dev/openpanel) *(Mixpanel)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [8. 🏠 Substitutos Open-Source](#categoria-8) |
+| **Edição e manipulação automatizada de vídeo e áudio** | [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`Cobalt`](https://github.com/imputnet/cobalt), [`SadTalker`](https://github.com/OpenTalker/SadTalker), [`Cap`](https://github.com/CapSoftware/Cap) | [4. 🎬 Geração & Mídia](#categoria-4) |
 | **Testes de intrusão, hacking de RF e OSINT** | [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter), [`Spiderfoot`](https://github.com/smicallef/spiderfoot) | [5. 🛡️ Cibersegurança](#categoria-5) |
-| **Proteger privacidade, bloquear anúncios e telemetria** | [`AdGuard Home`](https://github.com/AdguardTeam/AdGuardHome), [`Brave Browser`](https://github.com/brave/brave-browser), [`uBlock Origin`](https://github.com/gorhill/uBlock), [`Syncthing`](https://github.com/syncthing/syncthing) | [10. 🔒 Privacidade](#categoria-10) |
+| **Proteger privacidade, bloquear anúncios e telemetria** | [`SearXNG`](https://github.com/searxng/searxng), [`AdGuard Home`](https://github.com/AdguardTeam/AdGuardHome), [`Brave Browser`](https://github.com/brave/brave-browser), [`uBlock Origin`](https://github.com/gorhill/uBlock) | [10. 🔒 Privacidade](#categoria-10) |
 
 ---
 
@@ -52,6 +52,7 @@
 |---|---|---|
 | **500 AI Agents Projects** | [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | Coleção com mais de 500 tutoriais e projetos práticos de agentes autônomos de IA. |
 | **Agent-S** | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | Framework de agentes autônomos GUI que interagem com o sistema operacional e computadores exatamente como um ser humano. |
+| **Agentic Inbox** | [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) | Cliente de email inteligente e auto-hospedado rodando 100% em Cloudflare Workers com agente de IA integrado para triagem. |
 | **AgentTrace** | [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) | TUI/CLI local-first em Rust para auditoria e observabilidade de sessões de agentes de código (análise de custo, tokens, latência e taxas de falha). |
 | **AI Agents for Beginners** | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Curso e guia oficial da Microsoft para criação e arquitetura de sistemas com agentes de IA. |
 | **AI Memory Architecture** | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Estudos práticos e implementações de arquiteturas de memória persistente para agentes de IA. |
@@ -74,6 +75,7 @@
 | **Mem0** | [mem0ai/mem0](https://github.com/mem0ai/mem0) | Camada de memória adaptativa e persistente para agentes de IA e chatbots. |
 | **MetaGPT** | [geekan/MetaGPT](https://github.com/geekan/MetaGPT) | Framework multi-agente que simula uma software house completa (PM, arquiteto, dev, QA). |
 | **Multica** | [multica-io/multica](https://github.com/multica-io/multica) | Plataforma e ambiente para desenvolvimento de agentes de software autônomos. |
+| **Open-LLM-VTuber** | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Interação por voz hands-free em tempo real com qualquer LLM local integrado a avatar Live2D responsivo e interrupção natural. |
 | **OpenHands** | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | Plataforma open-source de agentes autônomos para desenvolvimento de software (antigo OpenDevin). |
 | **Pullfrog** | [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog) | Bot em GitHub Actions que analisa PRs, responde revisões e corrige falhas de CI. |
 | **Scientific Agent Skills** | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Biblioteca líder com mais de 170 skills e 100+ bases de dados científicas (biologia, química, medicina) para transformar agentes em pesquisadores autônomos. |
@@ -117,6 +119,7 @@
 | **AutoScraper** | [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) | Scraper inteligente e automático para Python que aprende a extrair dados baseado em poucos exemplos. |
 | **Browser-Use** | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Torna qualquer site acessível para agentes de IA interagirem como humanos usando visão e árvore DOM. |
 | **Camofox** | [redf0x1/camofox-browser](https://github.com/redf0x1/camofox-browser) | Navegador anti-detecção baseado no motor Camoufox com servidor MCP para agentes evitarem bloqueios. |
+| **Camofox Browser** | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | Navegador headless furtivo projetado para agentes de IA burlarem Cloudflare, proteções antibot e bloqueios de scraping sem esforço. |
 | **Crawl4AI** | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Crawler e scraper web ultra-rápido projetado especialmente para alimentar LLMs e pipelines de RAG. |
 | **Crawlee** | [apify/crawlee](https://github.com/apify/crawlee) | Biblioteca avançada para crawling e scraping web confiável em Node.js e Python com gestão de proxies e fingerprints. |
 | **curl-impersonate** | [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) | Build especial do curl que mimetiza assinaturas TLS/HTTP2 de navegadores reais para evitar bloqueios. |
@@ -137,6 +140,7 @@
 |---|---|---|
 | **Auto-Editor** | [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) | Ferramenta de linha de comando para edição automatizada de vídeo e áudio, cortando silêncios e pausas sem intervenção manual. |
 | **ChatTTS** | [2noise/ChatTTS](https://github.com/2noise/ChatTTS) | Modelo de conversação texto-para-fala de altíssima qualidade com entonações, pausas e risadas naturais. |
+| **Cobalt** | [imputnet/cobalt](https://github.com/imputnet/cobalt) | Ferramenta moderna, limpa e sem anúncios para baixar mídias e vídeos de redes sociais e plataformas de streaming. |
 | **Diffusers** | [huggingface/diffusers](https://github.com/huggingface/diffusers) | A biblioteca padrão da indústria para modelos de difusão de imagem, áudio e vídeo da Hugging Face. |
 | **EchoMimic** | [BadToBest/EchoMimic](https://github.com/BadToBest/EchoMimic) | Geração de animações de retrato realistas sincronizadas com áudio e pontos de referência facial. |
 | **Fooocus** | [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) | Interface simplificada e otimizada para geração de imagens de alta qualidade com SDXL (alternativa local ao Midjourney). |
@@ -206,6 +210,7 @@
 | **DrawDB** | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | Modelador de diagramas Entidade-Relacionamento (ERD) direto no navegador com exportação SQL. |
 | **ElysiaJS** | [elysiajs/elysia](https://github.com/elysiajs/elysia) | Framework web TypeScript ergonômico e com desempenho recorde projetado para o runtime Bun. |
 | **Excalidraw** | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Quadro branco virtual infinito para diagramação e colaboração visual com estilo desenhado à mão. |
+| **Gallery-dl** | [mikf/gallery-dl](https://github.com/mikf/gallery-dl) | Utilitário de linha de comando para download automatizado de galerias completas de imagens de dezenas de plataformas e fóruns. |
 | **GH-Dash** | [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | Painel interativo dentro do terminal para gerenciar Pull Requests e Issues do GitHub sem usar o browser. |
 | **Ghost Downloader 3** | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Gerenciador e acelerador de download modular de código aberto com suporte a múltiplos protocolos. |
 | **GitIngest** | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | Substitui "hub" por "ingest" em qualquer URL do GitHub para gerar um extrato de código formatado e otimizado para contexto em prompts de LLMs. |
@@ -249,13 +254,17 @@
 | **Anytype** | [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) | SaaS pago | Espaço de trabalho local e criptografado para notas, tarefas e grafos de conhecimento com arquitetura P2P. |
 | **Apache Cloudberry** | [apache/cloudberry](https://github.com/apache/cloudberry) | Greenplum, Snowflake | Banco de dados analítico de processamento massivo paralelo (MPP) maduro e open-source para Big Data e Data Warehouses. |
 | **AppFlowy** | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Notion | Espaço de trabalho seguro e local para notas, quadros Kanban e documentação. |
+| **ArchiveBox** | [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | Wayback Machine, Pocket, Pinboard | Solução completa e auto-hospedada de arquivamento web (salva páginas, PDFs, HTML, mídias e capturas com replay offline). |
 | **Audiobookshelf** | [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) | Audible | Servidor auto-hospedado para organizar e ouvir audiolivros e podcasts (alternativa ao Audible). |
 | **Cal.com** | [calcom/cal.com](https://github.com/calcom/cal.com) | Calendly | Plataforma completa de agendamento de eventos e reuniões com integrações de calendário (alternativa ao Calendly). |
 | **Cap** | [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Loom | Gravador de tela open-source leve e compartilhável instantaneamente. |
+| **ChangeDetection.io** | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Visualping, Distill.io | Ferramenta self-hosted para monitoramento contínuo de alterações em páginas web, quedas de preço e alertas de estoque em tempo real. |
 | **Docmost** | [docmost/docmost](https://github.com/docmost/docmost) | Notion e confluence | Wiki e plataforma de documentação colaborativa em tempo real para times (alternativa ao Notion e Confluence). |
 | **EdgeEver** | [edgeever/edgeever](https://github.com/edgeever/edgeever) | Evernote | Aplicativo de anotações em três colunas que roda na infraestrutura gratuita da Cloudflare. |
 | **Home Assistant** | [home-assistant/core](https://github.com/home-assistant/core) | SaaS pago | O principal ecossistema de automação residencial de código aberto focado em controle local e privacidade. |
 | **Immich** | [immich-app/immich](https://github.com/immich-app/immich) | Google Fotos | Backup de fotos com reconhecimento facial, mapas e pesquisa sem custos de nuvem. |
+| **KaraKeep** | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | Raindrop, Pocket, Notion Clipper | Aplicativo self-hosted para salvar tudo (links, notas, imagens) com auto-tagging por IA e busca textual profunda. |
+| **LocalSend** | [localsend/localsend](https://github.com/localsend/localsend) | AirDrop, WeTransfer | Alternativa open-source, segura e multiplataforma ao AirDrop para compartilhamento direto de arquivos via rede local sem nuvem. |
 | **Maybe Finance** | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | Copilot / Monarch Money | Aplicativo open-source e auto-hospedado de gestão financeira pessoal e controle de patrimônio. |
 | **Memos** | [usememos/memos](https://github.com/usememos/memos) | SaaS pago | Ambiente leve para anotações rápidas e microblogging com total privacidade e auto-hospedagem. |
 | **n8n** | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Zapier / Make | Plataforma de automação visual de fluxos de trabalho com centenas de integrações. |
@@ -267,8 +276,10 @@
 | **Paperless-ngx** | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | SaaS pago | Indexador e gerenciador de documentos físicos digitalizados com OCR automático e busca instantânea. |
 | **Penpot** | [penpot/penpot](https://github.com/penpot/penpot) | Figma | Plataforma colaborativa de design de interface e prototipagem baseada em padrões web (alternativa ao Figma). |
 | **Plausible Analytics** | [plausible/analytics](https://github.com/plausible/analytics) | SaaS pago | Analytics de sites moderno, ultraleve (<1 KB), sem cookies e em total conformidade com a LGPD/GDPR. |
+| **Reactive Resume** | [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) | Novoresume, Canva Resumes | Construtor completo de currículos profissionais, gratuito, focado em privacidade, altamente customizável e exportável em PDF. |
 | **Stirling-PDF** | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Adobe Acrobat / iLovePDF | Suíte web local completa para juntar, dividir, comprimir, converter e assinar PDFs. |
 | **Supabase** | [supabase/supabase](https://github.com/supabase/supabase) | Firebase | Plataforma de backend completa com PostgreSQL, autenticação, realtime e storage (alternativa ao Firebase). |
+| **Suwayomi-Server** | [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | Apps pagos de leitura | Servidor e cliente desktop multiplataforma para leitura de mangás e quadrinhos baseado na arquitetura Tachiyomi. |
 | **TREK** | [liketrek/TREK](https://github.com/liketrek/TREK) | TripIt / Notion | Planejador de viagens e roteiros auto-hospedado com mapas interativos, colaboração em tempo real e orçamentos. |
 | **Twenty** | [twentyhq/twenty](https://github.com/twentyhq/twenty) | Salesforce / HubSpot | CRM moderno de código aberto projetado para a era da IA, altamente customizável e auto-hospedado. |
 | **Umami** | [umami-software/umami](https://github.com/umami-software/umami) | Google Analytics | Analytics de sites simples, rápido, em conformidade com a LGPD e sem coletar dados invasivos. |
@@ -291,6 +302,7 @@
 | **GeoLibre** | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | Plataforma GIS cloud-native leve para visualização, exploração e análise de dados geoespaciais. |
 | **Google Timeline Visualizer** | [manolotis/google-timeline-visualizer](https://github.com/manolotis/google-timeline-visualizer) | Dashboard interativo para mapear viagens e trajetos exportados do histórico do Google Maps. |
 | **Open-SEO** | [every-app/open-seo](https://github.com/every-app/open-seo) | Suíte open-source para auditoria técnica de SEO, análise de palavras-chave e ranqueamento (alternativa ao Semrush). |
+| **Vibe-Trading** | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Agente autônomo pessoal de trading algorítmico baseado em LLMs com análise multimodal de sentimento de mercado e execução. |
 
 ---
 
@@ -304,6 +316,7 @@
 | **Arkenfox user.js** | [arkenfox/user.js](https://github.com/arkenfox/user.js) | Arquivo de preferências para tornar o Firefox uma fortaleza contra fingerprinting e rastreamento. |
 | **Brave Browser** | [brave/brave-browser](https://github.com/brave/brave-browser) | Navegador com bloqueador nativo de anúncios, anti-fingerprinting e proteção contra rastreadores. |
 | **Privacy Badger** | [EFForg/privacybadger](https://github.com/EFForg/privacybadger) | Extensão da Electronic Frontier Foundation que aprende a bloquear rastreadores invisíveis. |
+| **SearXNG** | [searxng/searxng](https://github.com/searxng/searxng) | Metabuscador de internet livre e auto-hospedável que agrega resultados de dezenas de serviços sem rastrear nem traçar perfis. |
 | **Syncthing** | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Sincronização contínua e criptografada de arquivos entre dispositivos de ponta a ponta sem servidores centrais. |
 | **uBlock Origin** | [gorhill/uBlock](https://github.com/gorhill/uBlock) | Bloqueador de elementos e propagandas altamente eficiente em uso de memória e CPU. |
 
