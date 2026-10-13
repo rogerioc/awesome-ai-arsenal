@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **189 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **190 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-189-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-190-blue.svg)](#-categorias)
 
 </div>
 
@@ -24,7 +24,7 @@
 | **Skills para agentes (Ciência, Cibersegurança, Diagramas)** | [`Scientific Agent Skills`](https://github.com/K-Dense-AI/scientific-agent-skills), [`Anthropic Cybersecurity Skills`](https://github.com/liptonj-eng/anthropic-cybersecurity-skills), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design) | [1. 🤖 Agentes](#categoria-1) / [5. 🛡️ Segurança](#categoria-5) |
 | **Substitutos self-hosted para economizar em SaaS pagos** | [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`OpenPanel`](https://github.com/openpanel-dev/openpanel) *(Mixpanel)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [8. 🏠 Substitutos Open-Source](#categoria-8) |
 | **Edição e manipulação automatizada de vídeo e áudio** | [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`Cobalt`](https://github.com/imputnet/cobalt), [`SadTalker`](https://github.com/OpenTalker/SadTalker), [`Cap`](https://github.com/CapSoftware/Cap) | [4. 🎬 Geração & Mídia](#categoria-4) |
-| **Testes de intrusão, hacking de RF e OSINT** | [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter), [`Spiderfoot`](https://github.com/smicallef/spiderfoot) | [5. 🛡️ Cibersegurança](#categoria-5) |
+| **Engenharia reversa, testes de intrusão e OSINT** | [`Rea`](https://github.com/morluto/rea), [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter) | [5. 🛡️ Cibersegurança](#categoria-5) |
 | **Proteger privacidade, bloquear anúncios e telemetria** | [`SearXNG`](https://github.com/searxng/searxng), [`AdGuard Home`](https://github.com/AdguardTeam/AdGuardHome), [`Brave Browser`](https://github.com/brave/brave-browser), [`uBlock Origin`](https://github.com/gorhill/uBlock) | [10. 🔒 Privacidade](#categoria-10) |
 
 ---
@@ -181,6 +181,7 @@
 | **OWASP ZAP** | [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) | Scanner gratuito e de código aberto para encontrar falhas de segurança em aplicações web. |
 | **PhoneInfoga** | [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Ferramenta avançada para escaneamento e rastreamento de informações sobre números de telefone. |
 | **Pwdb-Public** | [FlameOfIgnis/Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) | Dataset e utilitários para análise forense e auditoria de credenciais vazadas em pentest defensivo. |
+| **Rea** | [morluto/rea](https://github.com/morluto/rea) | Engenharia reversa automatizada com agentes de IA, capaz de dissecar desde comportamento de aplicações até descompilação de binários nativos. |
 | **RuView** | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Transforma sinais Wi-Fi em inteligência espacial em tempo real, presença e monitoramento sem câmeras. |
 | **Sherlock** | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Localiza perfis e contas de um mesmo nome de usuário em centenas de redes sociais simultaneamente. |
 | **Strix** | [usestrix/strix](https://github.com/usestrix/strix) | Scanner de vulnerabilidades e segurança ofensiva automatizado para aplicações web e APIs. |
