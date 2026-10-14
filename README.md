@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **191 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **198 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-191-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-198-blue.svg)](#-categorias)
 
 </div>
 
@@ -20,11 +20,12 @@
 | **Executar LLMs locais & otimizar custo de tokens** | [`Ollama`](https://github.com/ollama/ollama), [`vLLM`](https://github.com/vllm-project/vllm), [`DSPy`](https://github.com/stanfordnlp/dspy), [`Awesome Token Optimization`](https://github.com/pleasedodisturb/awesome-llm-token-optimization) | [2. 🧠 LLMs & Inferência](#categoria-2) |
 | **Assistente de código, observabilidade & compressão de tokens** | [`Aider`](https://github.com/paul-gauthier/aider), [`RTK`](https://github.com/rtk-ai/rtk), [`GitIngest`](https://github.com/coderamp-labs/gitingest), [`ccusage`](https://github.com/ccusage/ccusage), [`AgentTrace`](https://github.com/luoyuctl/agenttrace) | [1. 🤖 Agentes](#categoria-1) / [6. 💻 DevTools](#categoria-6) |
 | **Agentes autônomos que operam o computador (GUI/OS)** | [`Agent-S`](https://github.com/simular-ai/Agent-S), [`AppAgent`](https://github.com/mnotgod96/AppAgent), [`Show-1`](https://github.com/showlab/Show-1) | [1. 🤖 Agentes de IA](#categoria-1) |
-| **Construir fluxos visuais e equipes multi-agente** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes de IA](#categoria-1) |
-| **Skills para agentes (Ciência, Cibersegurança, Diagramas)** | [`Scientific Agent Skills`](https://github.com/K-Dense-AI/scientific-agent-skills), [`Anthropic Cybersecurity Skills`](https://github.com/liptonj-eng/anthropic-cybersecurity-skills), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design) | [1. 🤖 Agentes](#categoria-1) / [5. 🛡️ Segurança](#categoria-5) |
-| **Substitutos self-hosted para economizar em SaaS pagos** | [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`OpenPanel`](https://github.com/openpanel-dev/openpanel) *(Mixpanel)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [8. 🏠 Substitutos Open-Source](#categoria-8) |
-| **Edição e manipulação automatizada de vídeo e áudio** | [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`Cobalt`](https://github.com/imputnet/cobalt), [`SadTalker`](https://github.com/OpenTalker/SadTalker), [`Cap`](https://github.com/CapSoftware/Cap) | [4. 🎬 Geração & Mídia](#categoria-4) |
-| **Engenharia reversa, testes de intrusão e OSINT** | [`Rea`](https://github.com/morluto/rea), [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter) | [5. 🛡️ Cibersegurança](#categoria-5) |
+| **Construir fluxos visuais, equipes multi-agente & APIs** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`Nango`](https://github.com/NangoHQ/nango), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes](#categoria-1) / [7. ⚙️ DevOps](#categoria-7) |
+| **Skills para agentes (Engenharia, Ciência, Segurança)** | [`Agent-Skills`](https://github.com/addyosmani/agent-skills), [`Scientific Agent Skills`](https://github.com/K-Dense-AI/scientific-agent-skills), [`Anthropic Cybersecurity Skills`](https://github.com/liptonj-eng/anthropic-cybersecurity-skills), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design) | [1. 🤖 Agentes](#categoria-1) / [5. 🛡️ Segurança](#categoria-5) |
+| **Substitutos self-hosted para economizar em SaaS pagos** | [`LibreChat`](https://github.com/LibreChat-AI/LibreChat) *(ChatGPT/Claude)*, [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`OpenPanel`](https://github.com/openpanel-dev/openpanel) *(Mixpanel)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [8. 🏠 Substitutos Open-Source](#categoria-8) |
+| **Edição, clonagem de voz e criação de vídeos curtos** | [`MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo), [`VoxCPM`](https://github.com/OpenBMB/VoxCPM), [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`Cobalt`](https://github.com/imputnet/cobalt), [`SadTalker`](https://github.com/OpenTalker/SadTalker) | [4. 🎬 Geração & Mídia](#categoria-4) |
+| **Trading quantitativo & inteligência de mercado financeiro** | [`TradingAgents`](https://github.com/TauricResearch/TradingAgents), [`Fincept Terminal`](https://github.com/Fincept-Corporation/FinceptTerminal), [`Vibe-Trading`](https://github.com/HKUDS/Vibe-Trading), [`FinRL`](https://github.com/AI4Finance-Foundation/FinRL) | [9. 📈 Negócios & Finanças](#categoria-9) |
+| **Engenharia reversa, análise de vínculos OSINT e pentest** | [`Rea`](https://github.com/morluto/rea), [`Flowsint`](https://github.com/reconurge/flowsint), [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter) | [5. 🛡️ Cibersegurança](#categoria-5) |
 | **Proteger privacidade, bloquear anúncios e telemetria** | [`SearXNG`](https://github.com/searxng/searxng), [`AdGuard Home`](https://github.com/AdguardTeam/AdGuardHome), [`Brave Browser`](https://github.com/brave/brave-browser), [`uBlock Origin`](https://github.com/gorhill/uBlock) | [10. 🔒 Privacidade](#categoria-10) |
 
 ---
@@ -52,6 +53,7 @@
 |---|---|---|
 | **500 AI Agents Projects** | [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | Coleção com mais de 500 tutoriais e projetos práticos de agentes autônomos de IA. |
 | **Agent-S** | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | Framework de agentes autônomos GUI que interagem com o sistema operacional e computadores exatamente como um ser humano. |
+| **Agent-Skills** | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Biblioteca padronizada de habilidades de engenharia prontas para produção para agentes de código (Claude Code, Cursor, Antigravity). |
 | **Agentic Inbox** | [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) | Cliente de email inteligente e auto-hospedado rodando 100% em Cloudflare Workers com agente de IA integrado para triagem. |
 | **AgentTrace** | [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) | TUI/CLI local-first em Rust para auditoria e observabilidade de sessões de agentes de código (análise de custo, tokens, latência e taxas de falha). |
 | **AI Agents for Beginners** | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Curso e guia oficial da Microsoft para criação e arquitetura de sistemas com agentes de IA. |
@@ -148,11 +150,13 @@
 | **Hypit** | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | Pega vídeos de referência de alta performance e clona sua estrutura em código editável por IA. |
 | **Lazy-Frames** | [cosmicstack-labs/lazy-frames](https://github.com/cosmicstack-labs/lazy-frames) | Workflow local alimentado por agentes de IA para criar e renderizar animações em MP4. |
 | **LivePortrait** | [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) | Anima retratos e fotos estáticas reproduzindo expressões faciais e movimentos de vídeo de referência. |
+| **MoneyPrinterTurbo** | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Automação completa para geração de vídeos curtos em alta resolução para TikTok, Shorts e Reels com um único clique a partir de temas ou palavras-chave. |
 | **MoneyPrinterV2** | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Gerador automatizado de vídeos curtos (Shorts/Reels) com narração, legendas e B-roll por IA. |
 | **Open-Generative-AI** | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Estúdio de código aberto para geração e manipulação de mídia, imagens e vídeos com múltiplos modelos. |
 | **Pipecat** | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | Framework open-source de produção para agentes de voz e IA multimodal em tempo real. |
 | **SadTalker** | [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) | Produz vídeos de cabeças falantes (Talking Heads) a partir de uma foto e um áudio de voz. |
 | **TRELLIS.2** | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | Modelo de ponta da Microsoft para geração de ativos 3D de alta fidelidade a partir de imagens e texto. |
+| **VoxCPM** | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Modelo de síntese de voz (TTS) de última geração sem tokenizador para clonagem de voz ultra-realista e fala multilíngue com alta expressividade. |
 | **Whisper** | [openai/whisper](https://github.com/openai/whisper) | Modelo de reconhecimento e transcrição de fala em áudio e múltiplos idiomas de alta precisão. |
 
 ---
@@ -170,6 +174,7 @@
 | **dex2jar** | [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) | Ferramentas essenciais para trabalhar com arquivos Android .dex e converter para classes Java (.class / .jar). |
 | **ESP32-BlueJammer** | [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) | Utilitário para testes de intrusão e estresse de rádio frequência 2.4GHz (Bluetooth/BLE/WiFi) utilizando ESP32 e módulos nRF24. |
 | **Fieldwatch** | [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch) | Observador passivo e seguro de transmissões Wi-Fi e Bluetooth LE para Android. |
+| **Flowsint** | [reconurge/flowsint](https://github.com/reconurge/flowsint) | Plataforma visual baseada em grafos para investigações de inteligência cibernética, análise de vínculos e correlação de entidades em OSINT. |
 | **IOSSecuritySuite** | [securing/IOSSecuritySuite](https://github.com/securing/IOSSecuritySuite) | Biblioteca open-source em Swift para segurança mobile: detecção de jailbreak, anti-debug, hooks e integridade. |
 | **Kali NetHunter** | [offensive-security/kali-nethunter](https://github.com/offensive-security/kali-nethunter) | Sistema operacional Kali Linux adaptado para smartphones Android (ver também [GitLab oficial](https://gitlab.com/kalilinux/nethunter/)). |
 | **Metasploit** | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | O framework de testes de invasão e validação de vulnerabilidades mais utilizado no mundo. |
@@ -242,6 +247,7 @@
 | **Dagu** | [dagu-org/dagu](https://github.com/dagu-org/dagu) | Orquestrador leve e database-free para rodar DAGs declarativas em YAML; alternativa direta ao Airflow e Cron. |
 | **Fleetbase** | [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) | Sistema operacional modular open-source para gestão de frotas, entregas e supply chain. |
 | **Homelab GitOps IaC** | [Mafyuh/iac](https://github.com/Mafyuh/iac) | Exemplo completo de Infrastructure as Code (IaC) orientada a GitOps para infraestrutura e servidores locais. |
+| **Nango** | [NangoHQ/nango](https://github.com/NangoHQ/nango) | Plataforma de infraestrutura de integrações e autenticação OAuth unificada para conectar agentes de IA e aplicações a mais de 1.000 APIs externas. |
 | **NetBox** | [netbox-community/netbox](https://github.com/netbox-community/netbox) | A principal ferramenta de documentação e fonte de verdade (DCIM/IPAM) para redes de computadores. |
 | **Uniterm** | [uniterm-app/uniterm](https://github.com/uniterm-app/uniterm) | Aplicativo que suporta mais de 30 protocolos de conexão e permite que agentes de IA rodem comandos shell. |
 
@@ -266,6 +272,7 @@
 | **Home Assistant** | [home-assistant/core](https://github.com/home-assistant/core) | SaaS pago | O principal ecossistema de automação residencial de código aberto focado em controle local e privacidade. |
 | **Immich** | [immich-app/immich](https://github.com/immich-app/immich) | Google Fotos | Backup de fotos com reconhecimento facial, mapas e pesquisa sem custos de nuvem. |
 | **KaraKeep** | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | Raindrop, Pocket, Notion Clipper | Aplicativo self-hosted para salvar tudo (links, notas, imagens) com auto-tagging por IA e busca textual profunda. |
+| **LibreChat** | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | ChatGPT Plus, Claude Pro, Poe | Interface web open-source definitiva para múltiplos modelos de IA com suporte nativo a MCP (Model Context Protocol), Code Interpreter, Artifacts e autenticação multiusuário. |
 | **LibreTranslate** | [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | Google Translate API, DeepL | API e motor de tradução automática 100% open-source, auto-hospedável e offline, sem chaves pagas nem envio de dados para nuvem. |
 | **LocalSend** | [localsend/localsend](https://github.com/localsend/localsend) | AirDrop, WeTransfer | Alternativa open-source, segura e multiplataforma ao AirDrop para compartilhamento direto de arquivos via rede local sem nuvem. |
 | **Maybe Finance** | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | Copilot / Monarch Money | Aplicativo open-source e auto-hospedado de gestão financeira pessoal e controle de patrimônio. |
@@ -305,6 +312,7 @@
 | **GeoLibre** | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | Plataforma GIS cloud-native leve para visualização, exploração e análise de dados geoespaciais. |
 | **Google Timeline Visualizer** | [manolotis/google-timeline-visualizer](https://github.com/manolotis/google-timeline-visualizer) | Dashboard interativo para mapear viagens e trajetos exportados do histórico do Google Maps. |
 | **Open-SEO** | [every-app/open-seo](https://github.com/every-app/open-seo) | Suíte open-source para auditoria técnica de SEO, análise de palavras-chave e ranqueamento (alternativa ao Semrush). |
+| **TradingAgents** | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Framework multi-agente para trading quantitativo onde equipes autônomas de LLMs colaboram para analisar fundamentos, gráficos técnicos e risco. |
 | **Vibe-Trading** | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Agente autônomo pessoal de trading algorítmico baseado em LLMs com análise multimodal de sentimento de mercado e execução. |
 
 ---
