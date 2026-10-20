@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **206 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **207 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-206-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-207-blue.svg)](#-categorias)
 
 </div>
 
@@ -22,7 +22,7 @@
 | **Agentes autônomos que operam o computador (GUI/OS)** | [`Agent-S`](https://github.com/simular-ai/Agent-S), [`AppAgent`](https://github.com/mnotgod96/AppAgent), [`Artemis`](https://github.com/google/artemis) *(Android)*, [`Show-1`](https://github.com/showlab/Show-1) | [1. 🤖 Agentes de IA](#categoria-1) |
 | **Construir fluxos visuais, equipes multi-agente & APIs** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`Nango`](https://github.com/NangoHQ/nango), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes](#categoria-1) / [7. ⚙️ DevOps](#categoria-7) |
 | **Skills para agentes (Engenharia, Ciência, Segurança)** | [`Agent-Skills`](https://github.com/addyosmani/agent-skills), [`Anatomy`](https://github.com/wheresryan22/anatomy) *(Diagramas 3D/SVG)*, [`Scientific Agent Skills`](https://github.com/K-Dense-AI/scientific-agent-skills), [`Anthropic Cybersecurity Skills`](https://github.com/liptonj-eng/anthropic-cybersecurity-skills), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design) | [1. 🤖 Agentes](#categoria-1) / [5. 🛡️ Segurança](#categoria-5) |
-| **Substitutos self-hosted para economizar em SaaS pagos** | [`WordCraft`](https://github.com/storytold/wordcraft) *(Word)*, [`SolidCraft`](https://github.com/tangency-labs/solidcraft) *(AutoCAD)*, [`LibreChat`](https://github.com/LibreChat-AI/LibreChat) *(ChatGPT/Claude)*, [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [8. 🏠 Substitutos Open-Source](#categoria-8) |
+| **Substitutos self-hosted para economizar em SaaS pagos** | [`WordCraft`](https://github.com/storytold/wordcraft) *(Word)*, [`SolidCraft`](https://github.com/tangency-labs/solidcraft) *(AutoCAD)*, [`Oomwoo`](https://github.com/makerspet/oomwoo) *(Roomba)*, [`LibreChat`](https://github.com/LibreChat-AI/LibreChat) *(ChatGPT/Claude)*, [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [8. 🏠 Substitutos Open-Source](#categoria-8) |
 | **Edição, clonagem de voz e criação de vídeos curtos** | [`VoiceStudio`](https://github.com/debpalash/VoiceStudio) *(ElevenLabs)*, [`MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo), [`VoxCPM`](https://github.com/OpenBMB/VoxCPM), [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`Cobalt`](https://github.com/imputnet/cobalt), [`SadTalker`](https://github.com/OpenTalker/SadTalker) | [4. 🎬 Geração & Mídia](#categoria-4) |
 | **Trading quantitativo & inteligência de mercado financeiro** | [`TradingAgents`](https://github.com/TauricResearch/TradingAgents), [`OpenTerminal`](https://github.com/ErTasselli/OpenTerminal), [`Fincept Terminal`](https://github.com/Fincept-Corporation/FinceptTerminal), [`Vibe-Trading`](https://github.com/HKUDS/Vibe-Trading), [`FinRL`](https://github.com/AI4Finance-Foundation/FinRL) | [9. 📈 Negócios & Finanças](#categoria-9) |
 | **Engenharia reversa, análise de vínculos OSINT e pentest** | [`Rea`](https://github.com/morluto/rea), [`Flowsint`](https://github.com/reconurge/flowsint), [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter) | [5. 🛡️ Cibersegurança](#categoria-5) |
@@ -285,6 +285,7 @@
 | **n8n** | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Zapier / Make | Plataforma de automação visual de fluxos de trabalho com centenas de integrações. |
 | **NocoDB** | [nocodb/nocodb](https://github.com/nocodb/nocodb) | Airtable | Transforma qualquer banco de dados relacional (MySQL, Postgres, etc.) em interface de planilha inteligente (alternativa ao Airtable). |
 | **NZBdav** | [nzbdav/nzbdav](https://github.com/nzbdav/nzbdav) | Armazenamento local | Monta arquivos do Usenet como unidade virtual para streaming no Sonarr/Radarr. |
+| **Oomwoo** | [makerspet/oomwoo](https://github.com/makerspet/oomwoo) | iRobot Roomba, Roborock | Aspirador robô totalmente open-source com navegação LiDAR SLAM, ROS2, ESP32, Raspberry Pi e integração nativa com o Home Assistant para automação residencial livre de nuvem proprietária. |
 | **Open SaaS** | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | SaaS Boilerplates pagos ($200+) | Boilerplate full-stack 100% gratuito (React, NodeJS, Prisma, Stripe) com autenticação, pagamentos, tarefas em background e suporte nativo a agentes de IA. |
 | **OpenPanel** | [openpanel-dev/openpanel](https://github.com/openpanel-dev/openpanel) | Mixpanel, Amplitude | Plataforma self-hosted de analytics de produto e tráfego web moderna e focada em privacidade, alternativa direta ao Mixpanel e Amplitude. |
 | **OpenWA** | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | Twilio / Z-API | Gateway de API do WhatsApp gratuito, auto-hospedado e de código aberto para envio e recebimento de mensagens. |
