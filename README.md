@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **198 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **206 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-198-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-206-blue.svg)](#-categorias)
 
 </div>
 
@@ -19,12 +19,12 @@
 | **Rastrear e extrair dados web para LLMs sem bloqueios** | [`Crawl4AI`](https://github.com/unclecode/crawl4ai), [`Browser-Use`](https://github.com/browser-use/browser-use), [`Scrapling`](https://github.com/D4Vinci/Scrapling), [`Camofox`](https://github.com/jo-inc/camofox-browser) | [3. 🌐 Automação & Scraping](#categoria-3) |
 | **Executar LLMs locais & otimizar custo de tokens** | [`Ollama`](https://github.com/ollama/ollama), [`vLLM`](https://github.com/vllm-project/vllm), [`DSPy`](https://github.com/stanfordnlp/dspy), [`Awesome Token Optimization`](https://github.com/pleasedodisturb/awesome-llm-token-optimization) | [2. 🧠 LLMs & Inferência](#categoria-2) |
 | **Assistente de código, observabilidade & compressão de tokens** | [`Aider`](https://github.com/paul-gauthier/aider), [`RTK`](https://github.com/rtk-ai/rtk), [`GitIngest`](https://github.com/coderamp-labs/gitingest), [`ccusage`](https://github.com/ccusage/ccusage), [`AgentTrace`](https://github.com/luoyuctl/agenttrace) | [1. 🤖 Agentes](#categoria-1) / [6. 💻 DevTools](#categoria-6) |
-| **Agentes autônomos que operam o computador (GUI/OS)** | [`Agent-S`](https://github.com/simular-ai/Agent-S), [`AppAgent`](https://github.com/mnotgod96/AppAgent), [`Show-1`](https://github.com/showlab/Show-1) | [1. 🤖 Agentes de IA](#categoria-1) |
+| **Agentes autônomos que operam o computador (GUI/OS)** | [`Agent-S`](https://github.com/simular-ai/Agent-S), [`AppAgent`](https://github.com/mnotgod96/AppAgent), [`Artemis`](https://github.com/google/artemis) *(Android)*, [`Show-1`](https://github.com/showlab/Show-1) | [1. 🤖 Agentes de IA](#categoria-1) |
 | **Construir fluxos visuais, equipes multi-agente & APIs** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`Nango`](https://github.com/NangoHQ/nango), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes](#categoria-1) / [7. ⚙️ DevOps](#categoria-7) |
-| **Skills para agentes (Engenharia, Ciência, Segurança)** | [`Agent-Skills`](https://github.com/addyosmani/agent-skills), [`Scientific Agent Skills`](https://github.com/K-Dense-AI/scientific-agent-skills), [`Anthropic Cybersecurity Skills`](https://github.com/liptonj-eng/anthropic-cybersecurity-skills), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design) | [1. 🤖 Agentes](#categoria-1) / [5. 🛡️ Segurança](#categoria-5) |
-| **Substitutos self-hosted para economizar em SaaS pagos** | [`LibreChat`](https://github.com/LibreChat-AI/LibreChat) *(ChatGPT/Claude)*, [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`OpenPanel`](https://github.com/openpanel-dev/openpanel) *(Mixpanel)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [8. 🏠 Substitutos Open-Source](#categoria-8) |
-| **Edição, clonagem de voz e criação de vídeos curtos** | [`MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo), [`VoxCPM`](https://github.com/OpenBMB/VoxCPM), [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`Cobalt`](https://github.com/imputnet/cobalt), [`SadTalker`](https://github.com/OpenTalker/SadTalker) | [4. 🎬 Geração & Mídia](#categoria-4) |
-| **Trading quantitativo & inteligência de mercado financeiro** | [`TradingAgents`](https://github.com/TauricResearch/TradingAgents), [`Fincept Terminal`](https://github.com/Fincept-Corporation/FinceptTerminal), [`Vibe-Trading`](https://github.com/HKUDS/Vibe-Trading), [`FinRL`](https://github.com/AI4Finance-Foundation/FinRL) | [9. 📈 Negócios & Finanças](#categoria-9) |
+| **Skills para agentes (Engenharia, Ciência, Segurança)** | [`Agent-Skills`](https://github.com/addyosmani/agent-skills), [`Anatomy`](https://github.com/wheresryan22/anatomy) *(Diagramas 3D/SVG)*, [`Scientific Agent Skills`](https://github.com/K-Dense-AI/scientific-agent-skills), [`Anthropic Cybersecurity Skills`](https://github.com/liptonj-eng/anthropic-cybersecurity-skills), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design) | [1. 🤖 Agentes](#categoria-1) / [5. 🛡️ Segurança](#categoria-5) |
+| **Substitutos self-hosted para economizar em SaaS pagos** | [`WordCraft`](https://github.com/storytold/wordcraft) *(Word)*, [`SolidCraft`](https://github.com/tangency-labs/solidcraft) *(AutoCAD)*, [`LibreChat`](https://github.com/LibreChat-AI/LibreChat) *(ChatGPT/Claude)*, [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [8. 🏠 Substitutos Open-Source](#categoria-8) |
+| **Edição, clonagem de voz e criação de vídeos curtos** | [`VoiceStudio`](https://github.com/debpalash/VoiceStudio) *(ElevenLabs)*, [`MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo), [`VoxCPM`](https://github.com/OpenBMB/VoxCPM), [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`Cobalt`](https://github.com/imputnet/cobalt), [`SadTalker`](https://github.com/OpenTalker/SadTalker) | [4. 🎬 Geração & Mídia](#categoria-4) |
+| **Trading quantitativo & inteligência de mercado financeiro** | [`TradingAgents`](https://github.com/TauricResearch/TradingAgents), [`OpenTerminal`](https://github.com/ErTasselli/OpenTerminal), [`Fincept Terminal`](https://github.com/Fincept-Corporation/FinceptTerminal), [`Vibe-Trading`](https://github.com/HKUDS/Vibe-Trading), [`FinRL`](https://github.com/AI4Finance-Foundation/FinRL) | [9. 📈 Negócios & Finanças](#categoria-9) |
 | **Engenharia reversa, análise de vínculos OSINT e pentest** | [`Rea`](https://github.com/morluto/rea), [`Flowsint`](https://github.com/reconurge/flowsint), [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter) | [5. 🛡️ Cibersegurança](#categoria-5) |
 | **Proteger privacidade, bloquear anúncios e telemetria** | [`SearXNG`](https://github.com/searxng/searxng), [`AdGuard Home`](https://github.com/AdguardTeam/AdGuardHome), [`Brave Browser`](https://github.com/brave/brave-browser), [`uBlock Origin`](https://github.com/gorhill/uBlock) | [10. 🔒 Privacidade](#categoria-10) |
 
@@ -59,8 +59,10 @@
 | **AI Agents for Beginners** | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Curso e guia oficial da Microsoft para criação e arquitetura de sistemas com agentes de IA. |
 | **AI Memory Architecture** | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Estudos práticos e implementações de arquiteturas de memória persistente para agentes de IA. |
 | **Aider** | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | Ferramenta de pair-programming de IA no terminal com suporte a git e múltiplos modelos. |
+| **Anatomy** | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | Agent Skill especializada em gerar ilustrações isométricas interativas e detalhadas de arquiteturas complexas, diagramas de sistemas e máquinas em SVG e WebGL. |
 | **AppAgent** | [mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent) | Agente multimodal que aprende e opera aplicativos Android como um humano. |
 | **Archify** | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Skill de agente para geração de diagramas de arquitetura, fluxo e ciclo de vida em HTML interativo com animações. |
+| **Artemis (Google)** | [google/artemis](https://github.com/google/artemis) | Framework oficial da Google que transforma comandos em linguagem natural em automação confiável no Android, com 99%+ de taxa de sucesso no benchmark AndroidWorld e integração nativa com assistentes de IA (Antigravity, Claude Code, Codex). |
 | **Book-to-Skill** | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Converte livros e manuais extensos em skills estruturadas e acionáveis para agentes de IA. |
 | **CrewAI** | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Framework para orquestração de equipes autônomas de agentes de IA colaborativos. |
 | **Deer-Flow** | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Framework de Deep Research e fluxos multi-agente de pesquisa profunda da ByteDance. |
@@ -75,6 +77,7 @@
 | **HTML Anything** | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | Editor agentic de HTML com 75 skills para criar apresentações, relatórios e páginas direto via agentes de IA. |
 | **Langflow** | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Interface visual baseada em nós para prototipagem e orquestração de fluxos complexos de IA e RAG. |
 | **Mem0** | [mem0ai/mem0](https://github.com/mem0ai/mem0) | Camada de memória adaptativa e persistente para agentes de IA e chatbots. |
+| **Mercury Agent** | [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) | Agente autônomo com controle granular de permissões de ferramentas, orçamentos estritos de tokens e operação contínua 24/7 com suporte a múltiplos canais (CLI, Telegram). |
 | **MetaGPT** | [geekan/MetaGPT](https://github.com/geekan/MetaGPT) | Framework multi-agente que simula uma software house completa (PM, arquiteto, dev, QA). |
 | **Multica** | [multica-io/multica](https://github.com/multica-io/multica) | Plataforma e ambiente para desenvolvimento de agentes de software autônomos. |
 | **Open-LLM-VTuber** | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Interação por voz hands-free em tempo real com qualquer LLM local integrado a avatar Live2D responsivo e interrupção natural. |
@@ -109,6 +112,7 @@
 | **TensorZero** | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | Gateway e infraestrutura open-source para otimização, feedback e orquestração de LLMs em produção. |
 | **Unsloth** | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Biblioteca de fine-tuning ultrarrápida que reduz uso de VRAM em 80% e acelera treinamento em 2x a 5x. |
 | **WhichLLM** | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | CLI que detecta a CPU/GPU/RAM da sua máquina e indica exatamente quais modelos rodam com boa velocidade. |
+| **Xerj** | [xerj-org/xerj](https://github.com/xerj-org/xerj) | Mecanismo de busca local-first e servidor MCP para agentes de IA em binário único Rust, oferecendo busca híbrida BM25 + vetorial, memória contínua para agentes e RAG ultrarrápido sem dependência de nuvem. |
 
 ---
 
@@ -156,6 +160,7 @@
 | **Pipecat** | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | Framework open-source de produção para agentes de voz e IA multimodal em tempo real. |
 | **SadTalker** | [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) | Produz vídeos de cabeças falantes (Talking Heads) a partir de uma foto e um áudio de voz. |
 | **TRELLIS.2** | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | Modelo de ponta da Microsoft para geração de ativos 3D de alta fidelidade a partir de imagens e texto. |
+| **VoiceStudio** | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Suíte open-source e 100% local com mais de 78 mil estrelas para clonagem de voz, design vocal, dublagem de vídeos, ditado e geração de audiobooks em mais de 640 idiomas. |
 | **VoxCPM** | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Modelo de síntese de voz (TTS) de última geração sem tokenizador para clonagem de voz ultra-realista e fala multilíngue com alta expressividade. |
 | **Whisper** | [openai/whisper](https://github.com/openai/whisper) | Modelo de reconhecimento e transcrição de fala em áudio e múltiplos idiomas de alta precisão. |
 
@@ -287,6 +292,7 @@
 | **Penpot** | [penpot/penpot](https://github.com/penpot/penpot) | Figma | Plataforma colaborativa de design de interface e prototipagem baseada em padrões web (alternativa ao Figma). |
 | **Plausible Analytics** | [plausible/analytics](https://github.com/plausible/analytics) | SaaS pago | Analytics de sites moderno, ultraleve (<1 KB), sem cookies e em total conformidade com a LGPD/GDPR. |
 | **Reactive Resume** | [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) | Novoresume, Canva Resumes | Construtor completo de currículos profissionais, gratuito, focado em privacidade, altamente customizável e exportável em PDF. |
+| **SolidCraft** | [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | SolidWorks, AutoCAD, Fusion 360 | Software CAD 3D paramétrico open-source desenvolvido em Rust puro para desktop e web, com integração direta ao protocolo MCP para geração e edição de modelos 3D via agentes de IA. |
 | **Stirling-PDF** | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Adobe Acrobat / iLovePDF | Suíte web local completa para juntar, dividir, comprimir, converter e assinar PDFs. |
 | **Supabase** | [supabase/supabase](https://github.com/supabase/supabase) | Firebase | Plataforma de backend completa com PostgreSQL, autenticação, realtime e storage (alternativa ao Firebase). |
 | **Suwayomi-Server** | [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | Apps pagos de leitura | Servidor e cliente desktop multiplataforma para leitura de mangás e quadrinhos baseado na arquitetura Tachiyomi. |
@@ -294,6 +300,7 @@
 | **Twenty** | [twentyhq/twenty](https://github.com/twentyhq/twenty) | Salesforce / HubSpot | CRM moderno de código aberto projetado para a era da IA, altamente customizável e auto-hospedado. |
 | **Umami** | [umami-software/umami](https://github.com/umami-software/umami) | Google Analytics | Analytics de sites simples, rápido, em conformidade com a LGPD e sem coletar dados invasivos. |
 | **Vaultwarden** | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 1Password / LastPass | Servidor alternativo em Rust compatível com todos os clientes oficiais do Bitwarden. |
+| **WordCraft** | [storytold/wordcraft](https://github.com/storytold/wordcraft) | Microsoft Word, Google Docs | Reimplementação open-source e de alta fidelidade do Microsoft Word em Rust puro, oferecendo processamento de texto ultrarrápido, offline e compatibilidade nativa com documentos .docx. |
 
 ---
 
@@ -312,6 +319,7 @@
 | **GeoLibre** | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | Plataforma GIS cloud-native leve para visualização, exploração e análise de dados geoespaciais. |
 | **Google Timeline Visualizer** | [manolotis/google-timeline-visualizer](https://github.com/manolotis/google-timeline-visualizer) | Dashboard interativo para mapear viagens e trajetos exportados do histórico do Google Maps. |
 | **Open-SEO** | [every-app/open-seo](https://github.com/every-app/open-seo) | Suíte open-source para auditoria técnica de SEO, análise de palavras-chave e ranqueamento (alternativa ao Semrush). |
+| **OpenTerminal** | [ErTasselli/OpenTerminal](https://github.com/ErTasselli/OpenTerminal) | Dashboard interativo de inteligência e trading financeiro no estilo terminal clássico, operando integralmente com dados públicos de mercado sem chaves pagas ou assinaturas. |
 | **TradingAgents** | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Framework multi-agente para trading quantitativo onde equipes autônomas de LLMs colaboram para analisar fundamentos, gráficos técnicos e risco. |
 | **Vibe-Trading** | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Agente autônomo pessoal de trading algorítmico baseado em LLMs com análise multimodal de sentimento de mercado e execução. |
 
