@@ -16,17 +16,19 @@
 
 | O que você precisa fazer? | Ferramentas Recomendadas | Categoria Direta |
 |---|---|---|
-| **Rastrear e extrair dados web para LLMs sem bloqueios** | [`Crawl4AI`](https://github.com/unclecode/crawl4ai), [`Browser-Use`](https://github.com/browser-use/browser-use), [`Scrapling`](https://github.com/D4Vinci/Scrapling), [`Camofox`](https://github.com/jo-inc/camofox-browser) | [3. 🌐 Automação & Scraping](#categoria-3) |
+| **Rastrear e extrair dados web para LLMs sem bloqueios** | [`Crawl4AI`](https://github.com/unclecode/crawl4ai), [`Browser-Use`](https://github.com/browser-use/browser-use), [`Scrapling`](https://github.com/D4Vinci/Scrapling), [`Camofox`](https://github.com/jo-inc/camofox-browser), [`PinchTab`](https://github.com/pinchtab/pinchtab) | [4. 🌐 Automação & Scraping](#categoria-4) |
 | **Executar LLMs locais & otimizar custo de tokens** | [`Ollama`](https://github.com/ollama/ollama), [`vLLM`](https://github.com/vllm-project/vllm), [`DSPy`](https://github.com/stanfordnlp/dspy), [`Awesome Token Optimization`](https://github.com/pleasedodisturb/awesome-llm-token-optimization) | [2. 🧠 LLMs & Inferência](#categoria-2) |
-| **Assistente de código, observabilidade & compressão de tokens** | [`Aider`](https://github.com/paul-gauthier/aider), [`RTK`](https://github.com/rtk-ai/rtk), [`GitIngest`](https://github.com/coderamp-labs/gitingest), [`ccusage`](https://github.com/ccusage/ccusage), [`AgentTrace`](https://github.com/luoyuctl/agenttrace) | [1. 🤖 Agentes](#categoria-1) / [6. 💻 DevTools](#categoria-6) |
-| **Agentes autônomos que operam o computador (GUI/OS)** | [`Agent-S`](https://github.com/simular-ai/Agent-S), [`AppAgent`](https://github.com/mnotgod96/AppAgent), [`Artemis`](https://github.com/google/artemis) *(Android)*, [`Show-1`](https://github.com/showlab/Show-1) | [1. 🤖 Agentes de IA](#categoria-1) |
-| **Construir fluxos visuais, equipes multi-agente & APIs** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`Nango`](https://github.com/NangoHQ/nango), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes](#categoria-1) / [7. ⚙️ DevOps](#categoria-7) |
-| **Skills para agentes (Engenharia, Ciência, Segurança)** | [`Agent-Skills`](https://github.com/addyosmani/agent-skills), [`Anatomy`](https://github.com/wheresryan22/anatomy) *(Diagramas 3D/SVG)*, [`Scientific Agent Skills`](https://github.com/K-Dense-AI/scientific-agent-skills), [`Anthropic Cybersecurity Skills`](https://github.com/liptonj-eng/anthropic-cybersecurity-skills), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design) | [1. 🤖 Agentes](#categoria-1) / [5. 🛡️ Segurança](#categoria-5) |
-| **Substitutos self-hosted para economizar em SaaS pagos** | [`Spotube`](https://github.com/team-spotube/spotube) *(Spotify)*, [`WordCraft`](https://github.com/storytold/wordcraft) *(Word)*, [`SolidCraft`](https://github.com/tangency-labs/solidcraft) *(AutoCAD)*, [`Oomwoo`](https://github.com/makerspet/oomwoo) *(Roomba)*, [`LibreChat`](https://github.com/LibreChat-AI/LibreChat) *(ChatGPT/Claude)*, [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [8. 🏠 Substitutos Open-Source](#categoria-8) |
-| **Edição, clonagem de voz e criação de vídeos curtos** | [`spotDL`](https://github.com/spotDL/spotify-downloader) *(Spotify MP3)*, [`VoiceStudio`](https://github.com/debpalash/VoiceStudio) *(ElevenLabs)*, [`MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo), [`VoxCPM`](https://github.com/OpenBMB/VoxCPM), [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`Cobalt`](https://github.com/imputnet/cobalt), [`SadTalker`](https://github.com/OpenTalker/SadTalker) | [4. 🎬 Geração & Mídia](#categoria-4) |
-| **Trading quantitativo & inteligência de mercado financeiro** | [`TradingAgents`](https://github.com/TauricResearch/TradingAgents), [`OpenTerminal`](https://github.com/ErTasselli/OpenTerminal), [`Fincept Terminal`](https://github.com/Fincept-Corporation/FinceptTerminal), [`Vibe-Trading`](https://github.com/HKUDS/Vibe-Trading), [`FinRL`](https://github.com/AI4Finance-Foundation/FinRL) | [9. 📈 Negócios & Finanças](#categoria-9) |
-| **Engenharia reversa, análise de vínculos OSINT e pentest** | [`Rea`](https://github.com/morluto/rea), [`Flowsint`](https://github.com/reconurge/flowsint), [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter) | [5. 🛡️ Cibersegurança](#categoria-5) |
-| **Proteger privacidade, bloquear anúncios e telemetria** | [`SearXNG`](https://github.com/searxng/searxng), [`AdGuard Home`](https://github.com/AdguardTeam/AdGuardHome), [`Brave Browser`](https://github.com/brave/brave-browser), [`uBlock Origin`](https://github.com/gorhill/uBlock) | [10. 🔒 Privacidade](#categoria-10) |
+| **Visão computacional, detecção de objetos & ativos 3D** | [`Detectron2`](https://github.com/facebookresearch/detectron2), [`TRELLIS.2`](https://github.com/microsoft/TRELLIS.2), [`Fooocus`](https://github.com/lllyasviel/Fooocus), [`LivePortrait`](https://github.com/KwaiVGI/LivePortrait), [`Diffusers`](https://github.com/huggingface/diffusers) | [3. 👁️ Visão & 3D](#categoria-3) |
+| **Assistente de código, observabilidade & compressão de tokens** | [`Aider`](https://github.com/paul-gauthier/aider), [`RTK`](https://github.com/rtk-ai/rtk), [`GitIngest`](https://github.com/coderamp-labs/gitingest), [`ccusage`](https://github.com/ccusage/ccusage), [`AgentTrace`](https://github.com/luoyuctl/agenttrace) | [1. 🤖 Agentes](#categoria-1) / [9. 💻 DevTools](#categoria-9) |
+| **Agentes autônomos que operam o computador (GUI/OS)** | [`Agent-S`](https://github.com/simular-ai/Agent-S), [`Cindy`](https://github.com/makecindy/cindy), [`CLI-Anything`](https://github.com/HKUDS/CLI-Anything), [`Show-1`](https://github.com/showlab/Show-1) | [1. 🤖 Agentes de IA](#categoria-1) |
+| **Automação Android, espelhamento & ecossistema mobile** | [`scrcpy`](https://github.com/Genymobile/scrcpy), [`Artemis`](https://github.com/google/artemis), [`AppAgent`](https://github.com/mnotgod96/AppAgent), [`docker-android`](https://github.com/HQarroum/docker-android), [`Termux`](https://github.com/termux/termux-app), [`LibrePods`](https://github.com/librepods-org/librepods) | [7. 📱 Mobile & Android](#categoria-7) |
+| **Construir fluxos visuais, equipes multi-agente & APIs** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`Nango`](https://github.com/NangoHQ/nango), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes](#categoria-1) / [10. ⚙️ DevOps](#categoria-10) |
+| **Design de interfaces, diagramação visual, DER e CAD** | [`Penpot`](https://github.com/penpot/penpot), [`Excalidraw`](https://github.com/excalidraw/excalidraw), [`DrawDB`](https://github.com/drawdb-io/drawdb), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design), [`Archify`](https://github.com/tt-a1i/archify) | [6. 🎨 Design & Prototipagem](#categoria-6) |
+| **Substitutos self-hosted para economizar em SaaS pagos** | [`Spotube`](https://github.com/team-spotube/spotube) *(Spotify)*, [`Pear Desktop`](https://github.com/pear-devs/pear-desktop) *(YT Music)*, [`WordCraft`](https://github.com/storytold/wordcraft) *(Word)*, [`VERT`](https://github.com/VERT-sh/VERT) *(CloudConvert)*, [`LibreChat`](https://github.com/LibreChat-AI/LibreChat) *(ChatGPT)*, [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [11. 🏠 Substitutos Open-Source](#categoria-11) |
+| **Edição, clonagem de voz, download de mídias e vídeos curtos** | [`yt-dlp`](https://github.com/yt-dlp/yt-dlp), [`spotDL`](https://github.com/spotDL/spotify-downloader), [`MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo), [`VoxCPM`](https://github.com/OpenBMB/VoxCPM), [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`Cobalt`](https://github.com/imputnet/cobalt), [`Whisper`](https://github.com/openai/whisper) | [5. 🎬 Áudio & Vídeo](#categoria-5) |
+| **Trading quantitativo & inteligência de mercado financeiro** | [`TradingAgents`](https://github.com/TauricResearch/TradingAgents), [`OpenTerminal`](https://github.com/ErTasselli/OpenTerminal), [`Fincept Terminal`](https://github.com/Fincept-Corporation/FinceptTerminal), [`Vibe-Trading`](https://github.com/HKUDS/Vibe-Trading), [`FinRL`](https://github.com/AI4Finance-Foundation/FinRL) | [12. 📈 Negócios & Finanças](#categoria-12) |
+| **Engenharia reversa, análise de vínculos OSINT e pentest** | [`Rea`](https://github.com/morluto/rea), [`Flowsint`](https://github.com/reconurge/flowsint), [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter) | [8. 🛡️ Cibersegurança](#categoria-8) |
+| **Proteger privacidade, bloquear anúncios e telemetria** | [`SearXNG`](https://github.com/searxng/searxng), [`AdGuard Home`](https://github.com/AdguardTeam/AdGuardHome), [`Brave Browser`](https://github.com/brave/brave-browser), [`ExifCleaner`](https://github.com/szTheory/exifcleaner), [`uBlock Origin`](https://github.com/gorhill/uBlock) | [13. 🔒 Privacidade](#categoria-13) |
 
 ---
 
@@ -34,14 +36,17 @@
 
 - [1. 🤖 Agentes de IA & Coding Assistants](#categoria-1)
 - [2. 🧠 LLMs Locais, Fine-Tuning & Inferência](#categoria-2)
-- [3. 🌐 Automação de Navegador & Web Scraping](#categoria-3)
-- [4. 🎬 Geração & Edição de Mídia e Vídeo](#categoria-4)
-- [5. 🛡️ Cibersegurança, Pentest & OSINT](#categoria-5)
-- [6. 💻 Ferramentas de Desenvolvimento & Terminal](#categoria-6)
-- [7. ⚙️ Workflows, Orquestração & DevOps](#categoria-7)
-- [8. 🏠 Substitutos Open-Source de Apps Pagos (Self-Hosted)](#categoria-8)
-- [9. 📈 IA para Negócios, Marketing & Finanças](#categoria-9)
-- [10. 🔒 Privacidade Digital & Anti-Rastreamento](#categoria-10)
+- [3. 👁️ Visão Computacional, IA Visual & 3D](#categoria-3)
+- [4. 🌐 Automação de Navegador & Web Scraping](#categoria-4)
+- [5. 🎬 Geração & Edição de Áudio, Vídeo e Voz](#categoria-5)
+- [6. 🎨 Design, Prototipagem & Arquitetura Visual](#categoria-6)
+- [7. 📱 Mobile, Android & Emulação](#categoria-7)
+- [8. 🛡️ Cibersegurança, Pentest & OSINT](#categoria-8)
+- [9. 💻 Ferramentas de Desenvolvimento & Terminal](#categoria-9)
+- [10. ⚙️ Workflows, Orquestração & DevOps](#categoria-10)
+- [11. 🏠 Substitutos Open-Source de Apps Pagos (Self-Hosted)](#categoria-11)
+- [12. 📈 IA para Negócios, Marketing & Finanças](#categoria-12)
+- [13. 🔒 Privacidade Digital & Anti-Rastreamento](#categoria-13)
 
 ---
 
@@ -60,9 +65,6 @@
 | **AI Memory Architecture** | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Estudos práticos e implementações de arquiteturas de memória persistente para agentes de IA. |
 | **Aider** | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | Ferramenta de pair-programming de IA no terminal com suporte a git e múltiplos modelos. |
 | **Anatomy** | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | Agent Skill especializada em gerar ilustrações isométricas interativas e detalhadas de arquiteturas complexas, diagramas de sistemas e máquinas em SVG e WebGL. |
-| **AppAgent** | [mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent) | Agente multimodal que aprende e opera aplicativos Android como um humano. |
-| **Archify** | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Skill de agente para geração de diagramas de arquitetura, fluxo e ciclo de vida em HTML interativo com animações. |
-| **Artemis (Google)** | [google/artemis](https://github.com/google/artemis) | Framework oficial da Google que transforma comandos em linguagem natural em automação confiável no Android, com 99%+ de taxa de sucesso no benchmark AndroidWorld e integração nativa com assistentes de IA (Antigravity, Claude Code, Codex). |
 | **Book-to-Skill** | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Converte livros e manuais extensos em skills estruturadas e acionáveis para agentes de IA. |
 | **Cindy** | [makecindy/cindy](https://github.com/makecindy/cindy) | Agente autônomo open-source pronto para uso que unifica múltiplos harnesses (Claude Code, Codex) e modelos para operar seu computador e apps locais. |
 | **CLI-Anything** | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Transforma qualquer software em CLI agent-native para permitir que agentes de IA controlem aplicações legadas e ferramentas complexas. |
@@ -76,7 +78,6 @@
 | **Gitingest** | [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) | Converte a estrutura e código de qualquer repo GitHub em prompt otimizado para LLMs. |
 | **Goose** | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Agente de IA autônomo on-machine da Block para automação de tarefas complexas e execução de código. |
 | **Graphify** | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Converte qualquer codebase, documentação e schemas em um grafo de conhecimento consultável para coding agents. |
-| **HTML Anything** | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | Editor agentic de HTML com 75 skills para criar apresentações, relatórios e páginas direto via agentes de IA. |
 | **Langflow** | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Interface visual baseada em nós para prototipagem e orquestração de fluxos complexos de IA e RAG. |
 | **Mem0** | [mem0ai/mem0](https://github.com/mem0ai/mem0) | Camada de memória adaptativa e persistente para agentes de IA e chatbots. |
 | **Mercury Agent** | [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) | Agente autônomo com controle granular de permissões de ferramentas, orçamentos estritos de tokens e operação contínua 24/7 com suporte a múltiplos canais (CLI, Telegram). |
@@ -100,7 +101,6 @@
 | **AirLLM** | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Permite executar modelos LLM gigantes (70B+) em GPUs comuns com pouca VRAM via streaming de camadas. |
 | **Awesome LLM Token Optimization** | [pleasedodisturb/awesome-llm-token-optimization](https://github.com/pleasedodisturb/awesome-llm-token-optimization) | Curadoria completa de técnicas, ferramentas, compressão de contexto e estratégias para redução drástica de custos de tokens e inferência em LLMs. |
 | **Colibri** | [JustVugg/colibri](https://github.com/JustVugg/colibri) | Engine em C puro para rodar modelos gigantes (744B MoE) em laptops via streaming de disco. |
-| **Detectron2** | [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) | Plataforma de visão computacional da Meta para detecção de objetos de ponta, segmentação de instâncias e segmentação panóptica. |
 | **DSPy** | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | Framework revolucionário para programar e otimizar pipelines de LLMs e agentes de forma determinística em vez de apenas criar prompts manuais. |
 | **Landscape of Thoughts** | [tmlr-group/landscape-of-thoughts](https://github.com/tmlr-group/landscape-of-thoughts) | Ferramenta de visualização e análise espacial do processo de raciocínio e cadeias de pensamento de LLMs. |
 | **LangWatch** | [langwatch/langwatch](https://github.com/langwatch/langwatch) | Plataforma open-source para observabilidade, testes automatizados e monitoramento de LLMs. |
@@ -120,7 +120,26 @@
 ---
 
 <a id="categoria-3"></a>
-### 3. 🌐 Automação de Navegador & Web Scraping
+### 3. 👁️ Visão Computacional, IA Visual & 3D
+*Detecção de objetos, segmentação semântica, modelos de difusão de imagem, sensoriamento espacial e geração de ativos 3D.*
+
+| Projeto | Repositório Oficial | Descrição |
+|---|---|---|
+| **Detectron2** | [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) | Plataforma de visão computacional da Meta para detecção de objetos de ponta, segmentação de instâncias e segmentação panóptica. |
+| **Diffusers** | [huggingface/diffusers](https://github.com/huggingface/diffusers) | A biblioteca padrão da indústria para modelos de difusão de imagem, áudio e vídeo da Hugging Face. |
+| **EchoMimic** | [BadToBest/EchoMimic](https://github.com/BadToBest/EchoMimic) | Geração de animações de retrato realistas sincronizadas com áudio e pontos de referência facial. |
+| **Fooocus** | [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) | Interface simplificada e otimizada para geração de imagens de alta qualidade com SDXL (alternativa local ao Midjourney). |
+| **LivePortrait** | [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) | Anima retratos e fotos estáticas reproduzindo expressões faciais e movimentos de vídeo de referência. |
+| **RuView** | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Transforma sinais Wi-Fi em inteligência espacial em tempo real, presença e monitoramento sem câmeras. |
+| **SadTalker** | [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) | Produz vídeos de cabeças falantes (Talking Heads) a partir de uma foto e um áudio de voz. |
+| **spritefusion-sprite-normals** | [Hugo-Dz/spritefusion-sprite-normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) | Ferramenta em Rust para geração automática de normal maps com iluminação dinâmica para sprites 2D e spritesheets de jogos. |
+| **TRELLIS.2** | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | Modelo de ponta da Microsoft para geração de ativos 3D de alta fidelidade a partir de imagens e texto. |
+| **WiFi DensePose** | [superstar1225/DensePose_from_WiFi](https://github.com/superstar1225/DensePose_from_WiFi) | Rastreia a posição e postura corporal de pessoas através de paredes utilizando interferência de sinal Wi-Fi. |
+
+---
+
+<a id="categoria-4"></a>
+### 4. 🌐 Automação de Navegador & Web Scraping
 *Robôs, crawlers inteligentes e navegadores desenvolvidos para navegar e extrair dados sem bloqueios.*
 
 | Projeto | Repositório Oficial | Descrição |
@@ -142,39 +161,73 @@
 
 ---
 
-<a id="categoria-4"></a>
-### 4. 🎬 Geração & Edição de Mídia e Vídeo
-*Criação programática de vídeos, animações, vozes ultra-realistas, transcrição e manipulação de mídia com IA.*
+<a id="categoria-5"></a>
+### 5. 🎬 Geração & Edição de Áudio, Vídeo e Voz
+*Criação programática de vídeos, animações, síntese e clonagem de voz ultra-realistas, transcrição e manipulação de mídia.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
 | **Auto-Editor** | [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) | Ferramenta de linha de comando para edição automatizada de vídeo e áudio, cortando silêncios e pausas sem intervenção manual. |
 | **ChatTTS** | [2noise/ChatTTS](https://github.com/2noise/ChatTTS) | Modelo de conversação texto-para-fala de altíssima qualidade com entonações, pausas e risadas naturais. |
 | **Cobalt** | [imputnet/cobalt](https://github.com/imputnet/cobalt) | Ferramenta moderna, limpa e sem anúncios para baixar mídias e vídeos de redes sociais e plataformas de streaming. |
-| **Diffusers** | [huggingface/diffusers](https://github.com/huggingface/diffusers) | A biblioteca padrão da indústria para modelos de difusão de imagem, áudio e vídeo da Hugging Face. |
-| **EchoMimic** | [BadToBest/EchoMimic](https://github.com/BadToBest/EchoMimic) | Geração de animações de retrato realistas sincronizadas com áudio e pontos de referência facial. |
-| **Fooocus** | [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) | Interface simplificada e otimizada para geração de imagens de alta qualidade com SDXL (alternativa local ao Midjourney). |
+| **Gallery-dl** | [mikf/gallery-dl](https://github.com/mikf/gallery-dl) | Utilitário de linha de comando para download automatizado de galerias completas de imagens de dezenas de plataformas e fóruns. |
+| **Ghost Downloader 3** | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Gerenciador e acelerador de download modular de código aberto com suporte a múltiplos protocolos. |
 | **HyperFrames** | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Framework de renderização determinística que transforma código web e animações em vídeo MP4. |
 | **Hypit** | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | Pega vídeos de referência de alta performance e clona sua estrutura em código editável por IA. |
 | **Lazy-Frames** | [cosmicstack-labs/lazy-frames](https://github.com/cosmicstack-labs/lazy-frames) | Workflow local alimentado por agentes de IA para criar e renderizar animações em MP4. |
-| **LivePortrait** | [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) | Anima retratos e fotos estáticas reproduzindo expressões faciais e movimentos de vídeo de referência. |
 | **MoneyPrinterTurbo** | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Automação completa para geração de vídeos curtos em alta resolução para TikTok, Shorts e Reels com um único clique a partir de temas ou palavras-chave. |
 | **MoneyPrinterV2** | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Gerador automatizado de vídeos curtos (Shorts/Reels) com narração, legendas e B-roll por IA. |
 | **Open-Generative-AI** | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Estúdio de código aberto para geração e manipulação de mídia, imagens e vídeos com múltiplos modelos. |
 | **Pipecat** | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | Framework open-source de produção para agentes de voz e IA multimodal em tempo real. |
-| **SadTalker** | [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) | Produz vídeos de cabeças falantes (Talking Heads) a partir de uma foto e um áudio de voz. |
 | **spotDL** | [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | Ferramenta CLI de alta performance para baixar músicas, álbuns e playlists inteiras do Spotify em MP3/FLAC com metadados oficiais, letras e capa em alta resolução embutidos. |
-| **spritefusion-sprite-normals** | [Hugo-Dz/spritefusion-sprite-normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) | Ferramenta em Rust para geração automática de normal maps com iluminação dinâmica para sprites 2D e spritesheets de jogos. |
-| **TRELLIS.2** | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | Modelo de ponta da Microsoft para geração de ativos 3D de alta fidelidade a partir de imagens e texto. |
 | **VoiceStudio** | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Suíte open-source e 100% local com mais de 78 mil estrelas para clonagem de voz, design vocal, dublagem de vídeos, ditado e geração de audiobooks em mais de 640 idiomas. |
 | **VoxCPM** | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Modelo de síntese de voz (TTS) de última geração sem tokenizador para clonagem de voz ultra-realista e fala multilíngue com alta expressividade. |
 | **Whisper** | [openai/whisper](https://github.com/openai/whisper) | Modelo de reconhecimento e transcrição de fala em áudio e múltiplos idiomas de alta precisão. |
+| **yt-dlp** | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Utilitário de linha de comando padrão da indústria para download e extração de vídeos e áudio da web. |
 
 ---
 
-<a id="categoria-5"></a>
-### 5. 🛡️ Cibersegurança, Pentest & OSINT
-*Investigação de fontes abertas, análise de redes, emulação de hardware e testes de intrusão éticos.*
+<a id="categoria-6"></a>
+### 6. 🎨 Design, Prototipagem & Arquitetura Visual
+*Modelagem visual de sistemas, diagramas Entidade-Relacionamento, wireframes, design systems e prototipagem UI/UX.*
+
+| Projeto | Repositório Oficial | Descrição |
+|---|---|---|
+| **Archify** | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Skill de agente para geração de diagramas de arquitetura, fluxo e ciclo de vida em HTML interativo com animações. |
+| **Diagram Design** | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Design editorial e estruturado de 42 tipos de diagramas em HTML + SVG nativo para Claude Code, Codex, Cursor e agentes de IA sem depender de Mermaid. |
+| **DrawDB** | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | Modelador de diagramas Entidade-Relacionamento (ERD) direto no navegador com exportação SQL. |
+| **Excalidraw** | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Quadro branco virtual infinito para diagramação e colaboração visual com estilo desenhado à mão. |
+| **HTML Anything** | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | Editor agentic de HTML com 75 skills para criar apresentações, relatórios e páginas direto via agentes de IA. |
+| **Penpot** | [penpot/penpot](https://github.com/penpot/penpot) | Plataforma colaborativa de design de interface e prototipagem baseada em padrões web (alternativa ao Figma). |
+| **SolidCraft** | [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | Software CAD 3D paramétrico open-source desenvolvido em Rust puro para desktop e web, com integração direta ao protocolo MCP para geração e edição de modelos 3D via agentes de IA. |
+
+---
+
+<a id="categoria-7"></a>
+### 7. 📱 Mobile, Android & Emulação
+*Ferramentas de engenharia mobile, espelhamento e controle de dispositivos, emuladores Android e arquitetura iOS/Swift.*
+
+| Projeto | Repositório Oficial | Descrição |
+|---|---|---|
+| **Andronix** | [AndronixApp/AndronixCore](https://github.com/AndronixApp/AndronixCore) | Permite instalar distribuições Linux completas (Ubuntu, Debian, Manjaro) no Android sem necessidade de root. |
+| **AppAgent** | [mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent) | Agente multimodal que aprende e opera aplicativos Android como um humano. |
+| **Artemis (Google)** | [google/artemis](https://github.com/google/artemis) | Framework oficial da Google que transforma comandos em linguagem natural em automação confiável no Android, com 99%+ de taxa de sucesso no benchmark AndroidWorld e integração nativa com assistentes de IA (Antigravity, Claude Code, Codex). |
+| **Awesome iOS Architecture** | [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) | Coletânea curada com as melhores arquiteturas, padrões (MVVM-C, VIPER, Clean) e boas práticas para iOS. |
+| **Design Patterns in Swift** | [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | Implementação prática e idiomática dos 23 padrões de projeto (GoF) em Swift 5.0. |
+| **dex2jar** | [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) | Ferramentas essenciais para trabalhar com arquivos Android .dex e converter para classes Java (.class / .jar). |
+| **docker-android** | [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | Imagem Docker personalizável que roda emuladores Android completos como um microserviço. |
+| **iOS Lead Interview Guide** | [shobhakartiwari/iOS_Lead_Interview](https://github.com/shobhakartiwari/iOS_Lead_Interview) | Guia técnico avançado de arquitetura, concorrência, memória e perguntas para entrevistas de liderança iOS. |
+| **IOSSecuritySuite** | [securing/IOSSecuritySuite](https://github.com/securing/IOSSecuritySuite) | Biblioteca open-source em Swift para segurança mobile: detecção de jailbreak, anti-debug, hooks e integridade. |
+| **LibrePods** | [librepods-org/librepods](https://github.com/librepods-org/librepods) | Liberta os AirPods do ecossistema Apple, trazendo controle de áudio espacial, cancelamento de ruído e status de bateria para Linux e Android. |
+| **OWASP MSTG** | [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) | Guia oficial da OWASP de testes de segurança, engenharia reversa e pentest em aplicativos móveis. |
+| **scrcpy** | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Espelhamento e controle de alta performance de dispositivos Android via USB/Wi-Fi com baixa latência. |
+| **Termux** | [termux/termux-app](https://github.com/termux/termux-app) | Emulador de terminal que traz um ecossistema Linux completo para dispositivos Android sem root. |
+
+---
+
+<a id="categoria-8"></a>
+### 8. 🛡️ Cibersegurança, Pentest & OSINT
+*Investigação de fontes abertas, análise de redes, engenharia reversa e testes de intrusão éticos.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
@@ -182,77 +235,57 @@
 | **Awesome Hacking** | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Coleção curada com os melhores repositórios, ferramentas e tutoriais de segurança ofensiva e defensiva. |
 | **Awesome OSINT** | [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | Diretório completo de ferramentas de coleta e inteligência de fontes públicas (Open Source Intelligence). |
 | **Codex Security** | [openai/codex-security](https://github.com/openai/codex-security) | Framework e recomendações de segurança da OpenAI para execução de coding agents em ambientes de produção. |
-| **dex2jar** | [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) | Ferramentas essenciais para trabalhar com arquivos Android .dex e converter para classes Java (.class / .jar). |
 | **ESP32-BlueJammer** | [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) | Utilitário para testes de intrusão e estresse de rádio frequência 2.4GHz (Bluetooth/BLE/WiFi) utilizando ESP32 e módulos nRF24. |
 | **Fieldwatch** | [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch) | Observador passivo e seguro de transmissões Wi-Fi e Bluetooth LE para Android. |
 | **Flowsint** | [reconurge/flowsint](https://github.com/reconurge/flowsint) | Plataforma visual baseada em grafos para investigações de inteligência cibernética, análise de vínculos e correlação de entidades em OSINT. |
-| **IOSSecuritySuite** | [securing/IOSSecuritySuite](https://github.com/securing/IOSSecuritySuite) | Biblioteca open-source em Swift para segurança mobile: detecção de jailbreak, anti-debug, hooks e integridade. |
 | **Kali NetHunter** | [offensive-security/kali-nethunter](https://github.com/offensive-security/kali-nethunter) | Sistema operacional Kali Linux adaptado para smartphones Android (ver também [GitLab oficial](https://gitlab.com/kalilinux/nethunter/)). |
 | **Metasploit** | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | O framework de testes de invasão e validação de vulnerabilidades mais utilizado no mundo. |
 | **MVT (Mobile Verification Toolkit)** | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Kit forense open-source para análise e detecção de spywares sofisticados (como Pegasus) em smartphones. |
 | **Netryx Astra V2** | [sparkyniner/Netryx-Astra-V2-Geolocation-Tool](https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool) | Ferramenta avançada de geolocalização e inteligência de imagens ao nível da rua para investigação OSINT. |
 | **Nmap** | [nmap/nmap](https://github.com/nmap/nmap) | O utilitário padrão para exploração de rede, descoberta de portas abertas e auditoria de serviços. |
 | **OSINT Framework** | [lockfale/osint-framework](https://github.com/lockfale/osint-framework) | Mapa interativo e estruturado de fontes de dados e ferramentas de pesquisa de inteligência online. |
-| **OWASP MSTG** | [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) | Guia oficial da OWASP de testes de segurança, engenharia reversa e pentest em aplicativos móveis. |
 | **OWASP ZAP** | [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) | Scanner gratuito e de código aberto para encontrar falhas de segurança em aplicações web. |
 | **PhoneInfoga** | [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Ferramenta avançada para escaneamento e rastreamento de informações sobre números de telefone. |
 | **Pwdb-Public** | [FlameOfIgnis/Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) | Dataset e utilitários para análise forense e auditoria de credenciais vazadas em pentest defensivo. |
 | **Rea** | [morluto/rea](https://github.com/morluto/rea) | Engenharia reversa automatizada com agentes de IA, capaz de dissecar desde comportamento de aplicações até descompilação de binários nativos. |
-| **RuView** | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Transforma sinais Wi-Fi em inteligência espacial em tempo real, presença e monitoramento sem câmeras. |
 | **Sherlock** | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Localiza perfis e contas de um mesmo nome de usuário em centenas de redes sociais simultaneamente. |
 | **Strix** | [usestrix/strix](https://github.com/usestrix/strix) | Scanner de vulnerabilidades e segurança ofensiva automatizado para aplicações web e APIs. |
-| **Termux** | [termux/termux-app](https://github.com/termux/termux-app) | Emulador de terminal que traz um ecossistema Linux completo para dispositivos Android sem root. |
-| **WiFi DensePose** | [superstar1225/DensePose_from_WiFi](https://github.com/superstar1225/DensePose_from_WiFi) | Rastreia a posição e postura corporal de pessoas através de paredes utilizando interferência de sinal Wi-Fi. |
 | **Wireshark** | [wireshark/wireshark](https://github.com/wireshark/wireshark) | O analisador de protocolos de rede e captura de pacotes em tempo real mais respeitado do setor. |
 
 ---
 
-<a id="categoria-6"></a>
-### 6. 💻 Ferramentas de Desenvolvimento & Terminal
-*Utilitários que aumentam a produtividade diária de desenvolvedores e melhoram o fluxo de trabalho.*
+<a id="categoria-9"></a>
+### 9. 💻 Ferramentas de Desenvolvimento & Terminal
+*Utilitários que aumentam a produtividade diária de desenvolvedores, clientes de banco de dados e melhorias de fluxo.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
-| **Andronix** | [AndronixApp/AndronixCore](https://github.com/AndronixApp/AndronixCore) | Permite instalar distribuições Linux completas (Ubuntu, Debian, Manjaro) no Android sem necessidade de root. |
-| **Awesome iOS Architecture** | [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) | Coletânea curada com as melhores arquiteturas, padrões (MVVM-C, VIPER, Clean) e boas práticas para iOS. |
 | **Awesome Rust** | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curadoria definitiva com as melhores bibliotecas, ferramentas de sistema e recursos do ecossistema Rust. |
 | **ccusage** | [ccusage/ccusage](https://github.com/ccusage/ccusage) | Ferramenta CLI interativa para monitorar em tempo real o consumo de tokens, custos acumulados e limites de uso do Claude Code e assistentes de IA. |
 | **Code-Server** | [coder/code-server](https://github.com/coder/code-server) | Execute o VS Code completo diretamente no navegador em qualquer servidor remoto e acesse seu ambiente de desenvolvimento de qualquer lugar. |
 | **Daytona** | [daytonaio/daytona](https://github.com/daytonaio/daytona) | Gerenciador de ambientes de desenvolvimento padronizados e workspaces seguros (alternativa ao GitHub Codespaces). |
 | **DBX** | [t8y2/dbx](https://github.com/t8y2/dbx) | Cliente de banco de dados ultrarrápido em Rust (15-20 MB), compatível com 70+ bancos, IA e MCP. |
-| **Design Patterns in Swift** | [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | Implementação prática e idiomática dos 23 padrões de projeto (GoF) em Swift 5.0. |
 | **DevTUI** | [skatkov/devtui](https://github.com/skatkov/devtui) | Canivete suíço no terminal com utilitários de conversão, decodificação, JWT, hash e inspeção rápida para devs. |
-| **Diagram Design** | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Design editorial e estruturado de 42 tipos de diagramas em HTML + SVG nativo para Claude Code, Codex, Cursor e agentes de IA sem depender de Mermaid. |
-| **docker-android** | [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | Imagem Docker personalizável que roda emuladores Android completos como um microserviço. |
-| **DrawDB** | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | Modelador de diagramas Entidade-Relacionamento (ERD) direto no navegador com exportação SQL. |
 | **ElysiaJS** | [elysiajs/elysia](https://github.com/elysiajs/elysia) | Framework web TypeScript ergonômico e com desempenho recorde projetado para o runtime Bun. |
-| **Excalidraw** | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Quadro branco virtual infinito para diagramação e colaboração visual com estilo desenhado à mão. |
-| **FreeDomain** | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | Plataforma e recursos práticos para registro gratuito de domínios com suporte a nameservers customizados e guias de DNS. |
-| **Gallery-dl** | [mikf/gallery-dl](https://github.com/mikf/gallery-dl) | Utilitário de linha de comando para download automatizado de galerias completas de imagens de dezenas de plataformas e fóruns. |
 | **GH-Dash** | [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | Painel interativo dentro do terminal para gerenciar Pull Requests e Issues do GitHub sem usar o browser. |
-| **Ghost Downloader 3** | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Gerenciador e acelerador de download modular de código aberto com suporte a múltiplos protocolos. |
 | **GitIngest** | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | Substitui "hub" por "ingest" em qualquer URL do GitHub para gerar um extrato de código formatado e otimizado para contexto em prompts de LLMs. |
-| **iOS Lead Interview Guide** | [shobhakartiwari/iOS_Lead_Interview](https://github.com/shobhakartiwari/iOS_Lead_Interview) | Guia técnico avançado de arquitetura, concorrência, memória e perguntas para entrevistas de liderança iOS. |
-| **LibrePods** | [librepods-org/librepods](https://github.com/librepods-org/librepods) | Liberta os AirPods do ecossistema Apple, trazendo controle de áudio espacial, cancelamento de ruído e status de bateria para Linux e Android. |
 | **Markdoc** | [markdoc/markdoc](https://github.com/markdoc/markdoc) | Poderoso framework de autoria baseado em Markdown criado pela Stripe para criação de documentações técnicas customizadas e extensíveis. |
 | **mirrord** | [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) | Conecta processos locais ao seu cluster cloud para rodar e debugar código local sob condições reais de nuvem. |
 | **Open Code Review** | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | CLI de code review inteligente da Alibaba que combina regras determinísticas rápidas com LLMs. |
 | **Public APIs** | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Catálogo com milhares de APIs públicas gratuitas para desenvolvedores integrarem em projetos. |
 | **Repsy** | [repsyio/repsy](https://github.com/repsyio/repsy) | Repositório e gerenciador centralizado de artefatos de build (Maven, npm, PyPI, etc.). |
 | **RTK (Rust Token Killer)** | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | Proxy CLI em Rust que intercepta e comprime em 60-90% as saídas de comandos do terminal (git, grep, testes, logs) antes de entrarem no contexto de agentes de IA. |
-| **scrcpy** | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Espelhamento e controle de alta performance de dispositivos Android via USB/Wi-Fi com baixa latência. |
 | **System Design Primer** | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | O guia de referência definitivo para estudo de arquitetura, escalabilidade e design de sistemas complexos. |
 | **Tinycast** | [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | Lançador nativo ultraleve para macOS (<100 MB de RAM) capaz de executar extensões da Raycast. |
 | **Vizro** | [mckinsey/vizro](https://github.com/mckinsey/vizro) | Framework modular da McKinsey para criação rápida de dashboards de dados interativos com Python. |
 | **windows95** | [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) | Emulação completa do sistema operacional Windows 95 em Electron empacotada como app para macOS, Linux e Windows. |
 | **witr** | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | CLI e TUI interativa ("Why is this running?") para rastrear qualquer processo, porta aberta, container ou arquivo até o comando raiz que o originou. |
-| **yt-dlp** | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Utilitário de linha de comando padrão da indústria para download e extração de vídeos e áudio da web. |
 
 ---
 
-<a id="categoria-7"></a>
-### 7. ⚙️ Workflows, Orquestração & DevOps
-*Ferramentas para automação de tarefas em lote, gerenciamento de infraestrutura e pipelines.*
+<a id="categoria-10"></a>
+### 10. ⚙️ Workflows, Orquestração & DevOps
+*Ferramentas para automação de tarefas em lote, gerenciamento de infraestrutura, DAGs e pipelines.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
@@ -261,6 +294,7 @@
 | **Coolify** | [coollabsio/coolify](https://github.com/coollabsio/coolify) | Plataforma self-hosted tudo-em-um para gerenciar deploys de apps, bancos de dados e serviços (alternativa ao Heroku/Vercel). |
 | **Dagu** | [dagu-org/dagu](https://github.com/dagu-org/dagu) | Orquestrador leve e database-free para rodar DAGs declarativas em YAML; alternativa direta ao Airflow e Cron. |
 | **Fleetbase** | [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) | Sistema operacional modular open-source para gestão de frotas, entregas e supply chain. |
+| **FreeDomain** | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | Plataforma e recursos práticos para registro gratuito de domínios com suporte a nameservers customizados e guias de DNS. |
 | **Homelab GitOps IaC** | [Mafyuh/iac](https://github.com/Mafyuh/iac) | Exemplo completo de Infrastructure as Code (IaC) orientada a GitOps para infraestrutura e servidores locais. |
 | **Nango** | [NangoHQ/nango](https://github.com/NangoHQ/nango) | Plataforma de infraestrutura de integrações e autenticação OAuth unificada para conectar agentes de IA e aplicações a mais de 1.000 APIs externas. |
 | **NetBox** | [netbox-community/netbox](https://github.com/netbox-community/netbox) | A principal ferramenta de documentação e fonte de verdade (DCIM/IPAM) para redes de computadores. |
@@ -268,8 +302,8 @@
 
 ---
 
-<a id="categoria-8"></a>
-### 8. 🏠 Substitutos Open-Source de Apps Pagos (Self-Hosted)
+<a id="categoria-11"></a>
+### 11. 🏠 Substitutos Open-Source de Apps Pagos (Self-Hosted)
 *Alternativas gratuitas e auto-hospedadas para economizar nas assinaturas de serviços e SaaS populares.*
 
 | Projeto | Repositório Oficial | O que substitui | Descrição |
@@ -301,10 +335,8 @@
 | **OpenWA** | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | Twilio / Z-API | Gateway de API do WhatsApp gratuito, auto-hospedado e de código aberto para envio e recebimento de mensagens. |
 | **Paperless-ngx** | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | SaaS pago | Indexador e gerenciador de documentos físicos digitalizados com OCR automático e busca instantânea. |
 | **Pear Desktop** | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | YouTube Music Desktop, Spotify | Player desktop moderno para YouTube Music com bloqueador nativo de anúncios, suporte a temas, letras sincronizadas e plugins. |
-| **Penpot** | [penpot/penpot](https://github.com/penpot/penpot) | Figma | Plataforma colaborativa de design de interface e prototipagem baseada em padrões web (alternativa ao Figma). |
 | **Plausible Analytics** | [plausible/analytics](https://github.com/plausible/analytics) | SaaS pago | Analytics de sites moderno, ultraleve (<1 KB), sem cookies e em total conformidade com a LGPD/GDPR. |
 | **Reactive Resume** | [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) | Novoresume, Canva Resumes | Construtor completo de currículos profissionais, gratuito, focado em privacidade, altamente customizável e exportável em PDF. |
-| **SolidCraft** | [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | SolidWorks, AutoCAD, Fusion 360 | Software CAD 3D paramétrico open-source desenvolvido em Rust puro para desktop e web, com integração direta ao protocolo MCP para geração e edição de modelos 3D via agentes de IA. |
 | **Spotube** | [team-spotube/spotube](https://github.com/team-spotube/spotube) | Spotify Premium | Cliente open-source de música e podcasts para desktop e mobile alternativo ao Spotify, sem anúncios, sem telemetria e com download direto de playlists para ouvir offline. |
 | **Stirling-PDF** | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Adobe Acrobat / iLovePDF | Suíte web local completa para juntar, dividir, comprimir, converter e assinar PDFs. |
 | **Supabase** | [supabase/supabase](https://github.com/supabase/supabase) | Firebase | Plataforma de backend completa com PostgreSQL, autenticação, realtime e storage (alternativa ao Firebase). |
@@ -318,9 +350,9 @@
 
 ---
 
-<a id="categoria-9"></a>
-### 9. 📈 IA para Negócios, Marketing & Finanças
-*Aplicações direcionadas para geração de receita, auditoria de mídia paga, SEO e análise de mercado.*
+<a id="categoria-12"></a>
+### 12. 📈 IA para Negócios, Marketing & Finanças
+*Aplicações direcionadas para geração de receita, trading algorítmico, SEO, auditoria e análise de mercado.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
@@ -340,9 +372,9 @@
 
 ---
 
-<a id="categoria-10"></a>
-### 10. 🔒 Privacidade Digital & Anti-Rastreamento
-*Extensões, bloqueadores DNS e configurações para fechar as torneiras de coleta de dados de Big Techs.*
+<a id="categoria-13"></a>
+### 13. 🔒 Privacidade Digital & Anti-Rastreamento
+*Extensões, bloqueadores DNS, limpeza de metadados e configurações para fechar as torneiras de coleta de dados de Big Techs.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
