@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **209 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **222 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-209-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-222-blue.svg)](#-categorias)
 
 </div>
 
@@ -64,6 +64,8 @@
 | **Archify** | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Skill de agente para geração de diagramas de arquitetura, fluxo e ciclo de vida em HTML interativo com animações. |
 | **Artemis (Google)** | [google/artemis](https://github.com/google/artemis) | Framework oficial da Google que transforma comandos em linguagem natural em automação confiável no Android, com 99%+ de taxa de sucesso no benchmark AndroidWorld e integração nativa com assistentes de IA (Antigravity, Claude Code, Codex). |
 | **Book-to-Skill** | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Converte livros e manuais extensos em skills estruturadas e acionáveis para agentes de IA. |
+| **Cindy** | [makecindy/cindy](https://github.com/makecindy/cindy) | Agente autônomo open-source pronto para uso que unifica múltiplos harnesses (Claude Code, Codex) e modelos para operar seu computador e apps locais. |
+| **CLI-Anything** | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Transforma qualquer software em CLI agent-native para permitir que agentes de IA controlem aplicações legadas e ferramentas complexas. |
 | **CrewAI** | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Framework para orquestração de equipes autônomas de agentes de IA colaborativos. |
 | **Deer-Flow** | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Framework de Deep Research e fluxos multi-agente de pesquisa profunda da ByteDance. |
 | **Dify** | [langgenius/dify](https://github.com/langgenius/dify) | Plataforma de desenvolvimento de aplicações de IA e agentes com interface visual, RAG e observabilidade. |
@@ -98,6 +100,7 @@
 | **AirLLM** | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Permite executar modelos LLM gigantes (70B+) em GPUs comuns com pouca VRAM via streaming de camadas. |
 | **Awesome LLM Token Optimization** | [pleasedodisturb/awesome-llm-token-optimization](https://github.com/pleasedodisturb/awesome-llm-token-optimization) | Curadoria completa de técnicas, ferramentas, compressão de contexto e estratégias para redução drástica de custos de tokens e inferência em LLMs. |
 | **Colibri** | [JustVugg/colibri](https://github.com/JustVugg/colibri) | Engine em C puro para rodar modelos gigantes (744B MoE) em laptops via streaming de disco. |
+| **Detectron2** | [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) | Plataforma de visão computacional da Meta para detecção de objetos de ponta, segmentação de instâncias e segmentação panóptica. |
 | **DSPy** | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | Framework revolucionário para programar e otimizar pipelines de LLMs e agentes de forma determinística em vez de apenas criar prompts manuais. |
 | **Landscape of Thoughts** | [tmlr-group/landscape-of-thoughts](https://github.com/tmlr-group/landscape-of-thoughts) | Ferramenta de visualização e análise espacial do processo de raciocínio e cadeias de pensamento de LLMs. |
 | **LangWatch** | [langwatch/langwatch](https://github.com/langwatch/langwatch) | Plataforma open-source para observabilidade, testes automatizados e monitoramento de LLMs. |
@@ -132,6 +135,7 @@
 | **Google Maps Scraper** | [omkarcloud/google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) | Raspador eficiente de dados públicos de empresas, telefones e e-mails listados no Google Maps. |
 | **Google Maps Scraper** | [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) | Scraper de alto desempenho para extrair dados completos de empresas no Google Maps (endereço, telefone, website, avaliações, latitude/longitude). |
 | **OpenCLI** | [jackwener/opencli](https://github.com/jackwener/opencli) | Transforma qualquer site em CLI e permite que agentes de IA usem a sessão autenticada do seu navegador. |
+| **PinchTab** | [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | Bridge de automação de navegador ultraleve em Go para agentes de IA, com injeção furtiva anti-detecção e baixo consumo de tokens. |
 | **Scrapling** | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Biblioteca Python para web scraping adaptativo com bypass inteligente de defesas anti-bot. |
 | **Scrapy** | [scrapy/scrapy](https://github.com/scrapy/scrapy) | O mais consagrado e maduro framework de web crawling e extração de dados para Python. |
 | **Stagehand** | [browserbase/stagehand](https://github.com/browserbase/stagehand) | SDK de automação de navegador com IA que quebra menos e se adapta a mudanças de interface. |
@@ -160,6 +164,7 @@
 | **Pipecat** | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | Framework open-source de produção para agentes de voz e IA multimodal em tempo real. |
 | **SadTalker** | [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) | Produz vídeos de cabeças falantes (Talking Heads) a partir de uma foto e um áudio de voz. |
 | **spotDL** | [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | Ferramenta CLI de alta performance para baixar músicas, álbuns e playlists inteiras do Spotify em MP3/FLAC com metadados oficiais, letras e capa em alta resolução embutidos. |
+| **spritefusion-sprite-normals** | [Hugo-Dz/spritefusion-sprite-normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) | Ferramenta em Rust para geração automática de normal maps com iluminação dinâmica para sprites 2D e spritesheets de jogos. |
 | **TRELLIS.2** | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | Modelo de ponta da Microsoft para geração de ativos 3D de alta fidelidade a partir de imagens e texto. |
 | **VoiceStudio** | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Suíte open-source e 100% local com mais de 78 mil estrelas para clonagem de voz, design vocal, dublagem de vídeos, ditado e geração de audiobooks em mais de 640 idiomas. |
 | **VoxCPM** | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Modelo de síntese de voz (TTS) de última geração sem tokenizador para clonagem de voz ultra-realista e fala multilíngue com alta expressividade. |
@@ -222,11 +227,13 @@
 | **DrawDB** | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | Modelador de diagramas Entidade-Relacionamento (ERD) direto no navegador com exportação SQL. |
 | **ElysiaJS** | [elysiajs/elysia](https://github.com/elysiajs/elysia) | Framework web TypeScript ergonômico e com desempenho recorde projetado para o runtime Bun. |
 | **Excalidraw** | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Quadro branco virtual infinito para diagramação e colaboração visual com estilo desenhado à mão. |
+| **FreeDomain** | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | Plataforma e recursos práticos para registro gratuito de domínios com suporte a nameservers customizados e guias de DNS. |
 | **Gallery-dl** | [mikf/gallery-dl](https://github.com/mikf/gallery-dl) | Utilitário de linha de comando para download automatizado de galerias completas de imagens de dezenas de plataformas e fóruns. |
 | **GH-Dash** | [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | Painel interativo dentro do terminal para gerenciar Pull Requests e Issues do GitHub sem usar o browser. |
 | **Ghost Downloader 3** | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Gerenciador e acelerador de download modular de código aberto com suporte a múltiplos protocolos. |
 | **GitIngest** | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | Substitui "hub" por "ingest" em qualquer URL do GitHub para gerar um extrato de código formatado e otimizado para contexto em prompts de LLMs. |
 | **iOS Lead Interview Guide** | [shobhakartiwari/iOS_Lead_Interview](https://github.com/shobhakartiwari/iOS_Lead_Interview) | Guia técnico avançado de arquitetura, concorrência, memória e perguntas para entrevistas de liderança iOS. |
+| **LibrePods** | [librepods-org/librepods](https://github.com/librepods-org/librepods) | Liberta os AirPods do ecossistema Apple, trazendo controle de áudio espacial, cancelamento de ruído e status de bateria para Linux e Android. |
 | **Markdoc** | [markdoc/markdoc](https://github.com/markdoc/markdoc) | Poderoso framework de autoria baseado em Markdown criado pela Stripe para criação de documentações técnicas customizadas e extensíveis. |
 | **mirrord** | [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) | Conecta processos locais ao seu cluster cloud para rodar e debugar código local sob condições reais de nuvem. |
 | **Open Code Review** | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | CLI de code review inteligente da Alibaba que combina regras determinísticas rápidas com LLMs. |
@@ -237,6 +244,8 @@
 | **System Design Primer** | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | O guia de referência definitivo para estudo de arquitetura, escalabilidade e design de sistemas complexos. |
 | **Tinycast** | [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | Lançador nativo ultraleve para macOS (<100 MB de RAM) capaz de executar extensões da Raycast. |
 | **Vizro** | [mckinsey/vizro](https://github.com/mckinsey/vizro) | Framework modular da McKinsey para criação rápida de dashboards de dados interativos com Python. |
+| **windows95** | [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) | Emulação completa do sistema operacional Windows 95 em Electron empacotada como app para macOS, Linux e Windows. |
+| **witr** | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | CLI e TUI interativa ("Why is this running?") para rastrear qualquer processo, porta aberta, container ou arquivo até o comando raiz que o originou. |
 | **yt-dlp** | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Utilitário de linha de comando padrão da indústria para download e extração de vídeos e áudio da web. |
 
 ---
@@ -291,6 +300,7 @@
 | **OpenPanel** | [openpanel-dev/openpanel](https://github.com/openpanel-dev/openpanel) | Mixpanel, Amplitude | Plataforma self-hosted de analytics de produto e tráfego web moderna e focada em privacidade, alternativa direta ao Mixpanel e Amplitude. |
 | **OpenWA** | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | Twilio / Z-API | Gateway de API do WhatsApp gratuito, auto-hospedado e de código aberto para envio e recebimento de mensagens. |
 | **Paperless-ngx** | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | SaaS pago | Indexador e gerenciador de documentos físicos digitalizados com OCR automático e busca instantânea. |
+| **Pear Desktop** | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | YouTube Music Desktop, Spotify | Player desktop moderno para YouTube Music com bloqueador nativo de anúncios, suporte a temas, letras sincronizadas e plugins. |
 | **Penpot** | [penpot/penpot](https://github.com/penpot/penpot) | Figma | Plataforma colaborativa de design de interface e prototipagem baseada em padrões web (alternativa ao Figma). |
 | **Plausible Analytics** | [plausible/analytics](https://github.com/plausible/analytics) | SaaS pago | Analytics de sites moderno, ultraleve (<1 KB), sem cookies e em total conformidade com a LGPD/GDPR. |
 | **Reactive Resume** | [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) | Novoresume, Canva Resumes | Construtor completo de currículos profissionais, gratuito, focado em privacidade, altamente customizável e exportável em PDF. |
@@ -303,6 +313,7 @@
 | **Twenty** | [twentyhq/twenty](https://github.com/twentyhq/twenty) | Salesforce / HubSpot | CRM moderno de código aberto projetado para a era da IA, altamente customizável e auto-hospedado. |
 | **Umami** | [umami-software/umami](https://github.com/umami-software/umami) | Google Analytics | Analytics de sites simples, rápido, em conformidade com a LGPD e sem coletar dados invasivos. |
 | **Vaultwarden** | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 1Password / LastPass | Servidor alternativo em Rust compatível com todos os clientes oficiais do Bitwarden. |
+| **VERT** | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | CloudConvert, iLovePDF | Conversor universal de arquivos local-first em WebAssembly; converte documentos, imagens e áudio direto no navegador sem depender de nuvem. |
 | **WordCraft** | [storytold/wordcraft](https://github.com/storytold/wordcraft) | Microsoft Word, Google Docs | Reimplementação open-source e de alta fidelidade do Microsoft Word em Rust puro, oferecendo processamento de texto ultrarrápido, offline e compatibilidade nativa com documentos .docx. |
 
 ---
@@ -316,6 +327,7 @@
 | **AI-Job-Search** | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Assistente autônomo com IA para busca, mapeamento de requisitos e candidatura automática a vagas. |
 | **AutoHedge** | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | Framework de inteligência de enxame multi-agente para análise automatizada de mercado financeiro e trading. |
 | **Awesome Quant** | [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | Curadoria abrangente de bibliotecas, pacotes e recursos em Python, R e C++ para Finanças Quantitativas e trading algorítmico. |
+| **check-if-email-exists** | [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Validador e verificador de existência de e-mails em Rust com backend HTTP, testando MX, SMTP e sintaxe sem enviar mensagens reais. |
 | **Claude Ads** | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | Skill para o Claude auditar contas de anúncios (Google, Meta, etc.), detectar desperdícios e sugerir melhorias. |
 | **Fincept Terminal** | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Terminal financeiro desktop com dados de mercado, relatórios de pesquisa e alternativas ao Bloomberg. |
 | **FinRL** | [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) | Framework para treinamento de agentes de trading algorítmico usando aprendizado por reforço. |
@@ -337,6 +349,7 @@
 | **AdGuard Home** | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Servidor DNS local que bloqueia anúncios, rastreadores e phishing para toda a sua rede doméstica. |
 | **Arkenfox user.js** | [arkenfox/user.js](https://github.com/arkenfox/user.js) | Arquivo de preferências para tornar o Firefox uma fortaleza contra fingerprinting e rastreamento. |
 | **Brave Browser** | [brave/brave-browser](https://github.com/brave/brave-browser) | Navegador com bloqueador nativo de anúncios, anti-fingerprinting e proteção contra rastreadores. |
+| **ExifCleaner** | [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) | Aplicativo desktop open-source para limpeza de metadados EXIF e dados sensíveis de imagens, vídeos e arquivos PDF via arrastar e soltar. |
 | **Privacy Badger** | [EFForg/privacybadger](https://github.com/EFForg/privacybadger) | Extensão da Electronic Frontier Foundation que aprende a bloquear rastreadores invisíveis. |
 | **SearXNG** | [searxng/searxng](https://github.com/searxng/searxng) | Metabuscador de internet livre e auto-hospedável que agrega resultados de dezenas de serviços sem rastrear nem traçar perfis. |
 | **Syncthing** | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Sincronização contínua e criptografada de arquivos entre dispositivos de ponta a ponta sem servidores centrais. |
