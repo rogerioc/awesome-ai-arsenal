@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **222 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **227 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-222-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-227-blue.svg)](#-categorias)
 
 </div>
 
@@ -22,13 +22,13 @@
 | **Assistente de código, observabilidade & compressão de tokens** | [`Aider`](https://github.com/paul-gauthier/aider), [`RTK`](https://github.com/rtk-ai/rtk), [`GitIngest`](https://github.com/coderamp-labs/gitingest), [`ccusage`](https://github.com/ccusage/ccusage), [`AgentTrace`](https://github.com/luoyuctl/agenttrace) | [1. 🤖 Agentes](#categoria-1) / [9. 💻 DevTools](#categoria-9) |
 | **Agentes autônomos que operam o computador (GUI/OS)** | [`Agent-S`](https://github.com/simular-ai/Agent-S), [`Cindy`](https://github.com/makecindy/cindy), [`CLI-Anything`](https://github.com/HKUDS/CLI-Anything), [`Show-1`](https://github.com/showlab/Show-1) | [1. 🤖 Agentes de IA](#categoria-1) |
 | **Automação Android, espelhamento & ecossistema mobile** | [`scrcpy`](https://github.com/Genymobile/scrcpy), [`Artemis`](https://github.com/google/artemis), [`AppAgent`](https://github.com/mnotgod96/AppAgent), [`docker-android`](https://github.com/HQarroum/docker-android), [`Termux`](https://github.com/termux/termux-app), [`LibrePods`](https://github.com/librepods-org/librepods) | [7. 📱 Mobile & Android](#categoria-7) |
-| **Construir fluxos visuais, equipes multi-agente & APIs** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`Nango`](https://github.com/NangoHQ/nango), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes](#categoria-1) / [10. ⚙️ DevOps](#categoria-10) |
+| **Construir fluxos visuais, equipes multi-agente & APIs** | [`CrewAI`](https://github.com/crewAIInc/crewAI), [`Dify`](https://github.com/langgenius/dify), [`OpenRig`](https://github.com/mvschwarz/openrig), [`Nango`](https://github.com/NangoHQ/nango), [`Flowise`](https://github.com/FlowiseAI/Flowise), [`Deer-Flow`](https://github.com/bytedance/deer-flow), [`n8n`](https://github.com/n8n-io/n8n) | [1. 🤖 Agentes](#categoria-1) / [10. ⚙️ DevOps](#categoria-10) |
 | **Design de interfaces, diagramação visual, DER e CAD** | [`Penpot`](https://github.com/penpot/penpot), [`Excalidraw`](https://github.com/excalidraw/excalidraw), [`DrawDB`](https://github.com/drawdb-io/drawdb), [`Diagram Design`](https://github.com/cathrynlavery/diagram-design), [`Archify`](https://github.com/tt-a1i/archify) | [6. 🎨 Design & Prototipagem](#categoria-6) |
-| **Substitutos self-hosted para economizar em SaaS pagos** | [`Spotube`](https://github.com/team-spotube/spotube) *(Spotify)*, [`Pear Desktop`](https://github.com/pear-devs/pear-desktop) *(YT Music)*, [`WordCraft`](https://github.com/storytold/wordcraft) *(Word)*, [`VERT`](https://github.com/VERT-sh/VERT) *(CloudConvert)*, [`LibreChat`](https://github.com/LibreChat-AI/LibreChat) *(ChatGPT)*, [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [11. 🏠 Substitutos Open-Source](#categoria-11) |
+| **Substitutos self-hosted para economizar em SaaS pagos** | [`Spotube`](https://github.com/team-spotube/spotube) *(Spotify)*, [`Pear Desktop`](https://github.com/pear-devs/pear-desktop) *(YT Music)*, [`9Drive`](https://github.com/zenhosta/9drive) *(Google Drive)*, [`WordCraft`](https://github.com/storytold/wordcraft) *(Word)*, [`VERT`](https://github.com/VERT-sh/VERT) *(CloudConvert)*, [`LibreChat`](https://github.com/LibreChat-AI/LibreChat) *(ChatGPT)*, [`LocalSend`](https://github.com/localsend/localsend) *(AirDrop)*, [`KaraKeep`](https://github.com/karakeep-app/karakeep) *(Pocket)*, [`Supabase`](https://github.com/supabase/supabase) *(Firebase)*, [`Docmost`](https://github.com/docmost/docmost) *(Notion)* | [11. 🏠 Substitutos Open-Source](#categoria-11) |
 | **Edição, clonagem de voz, download de mídias e vídeos curtos** | [`yt-dlp`](https://github.com/yt-dlp/yt-dlp), [`spotDL`](https://github.com/spotDL/spotify-downloader), [`MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo), [`VoxCPM`](https://github.com/OpenBMB/VoxCPM), [`Auto-Editor`](https://github.com/WyattBlue/auto-editor), [`Cobalt`](https://github.com/imputnet/cobalt), [`Whisper`](https://github.com/openai/whisper) | [5. 🎬 Áudio & Vídeo](#categoria-5) |
 | **Trading quantitativo & inteligência de mercado financeiro** | [`TradingAgents`](https://github.com/TauricResearch/TradingAgents), [`OpenTerminal`](https://github.com/ErTasselli/OpenTerminal), [`Fincept Terminal`](https://github.com/Fincept-Corporation/FinceptTerminal), [`Vibe-Trading`](https://github.com/HKUDS/Vibe-Trading), [`FinRL`](https://github.com/AI4Finance-Foundation/FinRL) | [12. 📈 Negócios & Finanças](#categoria-12) |
-| **Engenharia reversa, análise de vínculos OSINT e pentest** | [`Rea`](https://github.com/morluto/rea), [`Flowsint`](https://github.com/reconurge/flowsint), [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter) | [8. 🛡️ Cibersegurança](#categoria-8) |
-| **Proteger privacidade, bloquear anúncios e telemetria** | [`SearXNG`](https://github.com/searxng/searxng), [`AdGuard Home`](https://github.com/AdguardTeam/AdGuardHome), [`Brave Browser`](https://github.com/brave/brave-browser), [`ExifCleaner`](https://github.com/szTheory/exifcleaner), [`uBlock Origin`](https://github.com/gorhill/uBlock) | [13. 🔒 Privacidade](#categoria-13) |
+| **Engenharia reversa, análise de vínculos OSINT e pentest** | [`Rea`](https://github.com/morluto/rea), [`Flowsint`](https://github.com/reconurge/flowsint), [`Wifit3`](https://github.com/derv82/wifit3), [`ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer), [`Blackbird`](https://github.com/p1ngul1n0/blackbird), [`Kali NetHunter`](https://github.com/offensive-security/kali-nethunter) | [8. 🛡️ Cibersegurança](#categoria-8) |
+| **Proteger privacidade, bloquear anúncios e telemetria** | [`SearXNG`](https://github.com/searxng/searxng), [`Free-My-TV`](https://github.com/simbasjungles/free-my-tv), [`AdGuard Home`](https://github.com/AdguardTeam/AdGuardHome), [`Brave Browser`](https://github.com/brave/brave-browser), [`ExifCleaner`](https://github.com/szTheory/exifcleaner), [`uBlock Origin`](https://github.com/gorhill/uBlock) | [13. 🔒 Privacidade](#categoria-13) |
 
 ---
 
@@ -84,7 +84,9 @@
 | **MetaGPT** | [geekan/MetaGPT](https://github.com/geekan/MetaGPT) | Framework multi-agente que simula uma software house completa (PM, arquiteto, dev, QA). |
 | **Multica** | [multica-io/multica](https://github.com/multica-io/multica) | Plataforma e ambiente para desenvolvimento de agentes de software autônomos. |
 | **Open-LLM-VTuber** | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Interação por voz hands-free em tempo real com qualquer LLM local integrado a avatar Live2D responsivo e interrupção natural. |
+| **OpenDots** | [CopilotKit/opendots](https://github.com/CopilotKit/opendots) | Espaço de trabalho para colegas de equipe de IA colaborativos e autônomos que operam 24/7 atendendo chamadas de voz, trocando mensagens de texto e executando ações em canais do Slack. |
 | **OpenHands** | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | Plataforma open-source de agentes autônomos para desenvolvimento de software (antigo OpenDevin). |
+| **OpenRig** | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | Orquestrador e rede multi-agente para Claude Code, Codex e Pi, permitindo criar equipes autônomas persistentes com papéis definidos, contexto compartilhado e execução distribuída de tarefas. |
 | **Pullfrog** | [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog) | Bot em GitHub Actions que analisa PRs, responde revisões e corrige falhas de CI. |
 | **Scientific Agent Skills** | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Biblioteca líder com mais de 170 skills e 100+ bases de dados científicas (biologia, química, medicina) para transformar agentes em pesquisadores autônomos. |
 | **Superpowers** | [obra/superpowers](https://github.com/obra/superpowers) | Framework de fluxos disciplinados para coding agents (planejamento, TDD e revisão sistemática). |
@@ -250,6 +252,7 @@
 | **Rea** | [morluto/rea](https://github.com/morluto/rea) | Engenharia reversa automatizada com agentes de IA, capaz de dissecar desde comportamento de aplicações até descompilação de binários nativos. |
 | **Sherlock** | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Localiza perfis e contas de um mesmo nome de usuário em centenas de redes sociais simultaneamente. |
 | **Strix** | [usestrix/strix](https://github.com/usestrix/strix) | Scanner de vulnerabilidades e segurança ofensiva automatizado para aplicações web e APIs. |
+| **Wifit3** | [derv82/wifit3](https://github.com/derv82/wifit3) | Ferramenta moderna e multiplataforma (Linux, macOS, Windows) para auditoria e testes automatizados de segurança e pentest em redes Wi-Fi via adaptadores USB. |
 | **Wireshark** | [wireshark/wireshark](https://github.com/wireshark/wireshark) | O analisador de protocolos de rede e captura de pacotes em tempo real mais respeitado do setor. |
 
 ---
@@ -308,6 +311,7 @@
 
 | Projeto | Repositório Oficial | O que substitui | Descrição |
 |---|---|---|---|
+| **9Drive** | [zenhosta/9drive](https://github.com/zenhosta/9drive) | Google One, Dropbox Plus | Gateway de armazenamento web self-hosted que conecta múltiplas contas do Google Drive em um único painel virtual, unificando cotas e roteando uploads para onde houver espaço livre. |
 | **Anytype** | [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) | SaaS pago | Espaço de trabalho local e criptografado para notas, tarefas e grafos de conhecimento com arquitetura P2P. |
 | **Apache Cloudberry** | [apache/cloudberry](https://github.com/apache/cloudberry) | Greenplum, Snowflake | Banco de dados analítico de processamento massivo paralelo (MPP) maduro e open-source para Big Data e Data Warehouses. |
 | **AppFlowy** | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Notion | Espaço de trabalho seguro e local para notas, quadros Kanban e documentação. |
@@ -356,7 +360,7 @@
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
-| **AI-Job-Search** | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Assistente autônomo com IA para busca, mapeamento de requisitos e candidatura automática a vagas. |
+| **AI Job Search** | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | Framework autônomo baseado no Claude Code para busca de empregos e automação de candidaturas: avalia vagas, personaliza currículos, redige cartas e prepara entrevistas. |
 | **AutoHedge** | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | Framework de inteligência de enxame multi-agente para análise automatizada de mercado financeiro e trading. |
 | **Awesome Quant** | [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | Curadoria abrangente de bibliotecas, pacotes e recursos em Python, R e C++ para Finanças Quantitativas e trading algorítmico. |
 | **check-if-email-exists** | [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Validador e verificador de existência de e-mails em Rust com backend HTTP, testando MX, SMTP e sintaxe sem enviar mensagens reais. |
@@ -382,6 +386,7 @@
 | **Arkenfox user.js** | [arkenfox/user.js](https://github.com/arkenfox/user.js) | Arquivo de preferências para tornar o Firefox uma fortaleza contra fingerprinting e rastreamento. |
 | **Brave Browser** | [brave/brave-browser](https://github.com/brave/brave-browser) | Navegador com bloqueador nativo de anúncios, anti-fingerprinting e proteção contra rastreadores. |
 | **ExifCleaner** | [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) | Aplicativo desktop open-source para limpeza de metadados EXIF e dados sensíveis de imagens, vídeos e arquivos PDF via arrastar e soltar. |
+| **Free-My-TV** | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | Launcher alternativo open-source, ultrarrápido e livre de anúncios e telemetria para Smart TVs com Google TV, LG webOS e Samsung Tizen, com reversão em um clique. |
 | **Privacy Badger** | [EFForg/privacybadger](https://github.com/EFForg/privacybadger) | Extensão da Electronic Frontier Foundation que aprende a bloquear rastreadores invisíveis. |
 | **SearXNG** | [searxng/searxng](https://github.com/searxng/searxng) | Metabuscador de internet livre e auto-hospedável que agrega resultados de dezenas de serviços sem rastrear nem traçar perfis. |
 | **Syncthing** | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Sincronização contínua e criptografada de arquivos entre dispositivos de ponta a ponta sem servidores centrais. |
