@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **242 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **250 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-242-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-250-blue.svg)](#-categorias)
 
 </div>
 
@@ -52,6 +52,7 @@
 
 <a id="categoria-1"></a>
 ### 1. 🤖 Agentes de IA & Coding Assistants
+
 *Ferramentas que capacitam modelos a executar tarefas complexas, planejar ações e resolver código de forma autônoma.*
 
 | Projeto | Repositório Oficial | Descrição |
@@ -66,6 +67,7 @@
 | **Aider** | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | Ferramenta de pair-programming de IA no terminal com suporte a git e múltiplos modelos. |
 | **Anatomy** | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | Agent Skill especializada em gerar ilustrações isométricas interativas e detalhadas de arquiteturas complexas, diagramas de sistemas e máquinas em SVG e WebGL. |
 | **Book-to-Skill** | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Converte livros e manuais extensos em skills estruturadas e acionáveis para agentes de IA. |
+| **burn-baby-burn** | [dtnewman/burn-baby-burn](https://github.com/dtnewman/burn-baby-burn) | A bash one-liner that burns Claude Code or Codex tokens on purpose. |
 | **Cindy** | [makecindy/cindy](https://github.com/makecindy/cindy) | Agente autônomo open-source pronto para uso que unifica múltiplos harnesses (Claude Code, Codex) e modelos para operar seu computador e apps locais. |
 | **CLI-Anything** | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Transforma qualquer software em CLI agent-native para permitir que agentes de IA controlem aplicações legadas e ferramentas complexas. |
 | **CrewAI** | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Framework para orquestração de equipes autônomas de agentes de IA colaborativos. |
@@ -78,6 +80,7 @@
 | **Gitingest** | [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) | Converte a estrutura e código de qualquer repo GitHub em prompt otimizado para LLMs. |
 | **Goose** | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Agente de IA autônomo on-machine da Block para automação de tarefas complexas e execução de código. |
 | **Graphify** | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Converte qualquer codebase, documentação e schemas em um grafo de conhecimento consultável para coding agents. |
+| **hallmark** | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 | **Langflow** | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Interface visual baseada em nós para prototipagem e orquestração de fluxos complexos de IA e RAG. |
 | **Mem0** | [mem0ai/mem0](https://github.com/mem0ai/mem0) | Camada de memória adaptativa e persistente para agentes de IA e chatbots. |
 | **Mercury Agent** | [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) | Agente autônomo com controle granular de permissões de ferramentas, orçamentos estritos de tokens e operação contínua 24/7 com suporte a múltiplos canais (CLI, Telegram). |
@@ -99,6 +102,7 @@
 
 <a id="categoria-2"></a>
 ### 2. 🧠 LLMs Locais, Fine-Tuning & Inferência
+
 *Execução, otimização, RAG e especialização de modelos no seu próprio computador sem depender de nuvem.*
 
 | Projeto | Repositório Oficial | Descrição |
@@ -127,6 +131,7 @@
 
 <a id="categoria-3"></a>
 ### 3. 👁️ Visão Computacional, IA Visual & 3D
+
 *Detecção de objetos, segmentação semântica, modelos de difusão de imagem, sensoriamento espacial e geração de ativos 3D.*
 
 | Projeto | Repositório Oficial | Descrição |
@@ -135,6 +140,8 @@
 | **Diffusers** | [huggingface/diffusers](https://github.com/huggingface/diffusers) | A biblioteca padrão da indústria para modelos de difusão de imagem, áudio e vídeo da Hugging Face. |
 | **EchoMimic** | [BadToBest/EchoMimic](https://github.com/BadToBest/EchoMimic) | Geração de animações de retrato realistas sincronizadas com áudio e pontos de referência facial. |
 | **Fooocus** | [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) | Interface simplificada e otimizada para geração de imagens de alta qualidade com SDXL (alternativa local ao Midjourney). |
+| **idol-sdk** | [speridlabs/idol-sdk](https://github.com/speridlabs/idol-sdk) | Idol: a single image to 3D Gaussians. Inference SDK and demo. |
+| **img2threejs** | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | Rebuild the object in a reference image as a code-only, procedural Three.js model. |
 | **LivePortrait** | [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) | Anima retratos e fotos estáticas reproduzindo expressões faciais e movimentos de vídeo de referência. |
 | **RuView** | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Transforma sinais Wi-Fi em inteligência espacial em tempo real, presença e monitoramento sem câmeras. |
 | **SadTalker** | [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) | Produz vídeos de cabeças falantes (Talking Heads) a partir de uma foto e um áudio de voz. |
@@ -147,6 +154,7 @@
 
 <a id="categoria-4"></a>
 ### 4. 🌐 Automação de Navegador & Web Scraping
+
 *Robôs, crawlers inteligentes e navegadores desenvolvidos para navegar e extrair dados sem bloqueios.*
 
 | Projeto | Repositório Oficial | Descrição |
@@ -170,6 +178,7 @@
 
 <a id="categoria-5"></a>
 ### 5. 🎬 Geração & Edição de Áudio, Vídeo e Voz
+
 *Criação programática de vídeos, animações, síntese e clonagem de voz ultra-realistas, transcrição e manipulação de mídia.*
 
 | Projeto | Repositório Oficial | Descrição |
@@ -196,6 +205,7 @@
 
 <a id="categoria-6"></a>
 ### 6. 🎨 Design, Prototipagem & Arquitetura Visual
+
 *Modelagem visual de sistemas, diagramas Entidade-Relacionamento, wireframes, design systems e prototipagem UI/UX.*
 
 | Projeto | Repositório Oficial | Descrição |
@@ -212,6 +222,7 @@
 
 <a id="categoria-7"></a>
 ### 7. 📱 Mobile, Android & Emulação
+
 *Ferramentas de engenharia mobile, espelhamento e controle de dispositivos, emuladores Android e arquitetura iOS/Swift.*
 
 | Projeto | Repositório Oficial | Descrição |
@@ -220,6 +231,7 @@
 | **AppAgent** | [mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent) | Agente multimodal que aprende e opera aplicativos Android como um humano. |
 | **Artemis (Google)** | [google/artemis](https://github.com/google/artemis) | Framework oficial da Google que transforma comandos em linguagem natural em automação confiável no Android, com 99%+ de taxa de sucesso no benchmark AndroidWorld e integração nativa com assistentes de IA (Antigravity, Claude Code, Codex). |
 | **Awesome iOS Architecture** | [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) | Coletânea curada com as melhores arquiteturas, padrões (MVVM-C, VIPER, Clean) e boas práticas para iOS. |
+| **cleanyourtv** | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Debloat any Android or Google TV over Wi-Fi and get an Apple TV style launcher with no ads. |
 | **Design Patterns in Swift** | [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | Implementação prática e idiomática dos 23 padrões de projeto (GoF) em Swift 5.0. |
 | **dex2jar** | [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) | Ferramentas essenciais para trabalhar com arquivos Android .dex e converter para classes Java (.class / .jar). |
 | **docker-android** | [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | Imagem Docker personalizável que roda emuladores Android completos como um microserviço. |
@@ -234,6 +246,7 @@
 
 <a id="categoria-8"></a>
 ### 8. 🛡️ Cibersegurança, Pentest & OSINT
+
 *Investigação de fontes abertas, análise de redes, engenharia reversa e testes de intrusão éticos.*
 
 | Projeto | Repositório Oficial | Descrição |
@@ -270,10 +283,12 @@
 
 <a id="categoria-9"></a>
 ### 9. 💻 Ferramentas de Desenvolvimento & Terminal
+
 *Utilitários que aumentam a produtividade diária de desenvolvedores, clientes de banco de dados e melhorias de fluxo.*
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
+| **aec-model-bridge** | [Sam-AEC/aec-model-bridge](https://github.com/Sam-AEC/aec-model-bridge) | AI that waits for you - AEC model bridge and automation tools. |
 | **Awesome Rust** | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curadoria definitiva com as melhores bibliotecas, ferramentas de sistema e recursos do ecossistema Rust. |
 | **ccusage** | [ccusage/ccusage](https://github.com/ccusage/ccusage) | Ferramenta CLI interativa para monitorar em tempo real o consumo de tokens, custos acumulados e limites de uso do Claude Code e assistentes de IA. |
 | **Code-Server** | [coder/code-server](https://github.com/coder/code-server) | Execute o VS Code completo diretamente no navegador em qualquer servidor remoto e acesse seu ambiente de desenvolvimento de qualquer lugar. |
@@ -300,6 +315,7 @@
 
 <a id="categoria-10"></a>
 ### 10. ⚙️ Workflows, Orquestração & DevOps
+
 *Ferramentas para automação de tarefas em lote, gerenciamento de infraestrutura, DAGs e pipelines.*
 
 | Projeto | Repositório Oficial | Descrição |
@@ -319,58 +335,60 @@
 
 <a id="categoria-11"></a>
 ### 11. 🏠 Substitutos Open-Source de Apps Pagos (Self-Hosted)
+
 *Alternativas gratuitas e auto-hospedadas para economizar nas assinaturas de serviços e SaaS populares.*
 
-| Projeto | Repositório Oficial | O que substitui | Descrição |
+| Projeto | Repositório Oficial | Substituto de | Descrição |
 |---|---|---|---|
-| **9Drive** | [zenhosta/9drive](https://github.com/zenhosta/9drive) | Google One, Dropbox Plus | Gateway de armazenamento web self-hosted que conecta múltiplas contas do Google Drive em um único painel virtual, unificando cotas e roteando uploads para onde houver espaço livre. |
-| **Anytype** | [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) | SaaS pago | Espaço de trabalho local e criptografado para notas, tarefas e grafos de conhecimento com arquitetura P2P. |
-| **Apache Cloudberry** | [apache/cloudberry](https://github.com/apache/cloudberry) | Greenplum, Snowflake | Banco de dados analítico de processamento massivo paralelo (MPP) maduro e open-source para Big Data e Data Warehouses. |
-| **AppFlowy** | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Notion | Espaço de trabalho seguro e local para notas, quadros Kanban e documentação. |
-| **ArchiveBox** | [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | Wayback Machine, Pocket, Pinboard | Solução completa e auto-hospedada de arquivamento web (salva páginas, PDFs, HTML, mídias e capturas com replay offline). |
-| **Audiobookshelf** | [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) | Audible | Servidor auto-hospedado para organizar e ouvir audiolivros e podcasts (alternativa ao Audible). |
-| **Cal.com** | [calcom/cal.com](https://github.com/calcom/cal.com) | Calendly | Plataforma completa de agendamento de eventos e reuniões com integrações de calendário (alternativa ao Calendly). |
-| **Cap** | [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Loom | Gravador de tela open-source leve e compartilhável instantaneamente. |
-| **ChangeDetection.io** | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Visualping, Distill.io | Ferramenta self-hosted para monitoramento contínuo de alterações em páginas web, quedas de preço e alertas de estoque em tempo real. |
-| **Docmost** | [docmost/docmost](https://github.com/docmost/docmost) | Notion e confluence | Wiki e plataforma de documentação colaborativa em tempo real para times (alternativa ao Notion e Confluence). |
-| **EdgeEver** | [edgeever/edgeever](https://github.com/edgeever/edgeever) | Evernote | Aplicativo de anotações em três colunas que roda na infraestrutura gratuita da Cloudflare. |
-| **Home Assistant** | [home-assistant/core](https://github.com/home-assistant/core) | SaaS pago | O principal ecossistema de automação residencial de código aberto focado em controle local e privacidade. |
-| **Immich** | [immich-app/immich](https://github.com/immich-app/immich) | Google Fotos | Backup de fotos com reconhecimento facial, mapas e pesquisa sem custos de nuvem. |
-| **Jellyfin** | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | Plex, Emby | Servidor de streaming de mídia self-hosted 100% gratuito e open-source para organizar e transmitir filmes, séries e músicas para qualquer dispositivo. |
-| **Joplin** | [laurent22/joplin](https://github.com/laurent22/joplin) | Evernote, Notion, OneNote | Aplicativo de notas e gerenciamento de tarefas focado em privacidade, com suporte a Markdown, multimídia, sincronização em nuvem própria e criptografia E2EE. |
-| **KaraKeep** | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | Raindrop, Pocket, Notion Clipper | Aplicativo self-hosted para salvar tudo (links, notas, imagens) com auto-tagging por IA e busca textual profunda. |
-| **LibreChat** | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | ChatGPT Plus, Claude Pro, Poe | Interface web open-source definitiva para múltiplos modelos de IA com suporte nativo a MCP (Model Context Protocol), Code Interpreter, Artifacts e autenticação multiusuário. |
-| **LibreTranslate** | [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | Google Translate API, DeepL | API e motor de tradução automática 100% open-source, auto-hospedável e offline, sem chaves pagas nem envio de dados para nuvem. |
-| **LocalSend** | [localsend/localsend](https://github.com/localsend/localsend) | AirDrop, WeTransfer | Alternativa open-source, segura e multiplataforma ao AirDrop para compartilhamento direto de arquivos via rede local sem nuvem. |
-| **Maybe Finance** | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | Copilot / Monarch Money | Aplicativo open-source e auto-hospedado de gestão financeira pessoal e controle de patrimônio. |
-| **Memos** | [usememos/memos](https://github.com/usememos/memos) | SaaS pago | Ambiente leve para anotações rápidas e microblogging com total privacidade e auto-hospedagem. |
-| **n8n** | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Zapier / Make | Plataforma de automação visual de fluxos de trabalho com centenas de integrações. |
-| **NocoDB** | [nocodb/nocodb](https://github.com/nocodb/nocodb) | Airtable | Transforma qualquer banco de dados relacional (MySQL, Postgres, etc.) em interface de planilha inteligente (alternativa ao Airtable). |
-| **NZBdav** | [nzbdav/nzbdav](https://github.com/nzbdav/nzbdav) | Armazenamento local | Monta arquivos do Usenet como unidade virtual para streaming no Sonarr/Radarr. |
-| **Oomwoo** | [makerspet/oomwoo](https://github.com/makerspet/oomwoo) | iRobot Roomba, Roborock | Aspirador robô totalmente open-source com navegação LiDAR SLAM, ROS2, ESP32, Raspberry Pi e integração nativa com o Home Assistant para automação residencial livre de nuvem proprietária. |
-| **Open SaaS** | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | SaaS Boilerplates pagos ($200+) | Boilerplate full-stack 100% gratuito (React, NodeJS, Prisma, Stripe) com autenticação, pagamentos, tarefas em background e suporte nativo a agentes de IA. |
-| **OpenPanel** | [openpanel-dev/openpanel](https://github.com/openpanel-dev/openpanel) | Mixpanel, Amplitude | Plataforma self-hosted de analytics de produto e tráfego web moderna e focada em privacidade, alternativa direta ao Mixpanel e Amplitude. |
-| **OpenWA** | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | Twilio / Z-API | Gateway de API do WhatsApp gratuito, auto-hospedado e de código aberto para envio e recebimento de mensagens. |
-| **Paperless-ngx** | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | SaaS pago | Indexador e gerenciador de documentos físicos digitalizados com OCR automático e busca instantânea. |
-| **Pear Desktop** | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | YouTube Music Desktop, Spotify | Player desktop moderno para YouTube Music com bloqueador nativo de anúncios, suporte a temas, letras sincronizadas e plugins. |
-| **Plausible Analytics** | [plausible/analytics](https://github.com/plausible/analytics) | SaaS pago | Analytics de sites moderno, ultraleve (<1 KB), sem cookies e em total conformidade com a LGPD/GDPR. |
-| **Reactive Resume** | [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) | Novoresume, Canva Resumes | Construtor completo de currículos profissionais, gratuito, focado em privacidade, altamente customizável e exportável em PDF. |
-| **RustDesk** | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | TeamViewer, AnyDesk | Software de acesso remoto e controle desktop auto-hospedado de alto desempenho desenvolvido em Rust, com criptografia ponta a ponta. |
-| **Spotube** | [team-spotube/spotube](https://github.com/team-spotube/spotube) | Spotify Premium | Cliente open-source de música e podcasts para desktop e mobile alternativo ao Spotify, sem anúncios, sem telemetria e com download direto de playlists para ouvir offline. |
-| **Stirling-PDF** | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Adobe Acrobat / iLovePDF | Suíte web local completa para juntar, dividir, comprimir, converter e assinar PDFs. |
-| **Supabase** | [supabase/supabase](https://github.com/supabase/supabase) | Firebase | Plataforma de backend completa com PostgreSQL, autenticação, realtime e storage (alternativa ao Firebase). |
-| **Suwayomi-Server** | [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | Apps pagos de leitura | Servidor e cliente desktop multiplataforma para leitura de mangás e quadrinhos baseado na arquitetura Tachiyomi. |
-| **TREK** | [liketrek/TREK](https://github.com/liketrek/TREK) | TripIt / Notion | Planejador de viagens e roteiros auto-hospedado com mapas interativos, colaboração em tempo real e orçamentos. |
-| **Twenty** | [twentyhq/twenty](https://github.com/twentyhq/twenty) | Salesforce / HubSpot | CRM moderno de código aberto projetado para a era da IA, altamente customizável e auto-hospedado. |
-| **Umami** | [umami-software/umami](https://github.com/umami-software/umami) | Google Analytics | Analytics de sites simples, rápido, em conformidade com a LGPD e sem coletar dados invasivos. |
-| **Vaultwarden** | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 1Password / LastPass | Servidor alternativo em Rust compatível com todos os clientes oficiais do Bitwarden. |
-| **VERT** | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | CloudConvert, iLovePDF | Conversor universal de arquivos local-first em WebAssembly; converte documentos, imagens e áudio direto no navegador sem depender de nuvem. |
-| **WordCraft** | [storytold/wordcraft](https://github.com/storytold/wordcraft) | Microsoft Word, Google Docs | Reimplementação open-source e de alta fidelidade do Microsoft Word em Rust puro, oferecendo processamento de texto ultrarrápido, offline e compatibilidade nativa com documentos .docx. |
+| **9Drive** | [zenhosta/9drive](https://github.com/zenhosta/9drive) | `Google One, Dropbox Plus` | Gateway de armazenamento web self-hosted que conecta múltiplas contas do Google Drive em um único painel virtual, unificando cotas e roteando uploads para onde houver espaço livre. |
+| **Anytype** | [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) | `` | Espaço de trabalho local e criptografado para notas, tarefas e grafos de conhecimento com arquitetura P2P. |
+| **Apache Cloudberry** | [apache/cloudberry](https://github.com/apache/cloudberry) | `Greenplum, Snowflake` | Banco de dados analítico de processamento massivo paralelo (MPP) maduro e open-source para Big Data e Data Warehouses. |
+| **AppFlowy** | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | `Notion` | Espaço de trabalho seguro e local para notas, quadros Kanban e documentação. |
+| **ArchiveBox** | [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | `Wayback Machine, Pocket, Pinboard` | Solução completa e auto-hospedada de arquivamento web (salva páginas, PDFs, HTML, mídias e capturas com replay offline). |
+| **Audiobookshelf** | [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) | `Audible` | Servidor auto-hospedado para organizar e ouvir audiolivros e podcasts (alternativa ao Audible). |
+| **Cal.com** | [calcom/cal.com](https://github.com/calcom/cal.com) | `Calendly` | Plataforma completa de agendamento de eventos e reuniões com integrações de calendário (alternativa ao Calendly). |
+| **Cap** | [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | `Loom` | Gravador de tela open-source leve e compartilhável instantaneamente. |
+| **ChangeDetection.io** | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | `Visualping, Distill.io` | Ferramenta self-hosted para monitoramento contínuo de alterações em páginas web, quedas de preço e alertas de estoque em tempo real. |
+| **Docmost** | [docmost/docmost](https://github.com/docmost/docmost) | `Notion e confluence` | Wiki e plataforma de documentação colaborativa em tempo real para times (alternativa ao Notion e Confluence). |
+| **EdgeEver** | [edgeever/edgeever](https://github.com/edgeever/edgeever) | `Evernote` | Aplicativo de anotações em três colunas que roda na infraestrutura gratuita da Cloudflare. |
+| **Home Assistant** | [home-assistant/core](https://github.com/home-assistant/core) | `` | O principal ecossistema de automação residencial de código aberto focado em controle local e privacidade. |
+| **Immich** | [immich-app/immich](https://github.com/immich-app/immich) | `Google Fotos` | Backup de fotos com reconhecimento facial, mapas e pesquisa sem custos de nuvem. |
+| **Jellyfin** | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | `Plex, Emby` | Servidor de streaming de mídia self-hosted 100% gratuito e open-source para organizar e transmitir filmes, séries e músicas para qualquer dispositivo. |
+| **Joplin** | [laurent22/joplin](https://github.com/laurent22/joplin) | `Evernote, Notion, OneNote` | Aplicativo de notas e gerenciamento de tarefas focado em privacidade, com suporte a Markdown, multimídia, sincronização em nuvem própria e criptografia E2EE. |
+| **KaraKeep** | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | `Raindrop, Pocket, Notion Clipper` | Aplicativo self-hosted para salvar tudo (links, notas, imagens) com auto-tagging por IA e busca textual profunda. |
+| **LibreChat** | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | `ChatGPT Plus, Claude Pro, Poe` | Interface web open-source definitiva para múltiplos modelos de IA com suporte nativo a MCP (Model Context Protocol), Code Interpreter, Artifacts e autenticação multiusuário. |
+| **LibreTranslate** | [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | `Google Translate API, DeepL` | API e motor de tradução automática 100% open-source, auto-hospedável e offline, sem chaves pagas nem envio de dados para nuvem. |
+| **LocalSend** | [localsend/localsend](https://github.com/localsend/localsend) | `AirDrop, WeTransfer` | Alternativa open-source, segura e multiplataforma ao AirDrop para compartilhamento direto de arquivos via rede local sem nuvem. |
+| **Maybe Finance** | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | `Copilot / Monarch Money` | Aplicativo open-source e auto-hospedado de gestão financeira pessoal e controle de patrimônio. |
+| **Memos** | [usememos/memos](https://github.com/usememos/memos) | `` | Ambiente leve para anotações rápidas e microblogging com total privacidade e auto-hospedagem. |
+| **n8n** | [n8n-io/n8n](https://github.com/n8n-io/n8n) | `Zapier / Make` | Plataforma de automação visual de fluxos de trabalho com centenas de integrações. |
+| **NocoDB** | [nocodb/nocodb](https://github.com/nocodb/nocodb) | `Airtable` | Transforma qualquer banco de dados relacional (MySQL, Postgres, etc.) em interface de planilha inteligente (alternativa ao Airtable). |
+| **NZBdav** | [nzbdav/nzbdav](https://github.com/nzbdav/nzbdav) | `Armazenamento local` | Monta arquivos do Usenet como unidade virtual para streaming no Sonarr/Radarr. |
+| **Oomwoo** | [makerspet/oomwoo](https://github.com/makerspet/oomwoo) | `iRobot Roomba, Roborock` | Aspirador robô totalmente open-source com navegação LiDAR SLAM, ROS2, ESP32, Raspberry Pi e integração nativa com o Home Assistant para automação residencial livre de nuvem proprietária. |
+| **Open SaaS** | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | `SaaS Boilerplates pagos ($200+)` | Boilerplate full-stack 100% gratuito (React, NodeJS, Prisma, Stripe) com autenticação, pagamentos, tarefas em background e suporte nativo a agentes de IA. |
+| **OpenPanel** | [openpanel-dev/openpanel](https://github.com/openpanel-dev/openpanel) | `Mixpanel, Amplitude` | Plataforma self-hosted de analytics de produto e tráfego web moderna e focada em privacidade, alternativa direta ao Mixpanel e Amplitude. |
+| **OpenWA** | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | `Twilio / Z-API` | Gateway de API do WhatsApp gratuito, auto-hospedado e de código aberto para envio e recebimento de mensagens. |
+| **Paperless-ngx** | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | `` | Indexador e gerenciador de documentos físicos digitalizados com OCR automático e busca instantânea. |
+| **Pear Desktop** | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | `YouTube Music Desktop, Spotify` | Player desktop moderno para YouTube Music com bloqueador nativo de anúncios, suporte a temas, letras sincronizadas e plugins. |
+| **Plausible Analytics** | [plausible/analytics](https://github.com/plausible/analytics) | `` | Analytics de sites moderno, ultraleve (<1 KB), sem cookies e em total conformidade com a LGPD/GDPR. |
+| **Reactive Resume** | [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) | `Novoresume, Canva Resumes` | Construtor completo de currículos profissionais, gratuito, focado em privacidade, altamente customizável e exportável em PDF. |
+| **RustDesk** | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | `TeamViewer, AnyDesk` | Software de acesso remoto e controle desktop auto-hospedado de alto desempenho desenvolvido em Rust, com criptografia ponta a ponta. |
+| **Spotube** | [team-spotube/spotube](https://github.com/team-spotube/spotube) | `Spotify Premium` | Cliente open-source de música e podcasts para desktop e mobile alternativo ao Spotify, sem anúncios, sem telemetria e com download direto de playlists para ouvir offline. |
+| **Stirling-PDF** | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | `Adobe Acrobat / iLovePDF` | Suíte web local completa para juntar, dividir, comprimir, converter e assinar PDFs. |
+| **Supabase** | [supabase/supabase](https://github.com/supabase/supabase) | `Firebase` | Plataforma de backend completa com PostgreSQL, autenticação, realtime e storage (alternativa ao Firebase). |
+| **Suwayomi-Server** | [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | `Apps pagos de leitura` | Servidor e cliente desktop multiplataforma para leitura de mangás e quadrinhos baseado na arquitetura Tachiyomi. |
+| **TREK** | [liketrek/TREK](https://github.com/liketrek/TREK) | `TripIt / Notion` | Planejador de viagens e roteiros auto-hospedado com mapas interativos, colaboração em tempo real e orçamentos. |
+| **Twenty** | [twentyhq/twenty](https://github.com/twentyhq/twenty) | `Salesforce / HubSpot` | CRM moderno de código aberto projetado para a era da IA, altamente customizável e auto-hospedado. |
+| **Umami** | [umami-software/umami](https://github.com/umami-software/umami) | `Google Analytics` | Analytics de sites simples, rápido, em conformidade com a LGPD e sem coletar dados invasivos. |
+| **Vaultwarden** | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | `1Password / LastPass` | Servidor alternativo em Rust compatível com todos os clientes oficiais do Bitwarden. |
+| **VERT** | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | `CloudConvert, iLovePDF` | Conversor universal de arquivos local-first em WebAssembly; converte documentos, imagens e áudio direto no navegador sem depender de nuvem. |
+| **WordCraft** | [storytold/wordcraft](https://github.com/storytold/wordcraft) | `Microsoft Word, Google Docs` | Reimplementação open-source e de alta fidelidade do Microsoft Word em Rust puro, oferecendo processamento de texto ultrarrápido, offline e compatibilidade nativa com documentos .docx. |
 
 ---
 
 <a id="categoria-12"></a>
 ### 12. 📈 IA para Negócios, Marketing & Finanças
+
 *Aplicações direcionadas para geração de receita, trading algorítmico, SEO, auditoria e análise de mercado.*
 
 | Projeto | Repositório Oficial | Descrição |
@@ -393,6 +411,7 @@
 
 <a id="categoria-13"></a>
 ### 13. 🔒 Privacidade Digital & Anti-Rastreamento
+
 *Extensões, bloqueadores DNS, limpeza de metadados e configurações para fechar as torneiras de coleta de dados de Big Techs.*
 
 | Projeto | Repositório Oficial | Descrição |
