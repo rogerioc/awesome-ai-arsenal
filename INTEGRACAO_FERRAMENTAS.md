@@ -88,3 +88,15 @@ No Linux (Ubuntu 24.04), dois componentes específicos do macOS precisam ser sub
 * `data/repos_audit.json`: Relatório de saúde gerado pela API do GitHub.
 * `scripts/audit_repos.py`: Auditor paralelo multiplataforma (funciona identicamente no Linux).
 * `scripts/update_arsenal.py`: Script central de orquestração.
+* `scripts/ocr_linux.py`: Utilitário de OCR ultraleve baseado em Tesseract para Linux.
+
+---
+
+## 🔮 4. Roadmap & Melhorias Futuras
+
+### 4.1 🏷️ Classificação Inteligente Automática (LLM / API)
+* **Objetivo:** Substituir a categorização manual ou por palavras-chave por inferência de LLM que lê o README/descrição do repositório recém-descoberto e classifica diretamente em uma das 13 categorias oficiais, gerando a descrição concisa em português.
+* **Opções Arquiteturais Avaliadas:**
+  1. **Nuvem (Zero RAM / Recomendada):** Chamada via Gemini API (cota gratuita) ou Groq API — resposta em <1s sem onerar a CPU nem a memória RAM local.
+  2. **Local Leve (Ollama):** Uso do modelo `deepseek-r1:1.5b` (1.1 GB) já instalado no ambiente local, consumindo o mínimo de memória e rodando na CPU i5.
+  3. **Janas / C Engine:** Binário C puro compilado no Linux rodando quantizações GGUF ultra-otimizadas.
