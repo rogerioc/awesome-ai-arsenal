@@ -27,6 +27,7 @@ import time
 import argparse
 import subprocess
 import urllib.request
+import shutil
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 
@@ -36,7 +37,8 @@ CATALOG_FILE = os.path.join(DATA_DIR, "repos_catalog.json")
 AUDIT_OUTPUT_FILE = os.path.join(DATA_DIR, "repos_audit.json")
 
 def get_github_headers():
-    gh_token = subprocess.run(["/usr/local/bin/gh", "auth", "token"], capture_output=True, text=True).stdout.strip()
+    gh_bin = shutil.which("gh") or "gh"
+    gh_token = subprocess.run([gh_bin, "auth", "token"], capture_output=True, text=True).stdout.strip()
     headers = {
         "User-Agent": "Awesome-Arsenal-Auditor",
         "Accept": "application/vnd.github.v3+json"
