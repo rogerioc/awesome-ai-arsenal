@@ -70,24 +70,32 @@ No Linux (Ubuntu 24.04), dois componentes específicos do macOS precisam ser sub
           pass
   ```
 
-### 2.2 Scraper do Navegador (AppleScript -> Playwright)
-* **No macOS**: O script controlava o Brave via `osascript` (AppleScript).
-* **No Linux**: Usar **Playwright** com o Brave Browser instalado ou Chromium headless:
-  ```bash
-  pip install playwright
-  playwright install chromium
-  ```
-  O Playwright roda nativamente em servidores Linux (mesmo sem monitor / headless) com performance e estabilidade superiores ao AppleScript.
+### 2.2 Scraper do Navegador (AppleScript -> Playwright via CDP / Docker)
+* **No macOS**: O script anterior controlava o Brave via `osascript` (AppleScript).
+* **No Linux (Nativo ou Docker)**: Conexão direta ao Brave Browser em execução via **Chrome DevTools Protocol (CDP)** (`localhost:9222`):
+  - **Segurança máxima:** Nenhum arquivo de sessão, cookie (`sessionid`) ou senha é exportado para o disco. O Brave gerencia a autenticação em memória/chaveiro do SO.
+  - **Execução Nativa:**
+    ```bash
+    brave-browser --remote-debugging-port=9222 &
+    python3 scripts/update_arsenal.py --dry-run
+    ```
+  - **Execução via Docker Compose:**
+    ```bash
+    docker compose run --rm updater --dry-run
+    ```
 
 ---
 
 ## 📂 3. Estrutura dos Dados e Diretórios
 
+* `Dockerfile`: Imagem de execução leve com Python 3.11, Playwright e Tesseract OCR instalados.
+* `docker-compose.yml`: Orquestração em modo de rede host para conexão CDP com o Brave do sistema.
+* `requirements.txt`: Dependências Python do pipeline.
 * `data/repos_catalog.json`: Base principal com todas as 242 ferramentas cadastradas.
 * `data/saved_posts.json`: Lista de todos os posts salvos já processados (evita reprocessamento).
 * `data/repos_audit.json`: Relatório de saúde gerado pela API do GitHub.
 * `scripts/audit_repos.py`: Auditor paralelo multiplataforma (funciona identicamente no Linux).
-* `scripts/update_arsenal.py`: Script central de orquestração.
+* `scripts/update_arsenal.py`: Script central de orquestração via Playwright CDP.
 * `scripts/ocr_linux.py`: Utilitário de OCR ultraleve baseado em Tesseract para Linux.
 
 ---

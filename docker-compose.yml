@@ -1,0 +1,14 @@
+services:
+  updater:
+    build: .
+    container_name: reposia_updater
+    network_mode: "host"
+    environment:
+      - CDP_URL=${CDP_URL:-http://localhost:9222}
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./data:/app/data
+      - ./scratch:/app/scratch
+      - ./README.md:/app/README.md
+      - ~/.config/gh:/root/.config/gh:ro
+
