@@ -2,11 +2,11 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **250 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **273 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Projects](https://img.shields.io/badge/Projetos-250-blue.svg)](#-categorias)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-273-blue.svg)](#-categorias)
 
 </div>
 
@@ -66,23 +66,31 @@
 | **AI Memory Architecture** | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Estudos práticos e implementações de arquiteturas de memória persistente para agentes de IA. |
 | **Aider** | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | Ferramenta de pair-programming de IA no terminal com suporte a git e múltiplos modelos. |
 | **Anatomy** | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | Agent Skill especializada em gerar ilustrações isométricas interativas e detalhadas de arquiteturas complexas, diagramas de sistemas e máquinas em SVG e WebGL. |
+| **Awesome Foundation Agents** | [FoundationAgents/awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) | Curadoria consolidada de pesquisas, papers, benchmarks e repositórios sobre agentes fundamentais de IA. |
 | **Book-to-Skill** | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Converte livros e manuais extensos em skills estruturadas e acionáveis para agentes de IA. |
 | **burn-baby-burn** | [dtnewman/burn-baby-burn](https://github.com/dtnewman/burn-baby-burn) | A bash one-liner that burns Claude Code or Codex tokens on purpose. |
 | **Cindy** | [makecindy/cindy](https://github.com/makecindy/cindy) | Agente autônomo open-source pronto para uso que unifica múltiplos harnesses (Claude Code, Codex) e modelos para operar seu computador e apps locais. |
 | **CLI-Anything** | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Transforma qualquer software em CLI agent-native para permitir que agentes de IA controlem aplicações legadas e ferramentas complexas. |
+| **Context Mode** | [mksglu/context-mode](https://github.com/mksglu/context-mode) | Otimizador de janela de contexto para agentes via MCP e hooks, reduzindo drasticamente o consumo de tokens de ferramentas. |
+| **CopperPilot CLI** | [CopperPilot/copper-pilot-cli](https://github.com/CopperPilot/copper-pilot-cli) | Cliente CLI leve para o agente de IA CopperPilot focado em design eletrônico e layout automatizado de placas PCB. |
 | **CrewAI** | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Framework para orquestração de equipes autônomas de agentes de IA colaborativos. |
 | **Deer-Flow** | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Framework de Deep Research e fluxos multi-agente de pesquisa profunda da ByteDance. |
 | **Dify** | [langgenius/dify](https://github.com/langgenius/dify) | Plataforma de desenvolvimento de aplicações de IA e agentes com interface visual, RAG e observabilidade. |
 | **Dyad** | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | Construtor local de aplicações web com IA no seu próprio computador, sem vendor lock-in. |
 | **Fabric** | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | Framework modular open-source para potencializar a produtividade humana com IA através de prompts e padrões pré-configurados. |
 | **Flowise** | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | Interface visual baseada em nós para construir e orquestrar agentes de IA e pipelines de LLM. |
+| **Free Claude Code** | [alishahryar1/free-claude-code](https://github.com/alishahryar1/free-claude-code) | Interface CLI para executar Claude Code, Codex, Pi e OpenCode aproveitando cotas gratuitas diretamente no terminal. |
 | **Generative Agents** | [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) | Simulação computacional de comunidades de agentes autônomos (Stanford Town). |
 | **Gitingest** | [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) | Converte a estrutura e código de qualquer repo GitHub em prompt otimizado para LLMs. |
 | **Goose** | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Agente de IA autônomo on-machine da Block para automação de tarefas complexas e execução de código. |
 | **Graphify** | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Converte qualquer codebase, documentação e schemas em um grafo de conhecimento consultável para coding agents. |
 | **hallmark** | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| **JCode** | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Ambiente de execução (harness) de alta performance e baixo consumo de RAM para agentes de codificação autônomos. |
 | **Langflow** | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Interface visual baseada em nós para prototipagem e orquestração de fluxos complexos de IA e RAG. |
+| **LifeOS** | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | Harness de IA com abordagem hill-climbing para conduzir objetivos e otimizar rotinas de trabalho e vida pessoal. |
+| **Loop Engineering** | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | Padrões e ferramentas CLI (loop-audit, loop-init, loop-cost) para engenharia e orquestração de loops de agentes de código. |
 | **Mem0** | [mem0ai/mem0](https://github.com/mem0ai/mem0) | Camada de memória adaptativa e persistente para agentes de IA e chatbots. |
+| **MemPalace** | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | Sistema de memória de longo prazo para agentes de IA com alta pontuação em benchmarks de persistência e recuperação. |
 | **Mercury Agent** | [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) | Agente autônomo com controle granular de permissões de ferramentas, orçamentos estritos de tokens e operação contínua 24/7 com suporte a múltiplos canais (CLI, Telegram). |
 | **MetaGPT** | [geekan/MetaGPT](https://github.com/geekan/MetaGPT) | Framework multi-agente que simula uma software house completa (PM, arquiteto, dev, QA). |
 | **Multica** | [multica-io/multica](https://github.com/multica-io/multica) | Plataforma e ambiente para desenvolvimento de agentes de software autônomos. |
@@ -92,11 +100,14 @@
 | **OpenHands** | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | Plataforma open-source de agentes autônomos para desenvolvimento de software (antigo OpenDevin). |
 | **OpenRig** | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | Orquestrador e rede multi-agente para Claude Code, Codex e Pi, permitindo criar equipes autônomas persistentes com papéis definidos, contexto compartilhado e execução distribuída de tarefas. |
 | **Orca** | [stablyai/orca](https://github.com/stablyai/orca) | Plataforma para gerenciamento e orquestração de frotas de coding agents (Claude Code, Grok, etc.) com isolamento por worktree e suporte desktop, mobile e nuvem. |
+| **Ponytail** | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Harness e prompt de sistema para agentes de codificação pensarem com minimalismo e evitar complexidade excessiva. |
 | **Pullfrog** | [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog) | Bot em GitHub Actions que analisa PRs, responde revisões e corrige falhas de CI. |
+| **Repowise** | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | Inteligência e saúde de base de código via MCP: detecção de código morto, métricas git e documentação automática. |
 | **Ruflo** | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | Harness corporativo para enxames multi-agente com memória adaptativa contínua, inteligência auto-evolutiva e integração nativa com Claude Code e Codex. |
 | **Scientific Agent Skills** | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Biblioteca líder com mais de 170 skills e 100+ bases de dados científicas (biologia, química, medicina) para transformar agentes em pesquisadores autônomos. |
 | **Superpowers** | [obra/superpowers](https://github.com/obra/superpowers) | Framework de fluxos disciplinados para coding agents (planejamento, TDD e revisão sistemática). |
 | **SWE-agent** | [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) | Agente autônomo da Princeton que resolve bugs e issues reais no GitHub. |
+| **TencentDB Agent Memory** | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | Hub corporativo de memória para agentes de IA com gestão unificada de histórico de chat, skills e grafo de código. |
 
 ---
 
@@ -109,12 +120,15 @@
 |---|---|---|
 | **AirLLM** | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Permite executar modelos LLM gigantes (70B+) em GPUs comuns com pouca VRAM via streaming de camadas. |
 | **Awesome LLM Token Optimization** | [pleasedodisturb/awesome-llm-token-optimization](https://github.com/pleasedodisturb/awesome-llm-token-optimization) | Curadoria completa de técnicas, ferramentas, compressão de contexto e estratégias para redução drástica de custos de tokens e inferência em LLMs. |
+| **Building LLM Apps From Scratch** | [hamzafarooq/building-llm-applications-from-scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch) | Código e slides práticos para implementar arquiteturas e aplicações completas baseadas em LLMs do zero. |
 | **Colibri** | [JustVugg/colibri](https://github.com/JustVugg/colibri) | Engine em C puro para rodar modelos gigantes (744B MoE) em laptops via streaming de disco. |
 | **DSPy** | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | Framework revolucionário para programar e otimizar pipelines de LLMs e agentes de forma determinística em vez de apenas criar prompts manuais. |
 | **Janas** | [prabanta-dev/janas](https://github.com/prabanta-dev/janas) | Motor de inferência de LLMs ultrarrápido em C puro desenvolvido para executar modelos maiores que a memória RAM (como Qwen 80B em 32GB) com até 13x a velocidade do llama.cpp. |
 | **Landscape of Thoughts** | [tmlr-group/landscape-of-thoughts](https://github.com/tmlr-group/landscape-of-thoughts) | Ferramenta de visualização e análise espacial do processo de raciocínio e cadeias de pensamento de LLMs. |
+| **LangExtract** | [google/langextract](https://github.com/google/langextract) | Biblioteca do Google para extração de dados estruturados com LLMs, rastreabilidade precisa e visualização interativa. |
 | **LangWatch** | [langwatch/langwatch](https://github.com/langwatch/langwatch) | Plataforma open-source para observabilidade, testes automatizados e monitoramento de LLMs. |
 | **Manacá 1B Base** | [Instituto-IA-LNCC/manaca-1b-base](https://github.com/Instituto-IA-LNCC/manaca-1b-base) | Modelo de linguagem de 1 bilhão de parâmetros treinado pelo LNCC com foco em língua portuguesa. |
+| **ML Road** | [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) | Roadmap estruturado de estudos e repositório de recursos essenciais para formação em Machine Learning e IA. |
 | **Ollama** | [ollama/ollama](https://github.com/ollama/ollama) | Padrão da indústria para baixar e rodar modelos locais (Llama 3, DeepSeek, Mistral, Qwen). |
 | **OmniRoute** | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Gateway de IA unificado que conecta 350+ provedores e faz fallback inteligente de cotas e erros. |
 | **Open WebUI** | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Interface web auto-hospedada completa estilo ChatGPT, com suporte a Ollama, RAG e agentes. |
@@ -123,6 +137,7 @@
 | **Overmind** | [overmind-core/overmind](https://github.com/overmind-core/overmind) | Stack que transforma dados de agentes em modelos especializados para tarefas específicas via fine-tuning. |
 | **RAGFlow** | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Motor de RAG open-source de nível corporativo com compreensão profunda de documentos complexos e interface de chat. |
 | **TensorZero** | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | Gateway e infraestrutura open-source para otimização, feedback e orquestração de LLMs em produção. |
+| **TurboVec** | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Índice de busca vetorial ultrarrápido baseado em TurboQuant, construído em Rust com bindings para Python. |
 | **Unsloth** | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Biblioteca de fine-tuning ultrarrápida que reduz uso de VRAM em 80% e acelera treinamento em 2x a 5x. |
 | **WhichLLM** | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | CLI que detecta a CPU/GPU/RAM da sua máquina e indica exatamente quais modelos rodam com boa velocidade. |
 | **Xerj** | [xerj-org/xerj](https://github.com/xerj-org/xerj) | Mecanismo de busca local-first e servidor MCP para agentes de IA em binário único Rust, oferecendo busca híbrida BM25 + vetorial, memória contínua para agentes e RAG ultrarrápido sem dependência de nuvem. |
@@ -147,8 +162,10 @@
 | **SadTalker** | [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) | Produz vídeos de cabeças falantes (Talking Heads) a partir de uma foto e um áudio de voz. |
 | **spritefusion-sprite-normals** | [Hugo-Dz/spritefusion-sprite-normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) | Ferramenta em Rust para geração automática de normal maps com iluminação dinâmica para sprites 2D e spritesheets de jogos. |
 | **TRELLIS.2** | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | Modelo de ponta da Microsoft para geração de ativos 3D de alta fidelidade a partir de imagens e texto. |
+| **Unlimited OCR** | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Solução avançada de OCR e parsing da Baidu projetada para leitura one-shot de documentos extensos e complexos. |
 | **Upscayl** | [upscayl/upscayl](https://github.com/upscayl/upscayl) | Upscaler de imagens e fotos via inteligência artificial gratuito e de código aberto para desktop (macOS, Linux e Windows), com múltiplos modelos de super-resolução. |
 | **WiFi DensePose** | [superstar1225/DensePose_from_WiFi](https://github.com/superstar1225/DensePose_from_WiFi) | Rastreia a posição e postura corporal de pessoas através de paredes utilizando interferência de sinal Wi-Fi. |
+| **WorldPlay2** | [WorldPlay2/WorldPlay2](https://github.com/WorldPlay2/WorldPlay2) | Modelos de mundo interativos em tempo real para controle físico e predições visuais de longo horizonte. |
 
 ---
 
@@ -196,6 +213,7 @@
 | **Open-Generative-AI** | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Estúdio de código aberto para geração e manipulação de mídia, imagens e vídeos com múltiplos modelos. |
 | **Pipecat** | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | Framework open-source de produção para agentes de voz e IA multimodal em tempo real. |
 | **spotDL** | [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | Ferramenta CLI de alta performance para baixar músicas, álbuns e playlists inteiras do Spotify em MP3/FLAC com metadados oficiais, letras e capa em alta resolução embutidos. |
+| **Stable Diffusion Videos** | [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) | Criação programática de vídeos fluidos através da interpolação no espaço latente com modelos Stable Diffusion. |
 | **VoiceStudio** | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Suíte open-source e 100% local com mais de 78 mil estrelas para clonagem de voz, design vocal, dublagem de vídeos, ditado e geração de audiobooks em mais de 640 idiomas. |
 | **VoxCPM** | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Modelo de síntese de voz (TTS) de última geração sem tokenizador para clonagem de voz ultra-realista e fala multilíngue com alta expressividade. |
 | **Whisper** | [openai/whisper](https://github.com/openai/whisper) | Modelo de reconhecimento e transcrição de fala em áudio e múltiplos idiomas de alta precisão. |
@@ -254,6 +272,7 @@
 | **Anthropic Cybersecurity Skills** | [liptonj-eng/anthropic-cybersecurity-skills](https://github.com/liptonj-eng/anthropic-cybersecurity-skills) | Mais de 730 skills estruturadas de cibersegurança e pentest mapeadas pelo MITRE ATT&CK para agentes autônomos. |
 | **Atomic Red Team** | [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) | Biblioteca de testes automatizados e simulações de adversários de alta precisão mapeada diretamente na matriz MITRE ATT&CK para validação de segurança. |
 | **Awesome Hacking** | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Coleção curada com os melhores repositórios, ferramentas e tutoriais de segurança ofensiva e defensiva. |
+| **Awesome Hacking** | [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) | Coleção consolidada de ferramentas, frameworks e utilitários open-source para segurança defensiva e ofensiva. |
 | **Awesome OSINT** | [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | Diretório completo de ferramentas de coleta e inteligência de fontes públicas (Open Source Intelligence). |
 | **Codex Security** | [openai/codex-security](https://github.com/openai/codex-security) | Framework e recomendações de segurança da OpenAI para execução de coding agents em ambientes de produção. |
 | **CyberChef** | [gchq/CyberChef](https://github.com/gchq/CyberChef) | Suíte web multiuso do GCHQ britânico para criptografia, encoding, compressão, desofuscação e análise profunda de dados e payloads cibernéticos. |
@@ -271,6 +290,7 @@
 | **PhoneInfoga** | [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Ferramenta avançada para escaneamento e rastreamento de informações sobre números de telefone. |
 | **Pwdb-Public** | [FlameOfIgnis/Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) | Dataset e utilitários para análise forense e auditoria de credenciais vazadas em pentest defensivo. |
 | **Rea** | [morluto/rea](https://github.com/morluto/rea) | Engenharia reversa automatizada com agentes de IA, capaz de dissecar desde comportamento de aplicações até descompilação de binários nativos. |
+| **Reverse Skill** | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Pacote de habilidades de engenharia reversa e pentest com roteamento de IA para Claude Code, Cursor, Cline e Kiro. |
 | **Security Audit Skill** | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Agent skill oficial da Cloudflare para coding agents realizarem auditorias automatizadas de segurança de ponta a ponta com achados estruturados e verificáveis. |
 | **Sherlock** | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Localiza perfis e contas de um mesmo nome de usuário em centenas de redes sociais simultaneamente. |
 | **Sigma** | [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) | Padrão genérico e aberto de assinaturas de detecção de ameaças aplicável a múltiplos mecanismos SIEM (Splunk, Elastic, QRadar, Wazuh). |
@@ -292,6 +312,7 @@
 | **Awesome Rust** | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curadoria definitiva com as melhores bibliotecas, ferramentas de sistema e recursos do ecossistema Rust. |
 | **ccusage** | [ccusage/ccusage](https://github.com/ccusage/ccusage) | Ferramenta CLI interativa para monitorar em tempo real o consumo de tokens, custos acumulados e limites de uso do Claude Code e assistentes de IA. |
 | **Code-Server** | [coder/code-server](https://github.com/coder/code-server) | Execute o VS Code completo diretamente no navegador em qualquer servidor remoto e acesse seu ambiente de desenvolvimento de qualquer lugar. |
+| **Cubian** | [cubieplayer/Cubian](https://github.com/cubieplayer/Cubian) | Distribuição Linux otimizada para placas de computação embarcada Cubieboard com suporte a módulos de hardware. |
 | **Daytona** | [daytonaio/daytona](https://github.com/daytonaio/daytona) | Gerenciador de ambientes de desenvolvimento padronizados e workspaces seguros (alternativa ao GitHub Codespaces). |
 | **DBX** | [t8y2/dbx](https://github.com/t8y2/dbx) | Cliente de banco de dados ultrarrápido em Rust (15-20 MB), compatível com 70+ bancos, IA e MCP. |
 | **DevTUI** | [skatkov/devtui](https://github.com/skatkov/devtui) | Canivete suíço no terminal com utilitários de conversão, decodificação, JWT, hash e inspeção rápida para devs. |
@@ -321,14 +342,18 @@
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
 | **Activepieces** | [activepieces/activepieces](https://github.com/activepieces/activepieces) | Plataforma open-source de automação de fluxos de IA com suporte nativo a centenas de servidores MCP. |
+| **AIDLC Workflows** | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | Workflows da AWS Labs para orquestração e padronização do ciclo de vida de desenvolvimento com IA (AI-DLC). |
 | **Awesome Harness Engineering** | [yenanjing/awesome-harness-engineering](https://github.com/yenanjing/awesome-harness-engineering) | Guia com mais de 80 repositórios sobre engenharia de testes, harnesses de avaliação de agentes e frameworks de CI/CD. |
 | **Coolify** | [coollabsio/coolify](https://github.com/coollabsio/coolify) | Plataforma self-hosted tudo-em-um para gerenciar deploys de apps, bancos de dados e serviços (alternativa ao Heroku/Vercel). |
 | **Dagu** | [dagu-org/dagu](https://github.com/dagu-org/dagu) | Orquestrador leve e database-free para rodar DAGs declarativas em YAML; alternativa direta ao Airflow e Cron. |
+| **Filee** | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | Free, open-source file converter. Convert 263 formats offline in your browser. |
 | **Fleetbase** | [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) | Sistema operacional modular open-source para gestão de frotas, entregas e supply chain. |
+| **Floci** | [floci-io/floci](https://github.com/floci-io/floci) | Emulador local de serviços AWS leve, rápido e gratuito, servindo como alternativa open-source ao LocalStack. |
 | **FreeDomain** | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | Plataforma e recursos práticos para registro gratuito de domínios com suporte a nameservers customizados e guias de DNS. |
 | **Homelab GitOps IaC** | [Mafyuh/iac](https://github.com/Mafyuh/iac) | Exemplo completo de Infrastructure as Code (IaC) orientada a GitOps para infraestrutura e servidores locais. |
 | **Nango** | [NangoHQ/nango](https://github.com/NangoHQ/nango) | Plataforma de infraestrutura de integrações e autenticação OAuth unificada para conectar agentes de IA e aplicações a mais de 1.000 APIs externas. |
 | **NetBox** | [netbox-community/netbox](https://github.com/netbox-community/netbox) | A principal ferramenta de documentação e fonte de verdade (DCIM/IPAM) para redes de computadores. |
+| **ppt-master** | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | AI turns documents or topics into real, native PowerPoint decks. |
 | **Uniterm** | [uniterm-app/uniterm](https://github.com/uniterm-app/uniterm) | Aplicativo que suporta mais de 30 protocolos de conexão e permite que agentes de IA rodem comandos shell. |
 
 ---
