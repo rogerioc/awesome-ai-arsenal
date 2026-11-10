@@ -2,12 +2,12 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **406 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **407 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/rogerioc/awesome-ai-arsenal?style=flat&logo=github&color=gold)](https://github.com/rogerioc/awesome-ai-arsenal/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/rogerioc/awesome-ai-arsenal?style=flat&logo=git&color=brightgreen)](https://github.com/rogerioc/awesome-ai-arsenal/commits/main)
-[![Arsenal](https://img.shields.io/badge/Arsenal-406%20Projetos-8A2BE2)](#-categorias)
+[![Arsenal](https://img.shields.io/badge/Arsenal-407%20Projetos-8A2BE2)](#-categorias)
 [![Status](https://img.shields.io/badge/Curadoria-100%25%20Auditada-blue?logo=checkmarx)](#-guia-rápido-por-tarefa-quick-lookup-for-agents--devs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -91,6 +91,7 @@
 | **Deer-Flow** | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Framework de Deep Research e fluxos multi-agente de pesquisa profunda da ByteDance. |
 | **Dify** | [langgenius/dify](https://github.com/langgenius/dify) | Plataforma de desenvolvimento de aplicações de IA e agentes com interface visual, RAG e observabilidade. |
 | **Dyad** | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | Construtor local de aplicações web com IA no seu próprio computador, sem vendor lock-in. |
+| **Elephant-Goldfish Model (EGM)** | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | Plugin open-source do Google para design e revisão de arquitetura com agentes: o Elefante retém o contexto do projeto enquanto os revisores Peixinho-Dourado avaliam sem viés histórico para expor premissas ocultas e pontos cegos. |
 | **Fabric** | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | Framework modular open-source para potencializar a produtividade humana com IA através de prompts e padrões pré-configurados. |
 | **floorplan** | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | Mapeamento visual e interativo da arquitetura de bases de código gerado via Claude e Codex. |
 | **Flowise** | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | Interface visual baseada em nós para construir e orquestrar agentes de IA e pipelines de LLM. |
