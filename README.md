@@ -2,12 +2,12 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **407 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **440 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/rogerioc/awesome-ai-arsenal?style=flat&logo=github&color=gold)](https://github.com/rogerioc/awesome-ai-arsenal/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/rogerioc/awesome-ai-arsenal?style=flat&logo=git&color=brightgreen)](https://github.com/rogerioc/awesome-ai-arsenal/commits/main)
-[![Arsenal](https://img.shields.io/badge/Arsenal-407%20Projetos-8A2BE2)](#-categorias)
+[![Arsenal](https://img.shields.io/badge/Arsenal-440%20Projetos-8A2BE2)](#-categorias)
 [![Status](https://img.shields.io/badge/Curadoria-100%25%20Auditada-blue?logo=checkmarx)](#-guia-rápido-por-tarefa-quick-lookup-for-agents--devs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -68,6 +68,7 @@
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
 | **500 AI Agents Projects** | [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | Coleção com mais de 500 tutoriais e projetos práticos de agentes autônomos de IA. |
+| **Agent Desktop** | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | CLI de Computer Use da Vercel para agentes de IA operarem a área de trabalho e aplicações de forma autônoma. |
 | **Agent-S** | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | Framework de agentes autônomos GUI que interagem com o sistema operacional e computadores exatamente como um ser humano. |
 | **Agent-Skills** | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Biblioteca padronizada de habilidades de engenharia prontas para produção para agentes de código (Claude Code, Cursor, Antigravity). |
 | **Agentic Inbox** | [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) | Cliente de email inteligente e auto-hospedado rodando 100% em Cloudflare Workers com agente de IA integrado para triagem. |
@@ -80,13 +81,18 @@
 | **assistant-ui** | [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | Biblioteca completa em React / TypeScript para interfaces de chat, agentes e assistentes de IA. |
 | **autogen** | [microsoft/autogen](https://github.com/microsoft/autogen) | Framework avançado da Microsoft para orquestração e conversação multi-agente autônoma. |
 | **Awesome Foundation Agents** | [FoundationAgents/awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) | Curadoria consolidada de pesquisas, papers, benchmarks e repositórios sobre agentes fundamentais de IA. |
+| **Billion Context** | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | Plugin de compressão extrema de contexto para sessões de meses com bilhões de tokens em coding assistants. |
 | **Book-to-Skill** | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Converte livros e manuais extensos em skills estruturadas e acionáveis para agentes de IA. |
 | **botpress** | [botpress/botpress](https://github.com/botpress/botpress) | Plataforma open-source para construção e orquestração de chatbots inteligentes e agentes conversacionais autônomos. |
 | **burn-baby-burn** | [dtnewman/burn-baby-burn](https://github.com/dtnewman/burn-baby-burn) | A bash one-liner that burns Claude Code or Codex tokens on purpose. |
+| **Caveman** | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Compressão e redução viral de tokens de contexto para coding agents (why use many token when few token do trick). |
 | **Cindy** | [makecindy/cindy](https://github.com/makecindy/cindy) | Agente autônomo open-source pronto para uso que unifica múltiplos harnesses (Claude Code, Codex) e modelos para operar seu computador e apps locais. |
+| **Claude Code Game Studios** | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Transforma o Claude Code em um estúdio completo de desenvolvimento de jogos com 49 agentes de IA e 72 workflow skills. |
 | **CLI-Anything** | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Transforma qualquer software em CLI agent-native para permitir que agentes de IA controlem aplicações legadas e ferramentas complexas. |
+| **CodeGraph** | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Knowledge graph pré-indexado de código com sincronização automática em mudanças de arquivo para Claude Code, Codex e Cursor. |
 | **Context Mode** | [mksglu/context-mode](https://github.com/mksglu/context-mode) | Otimizador de janela de contexto para agentes via MCP e hooks, reduzindo drasticamente o consumo de tokens de ferramentas. |
 | **CopperPilot CLI** | [CopperPilot/copper-pilot-cli](https://github.com/CopperPilot/copper-pilot-cli) | Cliente CLI leve para o agente de IA CopperPilot focado em design eletrônico e layout automatizado de placas PCB. |
+| **Craft Anything** | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Agente que entende como qualquer software funciona a partir de uma URL e recria sua própria versão. |
 | **CrewAI** | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Framework para orquestração de equipes autônomas de agentes de IA colaborativos. |
 | **Deer-Flow** | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Framework de Deep Research e fluxos multi-agente de pesquisa profunda da ByteDance. |
 | **Dify** | [langgenius/dify](https://github.com/langgenius/dify) | Plataforma de desenvolvimento de aplicações de IA e agentes com interface visual, RAG e observabilidade. |
@@ -101,6 +107,7 @@
 | **Goose** | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Agente de IA autônomo on-machine da Block para automação de tarefas complexas e execução de código. |
 | **Graphify** | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Converte qualquer codebase, documentação e schemas em um grafo de conhecimento consultável para coding agents. |
 | **hallmark** | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| **Improve** | [shadcn/improve](https://github.com/shadcn/improve) | Usa modelos de alto nível para auditar código e traçar planos de execução estruturados para modelos mais baratos. |
 | **JCode** | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Ambiente de execução (harness) de alta performance e baixo consumo de RAM para agentes de codificação autônomos. |
 | **Langflow** | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Interface visual baseada em nós para prototipagem e orquestração de fluxos complexos de IA e RAG. |
 | **lemo-opuscar** | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | Framework de agentes autônomos para veículos autônomos e tarefas robóticas em tempo real. |
@@ -121,6 +128,7 @@
 | **OpenMAIC** | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Open Multi-Agent Interactive Classroom: ecossistema imersivo de aprendizado e colaboração com múltiplos agentes. |
 | **OpenMausBot** | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Alternativa open-source ao Grok Bot e agentes com máquina virtual e ambiente interativo integrado. |
 | **OpenRig** | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | Orquestrador e rede multi-agente para Claude Code, Codex e Pi, permitindo criar equipes autônomas persistentes com papéis definidos, contexto compartilhado e execução distribuída de tarefas. |
+| **OpenWiki** | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | CLI que escreve e mantém documentação estruturada da base de código automaticamente para agentes de IA. |
 | **Orca** | [stablyai/orca](https://github.com/stablyai/orca) | Plataforma para gerenciamento e orquestração de frotas de coding agents (Claude Code, Grok, etc.) com isolamento por worktree e suporte desktop, mobile e nuvem. |
 | **paperclip** | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | App open-source para gestão, visualização e orquestração de múltiplos agentes de IA no ambiente de trabalho. |
 | **Parallel Code** | [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) | Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree |
@@ -129,6 +137,7 @@
 | **Repowise** | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | Inteligência e saúde de base de código via MCP: detecção de código morto, métricas git e documentação automática. |
 | **Ruflo** | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | Harness corporativo para enxames multi-agente com memória adaptativa contínua, inteligência auto-evolutiva e integração nativa com Claude Code e Codex. |
 | **Scientific Agent Skills** | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Biblioteca líder com mais de 170 skills e 100+ bases de dados científicas (biologia, química, medicina) para transformar agentes em pesquisadores autônomos. |
+| **Skills for Engineers** | [mattpocock/skills](https://github.com/mattpocock/skills) | Conjunto de skills e workflows diretos para coding agents mantidos no diretório .agents. |
 | **Superpowers** | [obra/superpowers](https://github.com/obra/superpowers) | Framework de fluxos disciplinados para coding agents (planejamento, TDD e revisão sistemática). |
 | **SWE-agent** | [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) | Agente autônomo da Princeton que resolve bugs e issues reais no GitHub. |
 | **TencentDB Agent Memory** | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | Hub corporativo de memória para agentes de IA com gestão unificada de histórico de chat, skills e grafo de código. |
@@ -148,6 +157,8 @@
 | **Building LLM Apps From Scratch** | [hamzafarooq/building-llm-applications-from-scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch) | Código e slides práticos para implementar arquiteturas e aplicações completas baseadas em LLMs do zero. |
 | **Colibri** | [JustVugg/colibri](https://github.com/JustVugg/colibri) | Engine em C puro para rodar modelos gigantes (744B MoE) em laptops via streaming de disco. |
 | **DSPy** | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | Framework revolucionário para programar e otimizar pipelines de LLMs e agentes de forma determinística em vez de apenas criar prompts manuais. |
+| **Experiential** | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | Gateway open-source de margem zero para BYOK, modelos locais e inferência auto-hospedada. |
+| **Future AGI** | [future-agi/future-agi](https://github.com/future-agi/future-agi) | Plataforma ponta a ponta para avaliação, observabilidade e melhoria contínua de pipelines LLM. |
 | **Janas** | [prabanta-dev/janas](https://github.com/prabanta-dev/janas) | Motor de inferência de LLMs ultrarrápido em C puro desenvolvido para executar modelos maiores que a memória RAM (como Qwen 80B em 32GB) com até 13x a velocidade do llama.cpp. |
 | **Landscape of Thoughts** | [tmlr-group/landscape-of-thoughts](https://github.com/tmlr-group/landscape-of-thoughts) | Ferramenta de visualização e análise espacial do processo de raciocínio e cadeias de pensamento de LLMs. |
 | **LangExtract** | [google/langextract](https://github.com/google/langextract) | Biblioteca do Google para extração de dados estruturados com LLMs, rastreabilidade precisa e visualização interativa. |
@@ -181,6 +192,7 @@
 |---|---|---|
 | **4D-Humans** | [shubham-goel/4D-Humans](https://github.com/shubham-goel/4D-Humans) | Reconstrução de poses e silhuetas humanas 3D no tempo a partir de vídeos comuns. |
 | **blender** | [blender/blender](https://github.com/blender/blender) | A mais consagrada suíte open-source para modelagem 3D, animação, simulação e renderização. |
+| **ClearCam** | [roryclear/clearcam](https://github.com/roryclear/clearcam) | Adiciona detecção de objetos, rastreamento, notificações mobile e busca com IA a qualquer câmera de segurança. |
 | **Detectron2** | [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) | Plataforma de visão computacional da Meta para detecção de objetos de ponta, segmentação de instâncias e segmentação panóptica. |
 | **Diffusers** | [huggingface/diffusers](https://github.com/huggingface/diffusers) | A biblioteca padrão da indústria para modelos de difusão de imagem, áudio e vídeo da Hugging Face. |
 | **EasyMocap** | [zju3dv/EasyMocap](https://github.com/zju3dv/EasyMocap) | Sistema avançado de captura de movimento (MoCap) e reconstrução 3D de poses humanas sem marcadores. |
@@ -329,12 +341,15 @@
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
+| **AI Security Resources** | [Arcanum-Sec/ai-sec-resources](https://github.com/Arcanum-Sec/ai-sec-resources) | Hub de recursos, defesas e pesquisas contra vulnerabilidades e jailbreaks em sistemas de IA e LLMs. |
 | **Aircrack-ng** | [aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | WiFi security auditing tools suite |
+| **Airgorah** | [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) | Software moderno e gráfico para auditoria de segurança, captura de tráfego e testes de intrusão em redes Wi-Fi. |
 | **AiSOC** | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Centro de Operações de Segurança (SOC) autônomo com IA para triagem de alertas e resposta a incidentes. |
 | **angr** | [angr/angr](https://github.com/angr/angr) | A powerful and user-friendly binary analysis platform! |
 | **Anthropic Cybersecurity Skills** | [liptonj-eng/anthropic-cybersecurity-skills](https://github.com/liptonj-eng/anthropic-cybersecurity-skills) | Mais de 730 skills estruturadas de cibersegurança e pentest mapeadas pelo MITRE ATT&CK para agentes autônomos. |
 | **APTSimulator** | [NextronSystems/APTSimulator](https://github.com/NextronSystems/APTSimulator) | Conjunto de ferramentas para simulação de ataques APT e validação de defesas de endpoints. |
 | **Atomic Red Team** | [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) | Biblioteca de testes automatizados e simulações de adversários de alta precisão mapeada diretamente na matriz MITRE ATT&CK para validação de segurança. |
+| **Awesome CloudSec Labs** | [iknowjason/Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) | Coletânea de laboratórios práticos e gratuitos de segurança em nuvem (AWS, GCP, Azure, CTFs). |
 | **Awesome Hacking** | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Coleção curada com os melhores repositórios, ferramentas e tutoriais de segurança ofensiva e defensiva. |
 | **Awesome Hacking** | [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) | Coleção consolidada de ferramentas, frameworks e utilitários open-source para segurança defensiva e ofensiva. |
 | **Awesome Incident Response** | [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) | A curated list of tools for incident response |
@@ -346,6 +361,7 @@
 | **caldera** | [apache/caldera](https://github.com/apache/caldera) | Plataforma open-source da Apache/MITRE para emulação de adversários e testes de intrusão automatizados. |
 | **Codex Security** | [openai/codex-security](https://github.com/openai/codex-security) | Framework e recomendações de segurança da OpenAI para execução de coding agents em ambientes de produção. |
 | **CyberChef** | [gchq/CyberChef](https://github.com/gchq/CyberChef) | Suíte web multiuso do GCHQ britânico para criptografia, encoding, compressão, desofuscação e análise profunda de dados e payloads cibernéticos. |
+| **Cybersecurity Projects** | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | Mais de 70 projetos práticos de cibersegurança documentados, do nível iniciante ao avançado. |
 | **Domain Digger** | [wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger) | Toolkit de inteligência de fontes abertas (OSINT) e análise abrangente de domínios, DNS, subdomínios, registros e pegada digital. |
 | **ESP32-BlueJammer** | [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) | Utilitário para testes de intrusão e estresse de rádio frequência 2.4GHz (Bluetooth/BLE/WiFi) utilizando ESP32 e módulos nRF24. |
 | **evil-winrm** | [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) | Shell WinRM definitiva para administração remota, pós-exploração e testes de intrusão em sistemas Windows. |
@@ -357,8 +373,11 @@
 | **Frida** | [frida/frida](https://github.com/frida/frida) | Main repo for hosting release binaries |
 | **Ghidra** | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 | **GHunt** | [mxrch/GHunt](https://github.com/mxrch/GHunt) | 🕵️‍♂️ Offensive Google framework. |
+| **GitHub Security Lab Skills** | [GitHubSecurityLab/skills](https://github.com/GitHubSecurityLab/skills) | Skills oficiais do GitHub Security Lab para pesquisa de segurança e descoberta automatizada de vulnerabilidades. |
 | **Gobuster** | [OJ/gobuster](https://github.com/OJ/gobuster) | Directory/File, DNS and VHost busting tool written in Go |
+| **h4cker** | [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) | Repositório massivo de Omar Santos com milhares de referências para ethical hacking, pentest, CTF e defesa. |
 | **Hashcat** | [hashcat/hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility |
+| **Hayabusa Rules** | [Yamato-Security/hayabusa-rules](https://github.com/Yamato-Security/hayabusa-rules) | Regras Sigma com curadoria para análise forense ágil e threat hunting em logs de eventos do Windows. |
 | **Impacket** | [fortra/impacket](https://github.com/fortra/impacket) | Impacket is a collection of Python classes for working with network protocols. |
 | **Interactsh** | [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) | An OOB interaction gathering server and client library |
 | **Kali NetHunter** | [offensive-security/kali-nethunter](https://github.com/offensive-security/kali-nethunter) | Sistema operacional Kali Linux adaptado para smartphones Android (ver também [GitLab oficial](https://gitlab.com/kalilinux/nethunter/)). |
@@ -392,6 +411,7 @@
 | **SharpHound** | [SpecterOps/SharpHound](https://github.com/SpecterOps/SharpHound) | Coletor oficial em C# de informações e relacionamentos de segurança do Active Directory para o BloodHound. |
 | **Sherlock** | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Localiza perfis e contas de um mesmo nome de usuário em centenas de redes sociais simultaneamente. |
 | **Sigma** | [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) | Padrão genérico e aberto de assinaturas de detecção de ameaças aplicável a múltiplos mecanismos SIEM (Splunk, Elastic, QRadar, Wazuh). |
+| **Signature Base** | [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) | Base de dados aberta de assinaturas YARA e indicadores de comprometimento (IOCs) mantida por Florian Roth. |
 | **Social Analyzer** | [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
 | **SpiderFoot** | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
 | **sqlmap** | [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) | Automatic SQL injection and database takeover tool |
@@ -423,6 +443,7 @@
 | **build-your-own-x** | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Aprenda programação e arquitetura recriando tecnologias famosas do zero (Git, Docker, Redis, etc). |
 | **burrow** | [caezium/burrow](https://github.com/caezium/burrow) | Utilitário de limpeza profunda de caches, análise de disco e monitoramento de sistema para macOS. |
 | **ccusage** | [ccusage/ccusage](https://github.com/ccusage/ccusage) | Ferramenta CLI interativa para monitorar em tempo real o consumo de tokens, custos acumulados e limites de uso do Claude Code e assistentes de IA. |
+| **CherryUSB** | [cherry-embedded/CherryUSB](https://github.com/cherry-embedded/CherryUSB) | Stack USB Host/Device portátil, de alta performance e tamanho reduzido para microcontroladores. |
 | **Code-Server** | [coder/code-server](https://github.com/coder/code-server) | Execute o VS Code completo diretamente no navegador em qualquer servidor remoto e acesse seu ambiente de desenvolvimento de qualquer lugar. |
 | **Cubian** | [cubieplayer/Cubian](https://github.com/cubieplayer/Cubian) | Distribuição Linux otimizada para placas de computação embarcada Cubieboard com suporte a módulos de hardware. |
 | **Daytona** | [daytonaio/daytona](https://github.com/daytonaio/daytona) | Gerenciador de ambientes de desenvolvimento padronizados e workspaces seguros (alternativa ao GitHub Codespaces). |
@@ -435,13 +456,16 @@
 | **freeCodeCamp** | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | A maior plataforma open-source de aprendizado gratuito de desenvolvimento web, engenharia de software e ciência de dados. |
 | **GH-Dash** | [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | Painel interativo dentro do terminal para gerenciar Pull Requests e Issues do GitHub sem usar o browser. |
 | **GitIngest** | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | Substitui "hub" por "ingest" em qualquer URL do GitHub para gerar um extrato de código formatado e otimizado para contexto em prompts de LLMs. |
+| **Gulf Of Mexico** | [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) | Linguagem de programação experimental reativa e visual para criação exploratória. |
 | **hackathon-starter** | [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) | Boilerplate completo para desenvolvimento ágil de aplicações Node.js com autenticação, APIs e MVC pré-configurados. |
+| **Kiri** | [libracoder/kiri](https://github.com/libracoder/kiri) | Runtime e gerenciador de containers em Rust até 80x mais rápido que Docker Desktop, compatível com CLI e Compose. |
 | **Markdoc** | [markdoc/markdoc](https://github.com/markdoc/markdoc) | Poderoso framework de autoria baseado em Markdown criado pela Stripe para criação de documentações técnicas customizadas e extensíveis. |
 | **mirrord** | [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) | Conecta processos locais ao seu cluster cloud para rodar e debugar código local sob condições reais de nuvem. |
 | **next-forge** | [vercel/next-forge](https://github.com/vercel/next-forge) | Template Turborepo de produção com Next.js, autenticação, pagamentos e observabilidade pré-configurados. |
 | **No AI Slop** | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | Remove mais de 20 padrões de escrita robótica de IA, deixando o texto natural e humano. |
 | **Open Code Review** | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | CLI de code review inteligente da Alibaba que combina regras determinísticas rápidas com LLMs. |
 | **Pake** | [tw93/Pake](https://github.com/tw93/Pake) | Utilitário em Rust/Tauri que transforma qualquer página web ou ferramenta em um aplicativo desktop nativo e ultraleve (<10 MB), substituindo wrappers Electron pesados. |
+| **PDF Craft** | [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) | Utilitário de alta performance para converter e manipular PDFs para múltiplos formatos estruturados. |
 | **pdfme** | [pdfme/pdfme](https://github.com/pdfme/pdfme) | Gerador de PDFs e editor visual em TypeScript, leve e personalizável para web e Node. |
 | **project-based-learning** | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curadoria de tutoriais práticos de programação focados em construir aplicações reais passo a passo. |
 | **Public APIs** | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Catálogo com milhares de APIs públicas gratuitas para desenvolvedores integrarem em projetos. |
@@ -455,6 +479,7 @@
 | **Vizro** | [mckinsey/vizro](https://github.com/mckinsey/vizro) | Framework modular da McKinsey para criação rápida de dashboards de dados interativos com Python. |
 | **windows95** | [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) | Emulação completa do sistema operacional Windows 95 em Electron empacotada como app para macOS, Linux e Windows. |
 | **witr** | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | CLI e TUI interativa ("Why is this running?") para rastrear qualquer processo, porta aberta, container ou arquivo até o comando raiz que o originou. |
+| **Zed** | [zed-industries/zed](https://github.com/zed-industries/zed) | Editor de código multiplayer ultra-rápido construído em Rust com arquitetura focada em performance. |
 
 ---
 
@@ -467,6 +492,7 @@
 |---|---|---|
 | **Activepieces** | [activepieces/activepieces](https://github.com/activepieces/activepieces) | Plataforma open-source de automação de fluxos de IA com suporte nativo a centenas de servidores MCP. |
 | **AIDLC Workflows** | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | Workflows da AWS Labs para orquestração e padronização do ciclo de vida de desenvolvimento com IA (AI-DLC). |
+| **Arr-scripts** | [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) | Scripts de automação e integração para containers e gerenciadores de mídia da família *arr. |
 | **Awesome Harness Engineering** | [yenanjing/awesome-harness-engineering](https://github.com/yenanjing/awesome-harness-engineering) | Guia com mais de 80 repositórios sobre engenharia de testes, harnesses de avaliação de agentes e frameworks de CI/CD. |
 | **Coolify** | [coollabsio/coolify](https://github.com/coollabsio/coolify) | Plataforma self-hosted tudo-em-um para gerenciar deploys de apps, bancos de dados e serviços (alternativa ao Heroku/Vercel). |
 | **core** | [openremote/core](https://github.com/openremote/core) | Plataforma 100% open-source de IoT com gestão de dispositivos, automação por regras e dashboards. |
@@ -476,8 +502,10 @@
 | **Fleetbase** | [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) | Sistema operacional modular open-source para gestão de frotas, entregas e supply chain. |
 | **Floci** | [floci-io/floci](https://github.com/floci-io/floci) | Emulador local de serviços AWS leve, rápido e gratuito, servindo como alternativa open-source ao LocalStack. |
 | **FreeDomain** | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | Plataforma e recursos práticos para registro gratuito de domínios com suporte a nameservers customizados e guias de DNS. |
+| **Home Assistant MCP** | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Servidor MCP para configurar e automatizar o Home Assistant via Claude, ChatGPT e assistentes de IA. |
 | **Homelab GitOps IaC** | [Mafyuh/iac](https://github.com/Mafyuh/iac) | Exemplo completo de Infrastructure as Code (IaC) orientada a GitOps para infraestrutura e servidores locais. |
 | **leapp** | [Noovolari/leapp](https://github.com/Noovolari/leapp) | Gerenciador desktop seguro para credenciais e acessos temporários em AWS, Azure e GCP. |
+| **LocalThings** | [mbillow/localthings](https://github.com/mbillow/localthings) | Controle local de eletrodomésticos Samsung via Home Assistant sem depender da nuvem SmartThings. |
 | **Nango** | [NangoHQ/nango](https://github.com/NangoHQ/nango) | Plataforma de infraestrutura de integrações e autenticação OAuth unificada para conectar agentes de IA e aplicações a mais de 1.000 APIs externas. |
 | **NetBox** | [netbox-community/netbox](https://github.com/netbox-community/netbox) | A principal ferramenta de documentação e fonte de verdade (DCIM/IPAM) para redes de computadores. |
 | **ppt-master** | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | AI turns documents or topics into real, native PowerPoint decks. |
@@ -508,9 +536,11 @@
 | **EdgeEver** | [edgeever/edgeever](https://github.com/edgeever/edgeever) | `Evernote` | Aplicativo de anotações em três colunas que roda na infraestrutura gratuita da Cloudflare. |
 | **FileCodeBox** | [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) | `SaaS Proprietário` | Compartilhamento anônimo e temporário de arquivos e textos via código ou QR code estilo locker. |
 | **Ghost** | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | `SaaS Proprietário` | Plataforma open-source profissional de publicação independente, newsletters e blogs, alternativa ao Substack e Medium. |
+| **Haven** | [ancsemi/Haven](https://github.com/ancsemi/Haven) | `SaaS Proprietário` | Chat privado e auto-hospedado sem nuvem, sem telemetria e sem Big Tech (alternativa ao Discord). |
 | **Home Assistant** | [home-assistant/core](https://github.com/home-assistant/core) | `` | O principal ecossistema de automação residencial de código aberto focado em controle local e privacidade. |
 | **Immich** | [immich-app/immich](https://github.com/immich-app/immich) | `Google Fotos` | Backup de fotos com reconhecimento facial, mapas e pesquisa sem custos de nuvem. |
 | **invoiceninja** | [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) | `SaaS Proprietário` | Plataforma completa de faturamento, controle de horas e cobrança de clientes, alternativa ao FreshBooks e QuickBooks. |
+| **iSponsorBlockTV** | [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) | `SaaS Proprietário` | Cliente SponsorBlock para pular anúncios e segmentos patrocinados do YouTube diretamente na Smart TV e Apple TV. |
 | **Jellyfin** | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | `Plex, Emby` | Servidor de streaming de mídia self-hosted 100% gratuito e open-source para organizar e transmitir filmes, séries e músicas para qualquer dispositivo. |
 | **Joplin** | [laurent22/joplin](https://github.com/laurent22/joplin) | `Evernote, Notion, OneNote` | Aplicativo de notas e gerenciamento de tarefas focado em privacidade, com suporte a Markdown, multimídia, sincronização em nuvem própria e criptografia E2EE. |
 | **KaraKeep** | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | `Raindrop, Pocket, Notion Clipper` | Aplicativo self-hosted para salvar tudo (links, notas, imagens) com auto-tagging por IA e busca textual profunda. |
@@ -528,6 +558,7 @@
 | **OpenWA** | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | `Twilio / Z-API` | Gateway de API do WhatsApp gratuito, auto-hospedado e de código aberto para envio e recebimento de mensagens. |
 | **Paperless-ngx** | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | `` | Indexador e gerenciador de documentos físicos digitalizados com OCR automático e busca instantânea. |
 | **Pear Desktop** | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | `YouTube Music Desktop, Spotify` | Player desktop moderno para YouTube Music com bloqueador nativo de anúncios, suporte a temas, letras sincronizadas e plugins. |
+| **Pi.Alert** | [leiweibau/Pi.Alert](https://github.com/leiweibau/Pi.Alert) | `SaaS Proprietário` | Monitor de rede LAN/WiFi que alerta em tempo real sobre a conexão de dispositivos não autorizados. |
 | **plane** | [makeplane/plane](https://github.com/makeplane/plane) | `SaaS Proprietário` | Alternativa open-source e self-hosted ao Jira, Linear e Asana para gestão de projetos e sprints. |
 | **Plausible Analytics** | [plausible/analytics](https://github.com/plausible/analytics) | `` | Analytics de sites moderno, ultraleve (<1 KB), sem cookies e em total conformidade com a LGPD/GDPR. |
 | **Reactive Resume** | [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) | `Novoresume, Canva Resumes` | Construtor completo de currículos profissionais, gratuito, focado em privacidade, altamente customizável e exportável em PDF. |
@@ -546,6 +577,7 @@
 | **wiki** | [requarks/wiki](https://github.com/requarks/wiki) | `SaaS Proprietário` | Wiki moderna, rápida e extensível em Node.js com suporte a múltiplos editores, alternativa ao Confluence e Notion. |
 | **windows** | [dockur/windows](https://github.com/dockur/windows) | `SaaS Proprietário` | Execute o Windows completo dentro de um container Docker isolado com suporte a KVM e RDP. |
 | **WordCraft** | [storytold/wordcraft](https://github.com/storytold/wordcraft) | `Microsoft Word, Google Docs` | Reimplementação open-source e de alta fidelidade do Microsoft Word em Rust puro, oferecendo processamento de texto ultrarrápido, offline e compatibilidade nativa com documentos .docx. |
+| **ZapFast** | [crmne/zapfast](https://github.com/crmne/zapfast) | `SaaS Proprietário` | Cliente desktop alternativo e ultra-rápido para WhatsApp construído nativamente em Rust e egui. |
 
 ---
 
@@ -557,6 +589,7 @@
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
 | **AI Job Search** | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | Framework autônomo baseado no Claude Code para busca de empregos e automação de candidaturas: avalia vagas, personaliza currículos, redige cartas e prepara entrevistas. |
+| **AI Marketing Skills** | [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) | Conjunto de skills de marketing com IA para experimentos de crescimento, pipelines de vendas e copy. |
 | **AutoHedge** | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | Framework de inteligência de enxame multi-agente para análise automatizada de mercado financeiro e trading. |
 | **Awesome Quant** | [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | Curadoria abrangente de bibliotecas, pacotes e recursos em Python, R e C++ para Finanças Quantitativas e trading algorítmico. |
 | **BambooAI** | [pgalko/BambooAI](https://github.com/pgalko/BambooAI) | Workbench de análise de dados com IA transparente, mostrando passo a passo e reproduzibilidade. |
