@@ -2,12 +2,12 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **440 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **446 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/rogerioc/awesome-ai-arsenal?style=flat&logo=github&color=gold)](https://github.com/rogerioc/awesome-ai-arsenal/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/rogerioc/awesome-ai-arsenal?style=flat&logo=git&color=brightgreen)](https://github.com/rogerioc/awesome-ai-arsenal/commits/main)
-[![Arsenal](https://img.shields.io/badge/Arsenal-440%20Projetos-8A2BE2)](#-categorias)
+[![Arsenal](https://img.shields.io/badge/Arsenal-446%20Projetos-8A2BE2)](#-categorias)
 [![Status](https://img.shields.io/badge/Curadoria-100%25%20Auditada-blue?logo=checkmarx)](#-guia-rápido-por-tarefa-quick-lookup-for-agents--devs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -88,6 +88,7 @@
 | **Caveman** | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Compressão e redução viral de tokens de contexto para coding agents (why use many token when few token do trick). |
 | **Cindy** | [makecindy/cindy](https://github.com/makecindy/cindy) | Agente autônomo open-source pronto para uso que unifica múltiplos harnesses (Claude Code, Codex) e modelos para operar seu computador e apps locais. |
 | **Claude Code Game Studios** | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Transforma o Claude Code em um estúdio completo de desenvolvimento de jogos com 49 agentes de IA e 72 workflow skills. |
+| **Claude Code Router** | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | Painel de controle local para agentes de IA: roteamento inteligente entre modelos, fusão de capacidades e orquestração de ferramentas. |
 | **CLI-Anything** | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Transforma qualquer software em CLI agent-native para permitir que agentes de IA controlem aplicações legadas e ferramentas complexas. |
 | **CodeGraph** | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Knowledge graph pré-indexado de código com sincronização automática em mudanças de arquivo para Claude Code, Codex e Cursor. |
 | **Context Mode** | [mksglu/context-mode](https://github.com/mksglu/context-mode) | Otimizador de janela de contexto para agentes via MCP e hooks, reduzindo drasticamente o consumo de tokens de ferramentas. |
@@ -138,6 +139,7 @@
 | **Ruflo** | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | Harness corporativo para enxames multi-agente com memória adaptativa contínua, inteligência auto-evolutiva e integração nativa com Claude Code e Codex. |
 | **Scientific Agent Skills** | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Biblioteca líder com mais de 170 skills e 100+ bases de dados científicas (biologia, química, medicina) para transformar agentes em pesquisadores autônomos. |
 | **Skills for Engineers** | [mattpocock/skills](https://github.com/mattpocock/skills) | Conjunto de skills e workflows diretos para coding agents mantidos no diretório .agents. |
+| **Skills Janitor** | [khendzel/skills-janitor](https://github.com/khendzel/skills-janitor) | Utilitário estilo Tinder para Claude Code e Codex: detecta skills e MCP servers não utilizados que poluem o contexto e remove com segurança. |
 | **Superpowers** | [obra/superpowers](https://github.com/obra/superpowers) | Framework de fluxos disciplinados para coding agents (planejamento, TDD e revisão sistemática). |
 | **SWE-agent** | [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) | Agente autônomo da Princeton que resolve bugs e issues reais no GitHub. |
 | **TencentDB Agent Memory** | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | Hub corporativo de memória para agentes de IA com gestão unificada de histórico de chat, skills e grafo de código. |
@@ -394,12 +396,14 @@
 | **Nmap** | [nmap/nmap](https://github.com/nmap/nmap) | O utilitário padrão para exploração de rede, descoberta de portas abertas e auditoria de serviços. |
 | **Nuclei** | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. |
 | **OSINT Framework** | [lockfale/osint-framework](https://github.com/lockfale/osint-framework) | Mapa interativo e estruturado de fontes de dados e ferramentas de pesquisa de inteligência online. |
+| **OsintHunter** | [letox4/OsintHunter](https://github.com/letox4/OsintHunter) | Plataforma tudo-em-um para investigação OSINT com grafos interativos, timelines, pontuação de confiança e busca em mais de 400 sites sem exigir API keys. |
 | **OWASP Cheat Sheet Series** | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. |
 | **OWASP ZAP** | [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) | Scanner gratuito e de código aberto para encontrar falhas de segurança em aplicações web. |
 | **Pangolin** | [fosrl/pangolin](https://github.com/fosrl/pangolin) | Plataforma unificada de rede e segurança zero-trust open-source (alternativa a Zscaler/Cloudflare One). |
 | **ParamSpider** | [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  |
 | **PayloadsAllTheThings** | [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 | **PhoneInfoga** | [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Ferramenta avançada para escaneamento e rastreamento de informações sobre números de telefone. |
+| **Promptfoo** | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Plataforma para red teaming, testes de segurança e pentest em LLMs, prompts, agentes e RAGs, usada pela OpenAI e Anthropic. |
 | **Pwdb-Public** | [FlameOfIgnis/Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) | Dataset e utilitários para análise forense e auditoria de credenciais vazadas em pentest defensivo. |
 | **Quark Engine** | [ev-flow/quark-engine](https://github.com/ev-flow/quark-engine) | Quark Engine |
 | **Rea** | [morluto/rea](https://github.com/morluto/rea) | Engenharia reversa automatizada com agentes de IA, capaz de dissecar desde comportamento de aplicações até descompilação de binários nativos. |
@@ -412,6 +416,7 @@
 | **Sherlock** | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Localiza perfis e contas de um mesmo nome de usuário em centenas de redes sociais simultaneamente. |
 | **Sigma** | [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) | Padrão genérico e aberto de assinaturas de detecção de ameaças aplicável a múltiplos mecanismos SIEM (Splunk, Elastic, QRadar, Wazuh). |
 | **Signature Base** | [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) | Base de dados aberta de assinaturas YARA e indicadores de comprometimento (IOCs) mantida por Florian Roth. |
+| **SkillSpector** | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Scanner de segurança da NVIDIA para skills e MCP servers de agentes de IA: detecta prompt injection, exfiltração de dados e vulnerabilidades antes da instalação. |
 | **Social Analyzer** | [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
 | **SpiderFoot** | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
 | **sqlmap** | [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) | Automatic SQL injection and database takeover tool |
@@ -458,6 +463,7 @@
 | **GitIngest** | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | Substitui "hub" por "ingest" em qualquer URL do GitHub para gerar um extrato de código formatado e otimizado para contexto em prompts de LLMs. |
 | **Gulf Of Mexico** | [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) | Linguagem de programação experimental reativa e visual para criação exploratória. |
 | **hackathon-starter** | [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) | Boilerplate completo para desenvolvimento ágil de aplicações Node.js com autenticação, APIs e MVC pré-configurados. |
+| **Keploy** | [keploy/keploy](https://github.com/keploy/keploy) | Plataforma open-source para criação de sandboxes isoladas e seguras para testes automatizados de API, integração e E2E. |
 | **Kiri** | [libracoder/kiri](https://github.com/libracoder/kiri) | Runtime e gerenciador de containers em Rust até 80x mais rápido que Docker Desktop, compatível com CLI e Compose. |
 | **Markdoc** | [markdoc/markdoc](https://github.com/markdoc/markdoc) | Poderoso framework de autoria baseado em Markdown criado pela Stripe para criação de documentações técnicas customizadas e extensíveis. |
 | **mirrord** | [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) | Conecta processos locais ao seu cluster cloud para rodar e debugar código local sob condições reais de nuvem. |
