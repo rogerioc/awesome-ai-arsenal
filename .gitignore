@@ -2,6 +2,7 @@
 scripts/
 data/
 scratch/
+.secrets/
 .agents/
 
 # OS and Python artifacts
