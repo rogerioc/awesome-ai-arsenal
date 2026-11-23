@@ -2,12 +2,12 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **471 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **497 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/rogerioc/awesome-ai-arsenal?style=flat&logo=github&color=gold)](https://github.com/rogerioc/awesome-ai-arsenal/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/rogerioc/awesome-ai-arsenal?style=flat&logo=git&color=brightgreen)](https://github.com/rogerioc/awesome-ai-arsenal/commits/main)
-[![Arsenal](https://img.shields.io/badge/Arsenal-471%20Projetos-8A2BE2)](#-categorias)
+[![Arsenal](https://img.shields.io/badge/Arsenal-497%20Projetos-8A2BE2)](#-categorias)
 [![Status](https://img.shields.io/badge/Curadoria-100%25%20Auditada-blue?logo=checkmarx)](#-guia-rápido-por-tarefa-quick-lookup-for-agents--devs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -85,6 +85,7 @@
 | **Book-to-Skill** | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Converte livros e manuais extensos em skills estruturadas e acionáveis para agentes de IA. |
 | **botpress** | [botpress/botpress](https://github.com/botpress/botpress) | Plataforma open-source para construção e orquestração de chatbots inteligentes e agentes conversacionais autônomos. |
 | **burn-baby-burn** | [dtnewman/burn-baby-burn](https://github.com/dtnewman/burn-baby-burn) | A bash one-liner that burns Claude Code or Codex tokens on purpose. |
+| **cache-maxxing** | [5m0k3/cache-maxxing](https://github.com/5m0k3/cache-maxxing) | A bar above your chat to see when Claude's prompt cache expires, and what your next message will cost, before you send it. |
 | **Caveman** | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Compressão e redução viral de tokens de contexto para coding agents (why use many token when few token do trick). |
 | **Cindy** | [makecindy/cindy](https://github.com/makecindy/cindy) | Agente autônomo open-source pronto para uso que unifica múltiplos harnesses (Claude Code, Codex) e modelos para operar seu computador e apps locais. |
 | **Claude Code Game Studios** | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Transforma o Claude Code em um estúdio completo de desenvolvimento de jogos com 49 agentes de IA e 72 workflow skills. |
@@ -108,9 +109,11 @@
 | **Goose** | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Agente de IA autônomo on-machine da Block para automação de tarefas complexas e execução de código. |
 | **Graphify** | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Converte qualquer codebase, documentação e schemas em um grafo de conhecimento consultável para coding agents. |
 | **hallmark** | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| **humanizer** | [blader/humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from text |
 | **Improve** | [shadcn/improve](https://github.com/shadcn/improve) | Usa modelos de alto nível para auditar código e traçar planos de execução estruturados para modelos mais baratos. |
 | **JCode** | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Ambiente de execução (harness) de alta performance e baixo consumo de RAM para agentes de codificação autônomos. |
 | **Langflow** | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Interface visual baseada em nós para prototipagem e orquestração de fluxos complexos de IA e RAG. |
+| **last30days-skill** | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 | **lemo-opuscar** | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | Framework de agentes autônomos para veículos autônomos e tarefas robóticas em tempo real. |
 | **LifeOS** | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | Harness de IA com abordagem hill-climbing para conduzir objetivos e otimizar rotinas de trabalho e vida pessoal. |
 | **Local Deep Research** | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Agente de pesquisa profunda (Deep Research) operando 100% local com modelos abertos (Qwen, Llama) sem enviar dados para a nuvem. |
@@ -136,6 +139,7 @@
 | **Parallel Code** | [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) | Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree |
 | **Ponytail** | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Harness e prompt de sistema para agentes de codificação pensarem com minimalismo e evitar complexidade excessiva. |
 | **Pullfrog** | [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog) | Bot em GitHub Actions que analisa PRs, responde revisões e corrige falhas de CI. |
+| **reference-to-game** | [gokayfem/reference-to-game](https://github.com/gokayfem/reference-to-game) | Input-agnostic reference-to-game skill: preserve style and colors while building playable games. Includes tools, fal asset workflows and four Three.js examples. |
 | **Repowise** | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | Inteligência e saúde de base de código via MCP: detecção de código morto, métricas git e documentação automática. |
 | **Ruflo** | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | Harness corporativo para enxames multi-agente com memória adaptativa contínua, inteligência auto-evolutiva e integração nativa com Claude Code e Codex. |
 | **Scientific Agent Skills** | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Biblioteca líder com mais de 170 skills e 100+ bases de dados científicas (biologia, química, medicina) para transformar agentes em pesquisadores autônomos. |
@@ -144,6 +148,8 @@
 | **Superpowers** | [obra/superpowers](https://github.com/obra/superpowers) | Framework de fluxos disciplinados para coding agents (planejamento, TDD e revisão sistemática). |
 | **SWE-agent** | [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) | Agente autônomo da Princeton que resolve bugs e issues reais no GitHub. |
 | **TencentDB Agent Memory** | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | Hub corporativo de memória para agentes de IA com gestão unificada de histórico de chat, skills e grafo de código. |
+| **ui-ux-pro-max-skill** | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. |
+| **unslop** | [heydamir/unslop](https://github.com/heydamir/unslop) | A Claude skill that turns vibecoded, AI-looking UI into a designed interface |
 | **Vindex** | [vaibhav-space/vindex](https://github.com/vaibhav-space/vindex) | Open-source video compiler that turns videos into structured knowledge for AI agents. |
 
 ---
@@ -166,6 +172,7 @@
 | **Landscape of Thoughts** | [tmlr-group/landscape-of-thoughts](https://github.com/tmlr-group/landscape-of-thoughts) | Ferramenta de visualização e análise espacial do processo de raciocínio e cadeias de pensamento de LLMs. |
 | **LangExtract** | [google/langextract](https://github.com/google/langextract) | Biblioteca do Google para extração de dados estruturados com LLMs, rastreabilidade precisa e visualização interativa. |
 | **LangWatch** | [langwatch/langwatch](https://github.com/langwatch/langwatch) | Plataforma open-source para observabilidade, testes automatizados e monitoramento de LLMs. |
+| **LitServe** | [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) | A minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling. |
 | **magnitude** | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | Motor de inferência open-source com autotuning de kernels no seu hardware, até 2x mais rápido que Ollama. |
 | **Manacá 1B Base** | [Instituto-IA-LNCC/manaca-1b-base](https://github.com/Instituto-IA-LNCC/manaca-1b-base) | Modelo de linguagem de 1 bilhão de parâmetros treinado pelo LNCC com foco em língua portuguesa. |
 | **ML Road** | [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) | Roadmap estruturado de estudos e repositório de recursos essenciais para formação em Machine Learning e IA. |
@@ -178,6 +185,7 @@
 | **Overmind** | [overmind-core/overmind](https://github.com/overmind-core/overmind) | Stack que transforma dados de agentes em modelos especializados para tarefas específicas via fine-tuning. |
 | **RAGFlow** | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Motor de RAG open-source de nível corporativo com compreensão profunda de documentos complexos e interface de chat. |
 | **TensorZero** | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | Gateway e infraestrutura open-source para otimização, feedback e orquestração de LLMs em produção. |
+| **trnrt** | [RunanywhereAI/trnrt](https://github.com/RunanywhereAI/trnrt) | The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere. |
 | **TurboVec** | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Índice de busca vetorial ultrarrápido baseado em TurboQuant, construído em Rust com bindings para Python. |
 | **Unsloth** | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Biblioteca de fine-tuning ultrarrápida que reduz uso de VRAM em 80% e acelera treinamento em 2x a 5x. |
 | **WeKnora** | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Plataforma de conhecimento com LLM: transforma documentos brutos em RAG consultável e agente autônomo. |
@@ -280,6 +288,7 @@
 | **OpenCreator** | [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) | Ferramenta open-source completa de tradução, legendagem e dublagem de vídeos para mais de 120 idiomas com sincronia labial. |
 | **OpenCut** | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | O substituto open-source e gratuito do CapCut para edição de vídeo no navegador, desktop e mobile. |
 | **OpenMontage** | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Primeiro sistema agêntico open-source de produção e edição automatizada de vídeo. |
+| **openmotion** | [nexu-io/openmotion](https://github.com/nexu-io/openmotion) | The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy. |
 | **opentoonz** | [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) | Software profissional de animação 2D de código aberto usado pelo Studio Ghibli para longas metragens e curtas. |
 | **openwhispr** | [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | App de ditado por voz para texto ultra-preciso com modelos locais (Whisper/Parakeet) e remotos. |
 | **Pencil2D** | [pencil2d/pencil](https://github.com/pencil2d/pencil) | Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform. |
@@ -306,10 +315,12 @@
 
 | Projeto | Repositório Oficial | Descrição |
 |---|---|---|
+| **animation-handbook** | [matinmonshizadeh/animation-handbook](https://github.com/matinmonshizadeh/animation-handbook) | 176 web animation techniques, each a live demo with plain settings and a ready-made prompt for your AI assistant. No dependencies, no build step. |
 | **Archify** | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Skill de agente para geração de diagramas de arquitetura, fluxo e ciclo de vida em HTML interativo com animações. |
 | **Diagram Design** | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Design editorial e estruturado de 42 tipos de diagramas em HTML + SVG nativo para Claude Code, Codex, Cursor e agentes de IA sem depender de Mermaid. |
 | **DrawDB** | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | Modelador de diagramas Entidade-Relacionamento (ERD) direto no navegador com exportação SQL. |
 | **Excalidraw** | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Quadro branco virtual infinito para diagramação e colaboração visual com estilo desenhado à mão. |
+| **figcraft** | [storytold/figcraft](https://github.com/storytold/figcraft) | FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust |
 | **HTML Anything** | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | Editor agentic de HTML com 75 skills para criar apresentações, relatórios e páginas direto via agentes de IA. |
 | **impeccable** | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Sistema de design e toolkit moderno de componentes e prototipagem UI/UX para aplicações web. |
 | **Klad** | [klad-app/klad](https://github.com/klad-app/klad) | Aplicativo open-source de desenho e diagramação construído para colaboração em tempo real entre humanos e agentes de IA. |
@@ -343,6 +354,8 @@
 | **LibrePods** | [librepods-org/librepods](https://github.com/librepods-org/librepods) | Liberta os AirPods do ecossistema Apple, trazendo controle de áudio espacial, cancelamento de ruído e status de bateria para Linux e Android. |
 | **Objection** | [sensepost/objection](https://github.com/sensepost/objection) | 📱 objection - runtime mobile exploration |
 | **OWASP MSTG** | [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) | Guia oficial da OWASP de testes de segurança, engenharia reversa e pentest em aplicativos móveis. |
+| **phone-harness** | [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) | let your agent control your phone |
+| **phonebox** | [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox) | Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required. |
 | **React Native Reusables** | [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) | Componentes UI acessíveis e universais no padrão shadcn/ui criados nativamente para React Native e Expo. |
 | **React Native Template Obytes** | [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) | Template opinativo e moderno para React Native com Expo, TypeScript, Tailwind e arquitetura escalável. |
 | **scrcpy** | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Espelhamento e controle de alta performance de dispositivos Android via USB/Wi-Fi com baixa latência. |
@@ -361,6 +374,7 @@
 | **Aircrack-ng** | [aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | WiFi security auditing tools suite |
 | **Airgorah** | [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) | Software moderno e gráfico para auditoria de segurança, captura de tráfego e testes de intrusão em redes Wi-Fi. |
 | **AiSOC** | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Centro de Operações de Segurança (SOC) autônomo com IA para triagem de alertas e resposta a incidentes. |
+| **amass** | [owasp-amass/amass](https://github.com/owasp-amass/amass) | In-depth attack surface mapping and asset discovery |
 | **angr** | [angr/angr](https://github.com/angr/angr) | A powerful and user-friendly binary analysis platform! |
 | **Anthropic Cybersecurity Skills** | [liptonj-eng/anthropic-cybersecurity-skills](https://github.com/liptonj-eng/anthropic-cybersecurity-skills) | Mais de 730 skills estruturadas de cibersegurança e pentest mapeadas pelo MITRE ATT&CK para agentes autônomos. |
 | **APTSimulator** | [NextronSystems/APTSimulator](https://github.com/NextronSystems/APTSimulator) | Conjunto de ferramentas para simulação de ataques APT e validação de defesas de endpoints. |
@@ -387,6 +401,7 @@
 | **Findomain** | [Findomain/Findomain](https://github.com/Findomain/Findomain) | The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more. |
 | **Flowsint** | [reconurge/flowsint](https://github.com/reconurge/flowsint) | Plataforma visual baseada em grafos para investigações de inteligência cibernética, análise de vínculos e correlação de entidades em OSINT. |
 | **Frida** | [frida/frida](https://github.com/frida/frida) | Main repo for hosting release binaries |
+| **gau** | [lc/gau](https://github.com/lc/gau) | Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl. |
 | **Ghidra** | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 | **GHunt** | [mxrch/GHunt](https://github.com/mxrch/GHunt) | 🕵️‍♂️ Offensive Google framework. |
 | **GitHub Security Lab Skills** | [GitHubSecurityLab/skills](https://github.com/GitHubSecurityLab/skills) | Skills oficiais do GitHub Security Lab para pesquisa de segurança e descoberta automatizada de vulnerabilidades. |
@@ -416,6 +431,7 @@
 | **Pangolin** | [fosrl/pangolin](https://github.com/fosrl/pangolin) | Plataforma unificada de rede e segurança zero-trust open-source (alternativa a Zscaler/Cloudflare One). |
 | **ParamSpider** | [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) |  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  |
 | **PayloadsAllTheThings** | [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| **PEASS-ng** | [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) | PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) |
 | **PhoneInfoga** | [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Ferramenta avançada para escaneamento e rastreamento de informações sobre números de telefone. |
 | **Promptfoo** | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Plataforma para red teaming, testes de segurança e pentest em LLMs, prompts, agentes e RAGs, usada pela OpenAI e Anthropic. |
 | **Pwdb-Public** | [FlameOfIgnis/Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) | Dataset e utilitários para análise forense e auditoria de credenciais vazadas em pentest defensivo. |
@@ -424,6 +440,7 @@
 | **Reverse Skill** | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Pacote de habilidades de engenharia reversa e pentest com roteamento de IA para Claude Code, Cursor, Cline e Kiro. |
 | **Rizin** | [rizinorg/rizin](https://github.com/rizinorg/rizin) | UNIX-like reverse engineering framework and command-line toolset. |
 | **Rubeus** | [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) | Trying to tame the three-headed dog. |
+| **Seatbelt** | [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt) | Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives. |
 | **SecLists** | [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
 | **Security Audit Skill** | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Agent skill oficial da Cloudflare para coding agents realizarem auditorias automatizadas de segurança de ponta a ponta com achados estruturados e verificáveis. |
 | **SharpHound** | [SpecterOps/SharpHound](https://github.com/SpecterOps/SharpHound) | Coletor oficial em C# de informações e relacionamentos de segurança do Active Directory para o BloodHound. |
@@ -431,12 +448,14 @@
 | **Sigma** | [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) | Padrão genérico e aberto de assinaturas de detecção de ameaças aplicável a múltiplos mecanismos SIEM (Splunk, Elastic, QRadar, Wazuh). |
 | **Signature Base** | [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) | Base de dados aberta de assinaturas YARA e indicadores de comprometimento (IOCs) mantida por Florian Roth. |
 | **SkillSpector** | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Scanner de segurança da NVIDIA para skills e MCP servers de agentes de IA: detecta prompt injection, exfiltração de dados e vulnerabilidades antes da instalação. |
+| **sliver** | [BishopFox/sliver](https://github.com/BishopFox/sliver) | Adversary Emulation Framework |
 | **Social Analyzer** | [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
 | **SpiderFoot** | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
 | **sqlmap** | [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) | Automatic SQL injection and database takeover tool |
 | **ssh-audit** | [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) | SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) |
 | **stratus-red-team** | [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) | Ferramenta de emulação de ataques granular para validar detecções em ambientes de nuvem (AWS/Azure/GCP). |
 | **Strix** | [usestrix/strix](https://github.com/usestrix/strix) | Scanner de vulnerabilidades e segurança ofensiva automatizado para aplicações web e APIs. |
+| **subfinder** | [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) | Fast passive subdomain enumeration tool. |
 | **Tetragon** | [cilium/tetragon](https://github.com/cilium/tetragon) | eBPF-based Security Observability and Runtime Enforcement |
 | **The Book of Secret Knowledge** | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 | **theHarvester** | [laramies/theHarvester](https://github.com/laramies/theHarvester) | E-mails, subdomains and names Harvester - OSINT  |
@@ -494,6 +513,7 @@
 | **realworld** | [realworld-apps/realworld](https://github.com/realworld-apps/realworld) | Exemplos reais e completos de arquitetura de software (Conduit) implementados em dezenas de frameworks frontend e backend. |
 | **Repsy** | [repsyio/repsy](https://github.com/repsyio/repsy) | Repositório e gerenciador centralizado de artefatos de build (Maven, npm, PyPI, etc.). |
 | **RTK (Rust Token Killer)** | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | Proxy CLI em Rust que intercepta e comprime em 60-90% as saídas de comandos do terminal (git, grep, testes, logs) antes de entrarem no contexto de agentes de IA. |
+| **rust-anything** | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java. |
 | **Saasfly** | [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) | Boilerplate empresarial completo em Next.js para desenvolvimento e lançamento acelerado de produtos SaaS. |
 | **Slides Maker** | [addsumtech/slides_maker](https://github.com/addsumtech/slides_maker) | Transforma artigos, código e documentos em apresentações PowerPoint (PPTX) editáveis via Claude Code. |
 | **System Design Primer** | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | O guia de referência definitivo para estudo de arquitetura, escalabilidade e design de sistemas complexos. |
@@ -560,9 +580,11 @@
 | **EdgeEver** | [edgeever/edgeever](https://github.com/edgeever/edgeever) | `Evernote` | Aplicativo de anotações em três colunas que roda na infraestrutura gratuita da Cloudflare. |
 | **FileCodeBox** | [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) | `SaaS Proprietário` | Compartilhamento anônimo e temporário de arquivos e textos via código ou QR code estilo locker. |
 | **Ghost** | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | `SaaS Proprietário` | Plataforma open-source profissional de publicação independente, newsletters e blogs, alternativa ao Substack e Medium. |
+| **graphic-walker** | [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) | `Tableau` | An open source alternative to Tableau. Embeddable visual analytic |
 | **Haven** | [ancsemi/Haven](https://github.com/ancsemi/Haven) | `SaaS Proprietário` | Chat privado e auto-hospedado sem nuvem, sem telemetria e sem Big Tech (alternativa ao Discord). |
 | **Home Assistant** | [home-assistant/core](https://github.com/home-assistant/core) | `` | O principal ecossistema de automação residencial de código aberto focado em controle local e privacidade. |
 | **Immich** | [immich-app/immich](https://github.com/immich-app/immich) | `Google Fotos` | Backup de fotos com reconhecimento facial, mapas e pesquisa sem custos de nuvem. |
+| **inbox-zero** | [elie222/inbox-zero](https://github.com/elie222/inbox-zero) | `Superhuman` | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
 | **invoiceninja** | [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) | `SaaS Proprietário` | Plataforma completa de faturamento, controle de horas e cobrança de clientes, alternativa ao FreshBooks e QuickBooks. |
 | **iSponsorBlockTV** | [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) | `SaaS Proprietário` | Cliente SponsorBlock para pular anúncios e segmentos patrocinados do YouTube diretamente na Smart TV e Apple TV. |
 | **Jellyfin** | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | `Plex, Emby` | Servidor de streaming de mídia self-hosted 100% gratuito e open-source para organizar e transmitir filmes, séries e músicas para qualquer dispositivo. |
@@ -580,6 +602,7 @@
 | **Open SaaS** | [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | `SaaS Boilerplates pagos ($200+)` | Boilerplate full-stack 100% gratuito (React, NodeJS, Prisma, Stripe) com autenticação, pagamentos, tarefas em background e suporte nativo a agentes de IA. |
 | **OpenPanel** | [openpanel-dev/openpanel](https://github.com/openpanel-dev/openpanel) | `Mixpanel, Amplitude` | Plataforma self-hosted de analytics de produto e tráfego web moderna e focada em privacidade, alternativa direta ao Mixpanel e Amplitude. |
 | **OpenWA** | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | `Twilio / Z-API` | Gateway de API do WhatsApp gratuito, auto-hospedado e de código aberto para envio e recebimento de mensagens. |
+| **OpnForm** | [OpnForm/OpnForm](https://github.com/OpnForm/OpnForm) | `Typeform` | Beautiful Open-Source Form Builder |
 | **Paperless-ngx** | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | `` | Indexador e gerenciador de documentos físicos digitalizados com OCR automático e busca instantânea. |
 | **Pear Desktop** | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | `YouTube Music Desktop, Spotify` | Player desktop moderno para YouTube Music com bloqueador nativo de anúncios, suporte a temas, letras sincronizadas e plugins. |
 | **Pi.Alert** | [leiweibau/Pi.Alert](https://github.com/leiweibau/Pi.Alert) | `SaaS Proprietário` | Monitor de rede LAN/WiFi que alerta em tempo real sobre a conexão de dispositivos não autorizados. |
@@ -594,11 +617,13 @@
 | **Standard Notes** | [standardnotes/app](https://github.com/standardnotes/app) | `SaaS Proprietário` | Aplicativo de notas e arquivos seguro com criptografia de ponta a ponta (substituto open-source ao Evernote). |
 | **Stirling-PDF** | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | `Adobe Acrobat / iLovePDF` | Suíte web local completa para juntar, dividir, comprimir, converter e assinar PDFs. |
 | **strapi** | [strapi/strapi](https://github.com/strapi/strapi) | `SaaS Proprietário` | Headless CMS open-source líder, alternativa self-hosted a soluções pagas como Contentful e Sanity. |
+| **streambert** | [truelockmc/streambert](https://github.com/truelockmc/streambert) | `Stremio / Popcorn Time` | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking |
 | **Supabase** | [supabase/supabase](https://github.com/supabase/supabase) | `Firebase` | Plataforma de backend completa com PostgreSQL, autenticação, realtime e storage (alternativa ao Firebase). |
 | **Suwayomi-Server** | [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | `Apps pagos de leitura` | Servidor e cliente desktop multiplataforma para leitura de mangás e quadrinhos baseado na arquitetura Tachiyomi. |
 | **TREK** | [liketrek/TREK](https://github.com/liketrek/TREK) | `TripIt / Notion` | Planejador de viagens e roteiros auto-hospedado com mapas interativos, colaboração em tempo real e orçamentos. |
 | **Twenty** | [twentyhq/twenty](https://github.com/twentyhq/twenty) | `Salesforce / HubSpot` | CRM moderno de código aberto projetado para a era da IA, altamente customizável e auto-hospedado. |
 | **Umami** | [umami-software/umami](https://github.com/umami-software/umami) | `Google Analytics` | Analytics de sites simples, rápido, em conformidade com a LGPD e sem coletar dados invasivos. |
+| **univer** | [dream-num/univer](https://github.com/dream-num/univer) | `Google Sheets / Microsoft Excel SDK` | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
 | **Vaultwarden** | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | `1Password / LastPass` | Servidor alternativo em Rust compatível com todos os clientes oficiais do Bitwarden. |
 | **VERT** | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | `CloudConvert, iLovePDF` | Conversor universal de arquivos local-first em WebAssembly; converte documentos, imagens e áudio direto no navegador sem depender de nuvem. |
 | **Vikunja** | [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) | `SaaS Proprietário` | Gerenciador completo de tarefas, listas e projetos auto-hospedável com visão Kanban, Gantt e tabela (substituto ao Todoist). |
@@ -623,6 +648,7 @@
 | **BambooAI** | [pgalko/BambooAI](https://github.com/pgalko/BambooAI) | Workbench de análise de dados com IA transparente, mostrando passo a passo e reproduzibilidade. |
 | **check-if-email-exists** | [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Validador e verificador de existência de e-mails em Rust com backend HTTP, testando MX, SMTP e sintaxe sem enviar mensagens reais. |
 | **Claude Ads** | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | Skill para o Claude auditar contas de anúncios (Google, Meta, etc.), detectar desperdícios e sugerir melhorias. |
+| **claude-trading-skills** | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
 | **Fincept Terminal** | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Terminal financeiro desktop com dados de mercado, relatórios de pesquisa e alternativas ao Bloomberg. |
 | **FinRL** | [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) | Framework para treinamento de agentes de trading algorítmico usando aprendizado por reforço. |
 | **Founder Skill** | [Jakeschincariol/founder-skill](https://github.com/Jakeschincariol/founder-skill) | 11 skills para Claude testarem modelos de negócio antes do lançamento. |
