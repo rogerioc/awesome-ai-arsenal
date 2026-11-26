@@ -2,12 +2,12 @@
 
 # ⚡ Awesome AI & Open Source Arsenal
 
-> Uma curadoria definitiva com **497 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
+> Uma curadoria definitiva com **498 ferramentas e repositórios open-source de ponta** para IA, desenvolvimento, automação, cibersegurança e self-hosting.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/rogerioc/awesome-ai-arsenal?style=flat&logo=github&color=gold)](https://github.com/rogerioc/awesome-ai-arsenal/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/rogerioc/awesome-ai-arsenal?style=flat&logo=git&color=brightgreen)](https://github.com/rogerioc/awesome-ai-arsenal/commits/main)
-[![Arsenal](https://img.shields.io/badge/Arsenal-497%20Projetos-8A2BE2)](#-categorias)
+[![Arsenal](https://img.shields.io/badge/Arsenal-498%20Projetos-8A2BE2)](#-categorias)
 [![Status](https://img.shields.io/badge/Curadoria-100%25%20Auditada-blue?logo=checkmarx)](#-guia-rápido-por-tarefa-quick-lookup-for-agents--devs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -378,6 +378,7 @@
 | **angr** | [angr/angr](https://github.com/angr/angr) | A powerful and user-friendly binary analysis platform! |
 | **Anthropic Cybersecurity Skills** | [liptonj-eng/anthropic-cybersecurity-skills](https://github.com/liptonj-eng/anthropic-cybersecurity-skills) | Mais de 730 skills estruturadas de cibersegurança e pentest mapeadas pelo MITRE ATT&CK para agentes autônomos. |
 | **APTSimulator** | [NextronSystems/APTSimulator](https://github.com/NextronSystems/APTSimulator) | Conjunto de ferramentas para simulação de ataques APT e validação de defesas de endpoints. |
+| **ARTEX** | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0. |
 | **Atomic Red Team** | [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) | Biblioteca de testes automatizados e simulações de adversários de alta precisão mapeada diretamente na matriz MITRE ATT&CK para validação de segurança. |
 | **Awesome CloudSec Labs** | [iknowjason/Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) | Coletânea de laboratórios práticos e gratuitos de segurança em nuvem (AWS, GCP, Azure, CTFs). |
 | **Awesome Hacking** | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Coleção curada com os melhores repositórios, ferramentas e tutoriais de segurança ofensiva e defensiva. |
